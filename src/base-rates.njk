@@ -12,6 +12,7 @@ title: Base Rates
       <p class="br-median">{% if r.median_pct >= 0 %}+{% endif %}{{ r.median_pct }}%</p>
       <p class="br-sub">median {{ r.forward_window }} return &middot; positive {{ r.positive_pct }}% of the time &middot; {{ r.n }} episodes</p>
       <p class="signal-note">{{ r.takeaway }}</p>
+      <p class="signal-more"><a href="{{ ('/articles/base-rate-' ~ r.key ~ '/') | url }}">Read the full explainer &rarr;</a></p>
     </div>
     {% endfor %}
   </div>

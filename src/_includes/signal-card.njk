@@ -3,4 +3,5 @@
   <p class="signal-value">{{ s.value }}</p>
   <p><span class="signal-pill">{{ s.signal }}</span></p>
   <p class="signal-note">{{ s.note }}</p>
+  <p class="signal-more"><a href="{{ ('/articles/signals-' ~ s.id ~ '/') | url }}">What is this gauge? &rarr;</a></p>
 </div>

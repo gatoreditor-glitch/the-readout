@@ -371,3 +371,6 @@ h1, h2, h3 { font-family: Arial, Helvetica, sans-serif; letter-spacing: -0.02em;
 .secondary-list { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; margin-top: 28px; }
 .secondary-story { display: block; }
 .thumb-img { width: 100%; height: auto; aspect-ratio: 16/9; object-fit: cover; border-radius: 4px; display: block; margin-bottom: 0.6rem; }
+.signal-more { margin: 0.6rem 0 0; font-size: 13px; }
+.signal-more a { color: var(--accent, #1a73e8); text-decoration: none; }
+.signal-more a:hover { text-decoration: underline; }

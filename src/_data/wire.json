@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T13:20:52.099Z",
+  "updated": "2026-10-19T13:33:34.028Z",
   "order": [
     "News",
     "Finance"
@@ -25,7 +25,7 @@
         "datetime": "2026-10-19T12:54:03.000Z"
       },
       {
-        "headline": "'It's messed with my family too much' - inside the US opioid crisis",
+        "headline": "'It's messed with my family too much' - inside the US opioid drug crisis",
         "source": "BBC News",
         "url": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&at_campaign=rss",
         "datetime": "2026-10-19T12:12:02.000Z"
@@ -81,6 +81,12 @@
     ],
     "Finance": [
       {
+        "headline": "A Stealth Bear Market Has Just Made U.S. Stocks A Generational Buy",
+        "source": "SeekingAlpha",
+        "url": "https://finnhub.io/api/news?id=7726029d2855d7d80e3c5af436755fefb65b97ad5b3dffaf0216b80586dc651d",
+        "datetime": "2026-10-19T09:14:32.000Z"
+      },
+      {
         "headline": "Stocktwits Retail Therapy: Staples Defy Market Rout In Best Week Since February — Cracker Barrel, Signet And VF Steal The Show",
         "source": "Yahoo",
         "url": "https://finnhub.io/api/news?id=ff4044adc5302eeb2dfb63b6c9ad88db793e17fa5f57049b5576de9abfdadd35",
@@ -135,12 +141,6 @@
         "datetime": "2026-10-19T01:53:26.000Z"
       },
       {
-        "headline": "S&P 500 Earnings Yield Jumps Over 5%; Sold The EMXC",
-        "source": "SeekingAlpha",
-        "url": "https://finnhub.io/api/news?id=cd132f31dd62eb5442847ce69e60733cd6c5c88b972659b868d83a0abe09c30e",
-        "datetime": "2026-10-19T00:45:00.000Z"
-      },
-      {
         "headline": "Bonds Already Discounted A 3rd Hike, Stocks Have Followed, Stay Long",
         "source": "SeekingAlpha",
         "url": "https://finnhub.io/api/news?id=f639953768fbbd69bdc4fa4baffb34746c56adb4a5f8894e3effe2572f294a4b",
@@ -177,7 +177,7 @@
       "category": "News"
     },
     {
-      "headline": "'It's messed with my family too much' - inside the US opioid crisis",
+      "headline": "'It's messed with my family too much' - inside the US opioid drug crisis",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&at_campaign=rss",
       "datetime": "2026-10-19T12:12:02.000Z",

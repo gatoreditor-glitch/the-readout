@@ -5,6 +5,11 @@ export default function (eleventyConfig) {
   // Build timestamp for cache-busting static assets (changes every deploy).
   eleventyConfig.addGlobalData("buildTs", () => Date.now());
 
+  // Feature articles for the homepage: the articles collection minus evergreen reference explainers.
+  eleventyConfig.addCollection("features", (collectionApi) =>
+    collectionApi.getFilteredByTag("articles").filter((p) => !p.data.reference)
+  );
+
   // Project subpath on GitHub Pages (gatoreditor-glitch.github.io/the-readout).
   // Remove this if the site moves to a custom domain (also update README).
   const pathPrefix = "/the-readout/";
