@@ -3,6 +3,7 @@ title: "Base Rate: After a Single-Day Drop of 3% or More"
 date: 2026-10-19
 section: Base Rates
 author: Staff
+image: /assets/images/base-rate-bigdown.jpg
 excerpt: "Fifteen panic days since 2010. Median gain over the next three months: +5.4% -- but the edge is thinner than it looks."
 reference: true
 tags: articles

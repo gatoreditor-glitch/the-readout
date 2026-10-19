@@ -3,6 +3,7 @@ title: "Base Rate: After a New 52-Week High"
 date: 2026-10-19
 section: Base Rates
 author: Staff
+image: /assets/images/base-rate-newhigh.jpg
 excerpt: "Thirty-six new highs since 2010. Median gain a year later: +13.2%, positive 81% of the time. Highs are not a sell signal."
 reference: true
 tags: articles

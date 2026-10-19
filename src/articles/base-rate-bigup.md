@@ -3,6 +3,7 @@ title: "Base Rate: After a Single-Day Rally of 3% or More"
 date: 2026-10-19
 section: Base Rates
 author: Staff
+image: /assets/images/base-rate-bigup.jpg
 excerpt: "Nine explosive up days since 2010. Median gain over the next three months: +7.5% -- but check which regime you're in first."
 reference: true
 tags: articles

@@ -3,6 +3,7 @@ title: "Base Rate: After Three Straight Down Months"
 date: 2026-10-19
 section: Base Rates
 author: Staff
+image: /assets/images/base-rate-down3mo.jpg
 excerpt: "Rare and miserable -- only five episodes since 2010. Median rebound over the next six months: +20.8%, positive every time."
 reference: true
 tags: articles
