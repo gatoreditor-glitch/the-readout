@@ -5,6 +5,7 @@ layout: layouts/base.njk
   <p class="kicker">{{ section }}{% if sample %} <span class="sample-badge">Sample</span>{% endif %}</p>
   <h1 class="article-title">{{ title }}</h1>
   <p class="byline">By {{ author or "Staff" }} &middot; <time>{{ date | date("MMMM d, yyyy") }}</time></p>
+  {% if excerpt %}<p class="excerpt">{{ excerpt }}</p>{% endif %}
   {% if image %}
   <figure class="article-hero">
     <img src="{{ image | url }}" alt="{{ title }}">
@@ -16,7 +17,6 @@ layout: layouts/base.njk
     <audio controls preload="none" src="{{ audio | url }}"></audio>
   </div>
   {% endif %}
-  {% if excerpt %}<p class="excerpt">{{ excerpt }}</p>{% endif %}
   <div class="article-body">
     {# Prefix root-absolute asset paths in markdown content (the | url filter doesn't reach inside rendered markdown) #}
     {{ content | replace('src="/assets/', 'src="' ~ pathPrefix ~ 'assets/') | replace('href="/assets/', 'href="' ~ pathPrefix ~ 'assets/') | safe }}
