@@ -18,7 +18,12 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npx @11ty/eleventy
-      - run: python3 -m http.server 8080 --directory _site &
+      # Serve under /the-readout/ to match the pathPrefix used in production
+      - run: |
+          mkdir -p /tmp/serve/the-readout
+          cp -r _site/* /tmp/serve/the-readout/
+          nohup python3 -m http.server 8080 --directory /tmp/serve >/tmp/http.log 2>&1 &
+          sleep 2
       - name: Audit with Lighthouse
         uses: treosh/lighthouse-ci-action@v12
         with:
