@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if title %}{{ title }} — {% endif %}{{ site.name }}</title>
   <meta name="description" content="{{ excerpt or site.tagline }}">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | url }}?v={{ buildTs }}">
 </head>
 <body>
   <header class="topbar">

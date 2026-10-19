@@ -2,6 +2,9 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy("src/admin");
 
+  // Build timestamp for cache-busting static assets (changes every deploy).
+  eleventyConfig.addGlobalData("buildTs", () => Date.now());
+
   // Minimal date filter (Eleventy 3 removed the built-in one)
   const dateFmt = new Intl.DateTimeFormat("en-US", {
     month: "long",
