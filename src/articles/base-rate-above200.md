@@ -7,6 +7,7 @@ excerpt: "Eight reclaims since 2010 after 20+ days below. Median gain over the n
 reference: true
 tags: articles
 layout: layouts/article.njk
+image: /assets/images/base-rate-above200.jpg
 ---
 
 There's a moment in every market recovery when the debate ends. The S&P 500 has been living below its 200-day average for weeks -- sometimes months -- and then, one day, it closes back above it. The technicians call it the reclaim. Since 2010 it's happened eight times (counting only reclaims after at least 20 days below). A year later the market was higher 88% of the time, with a median gain of +14.9%.

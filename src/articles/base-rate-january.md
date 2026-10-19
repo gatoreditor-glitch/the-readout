@@ -7,6 +7,7 @@ excerpt: "Six down Januarys since 2010. The rest of the year was positive 83% of
 reference: true
 tags: articles
 layout: layouts/article.njk
+image: /assets/images/base-rate-january.jpg
 ---
 
 "As January goes, so goes the year." The January barometer is one of Wall Street's oldest sayings -- and since 2010, it's been wrong in the way that matters most. Six Januarys have finished down in that span. In five of the six, the market *still* finished the rest of the year higher. Median gain from February through December: +15.5%.

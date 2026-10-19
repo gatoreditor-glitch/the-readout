@@ -7,6 +7,7 @@ excerpt: "Thirty-seven streaks since 2010. Positive 84% of the time over the nex
 reference: true
 tags: articles
 layout: layouts/article.njk
+image: /assets/images/base-rate-streak5up.jpg
 ---
 
 Five straight up days feels euphoric -- every morning green, every dip bought, the market seemingly unable to fall. Contrarian instinct screams "overbought." Since 2010 there have been 37 such streaks. Over the next 21 trading days (about a month), the market was higher 84% of the time. But the median gain was just +2.0%.

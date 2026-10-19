@@ -7,6 +7,7 @@ excerpt: "Fifteen first breaks since 2010. Median gain over the next six months:
 reference: true
 tags: articles
 layout: layouts/article.njk
+image: /assets/images/base-rate-below200.jpg
 ---
 
 Technicians call it the line in the sand. When the S&P 500 closes below its 200-day moving average for the first time in a long stretch, the commentary turns funereal: the long-term trend is broken, the bull market is over, sell everything. Since 2010 it's happened fifteen times. Six months later the market was higher 87% of the time, with a median gain of +13.2%.
