@@ -1,0 +1,29 @@
+# Decap CMS config — free, git-based content editing at /admin/
+# 1. Set `repo` to your GitHub repo below.
+# 2. The GitHub backend needs OAuth. Easiest free paths:
+#    - Edit Markdown files directly in GitHub's web UI (no setup, always works), or
+#    - Deploy a tiny OAuth proxy (decap-cms oauth example) on a free host.
+backend:
+  name: github
+  repo: YOUR_GITHUB_USERNAME/news-blog-prototype
+  branch: main
+
+media_folder: "src/assets/images"
+public_folder: "/assets/images"
+
+collections:
+  - name: "articles"
+    label: "Articles"
+    folder: "src/articles"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - label: "Section"
+        name: "section"
+        widget: "select"
+        options: ["News", "Finance", "Data Brief"]
+      - { label: "Excerpt", name: "excerpt", widget: "text", required: false }
+      - { label: "Author", name: "author", widget: "string", required: false, default: "Staff" }
+      - { label: "Body", name: "body", widget: "markdown" }

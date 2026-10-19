@@ -8,12 +8,12 @@ layout: layouts/base.njk
   {% if audio %}
   <div class="audio-player">
     <p class="audio-label">Listen to this article</p>
-    <audio controls preload="none" src="{{ audio }}"></audio>
+    <audio controls preload="none" src="{{ audio | url }}"></audio>
   </div>
   {% endif %}
   {% if excerpt %}<p class="excerpt">{{ excerpt }}</p>{% endif %}
   <div class="article-body">
     {{ content | safe }}
   </div>
-  <p class="backlink"><a href="/">&larr; Back to top stories</a></p>
+  <p class="backlink"><a href="{{ '/' | url }}">&larr; Back to top stories</a></p>
 </article>

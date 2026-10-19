@@ -25,6 +25,9 @@ export default function (eleventyConfig) {
       input: "src",
       output: "_site",
     },
+    // Project subpath on GitHub Pages (gatoreditor-glitch.github.io/the-readout).
+    // Remove this if the site moves to a custom domain.
+    pathPrefix: "/the-readout/",
     markdownTemplateEngine: "njk",
   };
 }

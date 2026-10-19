@@ -42,20 +42,20 @@ title: Latest
 <section class="signals-teaser">
   <div class="section-head">
     <h2>System Signals</h2>
-    <a href="/signals/">Full dashboard &rarr;</a>
+    <a href="{{ '/signals/' | url }}">Full dashboard &rarr;</a>
   </div>
   <div class="signal-grid">
     {% for s in signals.signals %}
     {% include "signal-card.njk" %}
     {% endfor %}
   </div>
-  <p class="wire-note">Computed daily from market data. Updated {{ signals.updated | date("MMMM d, yyyy") }}. <a href="/signals/">Prototype methodology</a></p>
+  <p class="wire-note">Computed daily from market data. Updated {{ signals.updated | date("MMMM d, yyyy") }}. <a href="{{ '/signals/' | url }}">Prototype methodology</a></p>
 </section>
 
 <section class="signals-teaser">
   <div class="section-head">
     <h2>Base Rates</h2>
-    <a href="/base-rates/">Full database &rarr;</a>
+    <a href="{{ '/base-rates/' | url }}">Full database &rarr;</a>
   </div>
   <p class="wire-note">The historical odds for every market setup — what actually happened next, computed from 2010 to today.</p>
   <div class="signal-grid">
@@ -74,7 +74,7 @@ title: Latest
 <section class="wire-sections">
   <div class="section-head">
     <h2>The Wire</h2>
-    <a href="/wire/">Full wire &rarr;</a>
+    <a href="{{ '/wire/' | url }}">Full wire &rarr;</a>
   </div>
   {% for cat in wire.order %}
   {% if wire.groups[cat].length %}

@@ -5,13 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if title %}{{ title }} — {% endif %}{{ site.name }}</title>
   <meta name="description" content="{{ excerpt or site.tagline }}">
-  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | url }}">
 </head>
 <body>
   <header class="topbar">
     <div class="wrap topbar-inner">
       <div class="brand-row">
-        <a href="/" class="wordmark">{{ site.name }}<span class="dot">.</span></a>
+        <a href="{{ '/' | url }}" class="wordmark">{{ site.name }}<span class="dot">.</span></a>
         <span class="tagline">{{ site.tagline }}</span>
       </div>
       <div class="topbar-right">
@@ -22,13 +22,13 @@
     </div>
     <nav class="mainnav">
       <div class="wrap nav-inner">
-        <a href="/">Latest</a>
-        <a href="/signals/">Signals</a>
-        <a href="/base-rates/">Base Rates</a>
-        <a href="/radio/">Radio</a>
-        <a href="/wire/#news">News</a>
-        <a href="/wire/#finance">Finance</a>
-        <a href="/wire/">The Wire</a>
+        <a href="{{ '/' | url }}">Latest</a>
+        <a href="{{ '/signals/' | url }}">Signals</a>
+        <a href="{{ '/base-rates/' | url }}">Base Rates</a>
+        <a href="{{ '/radio/' | url }}">Radio</a>
+        <a href="{{ '/wire/#news' | url }}">News</a>
+        <a href="{{ '/wire/#finance' | url }}">Finance</a>
+        <a href="{{ '/wire/' | url }}">The Wire</a>
       </div>
     </nav>
   </header>

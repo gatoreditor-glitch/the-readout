@@ -12,7 +12,7 @@ layout: layouts/article.njk
 
 Consumer prices rose 3.7% year-over-year in September, the latest data show — up from 2.9% twelve months earlier and nearly double the Federal Reserve's 2% target.
 
-![CPI inflation, year-over-year](/assets/charts/cpi-yoy.png)
+![CPI inflation, year-over-year]({{ '/assets/charts/cpi-yoy.png' | url }})
 
 ## What the chart shows
 

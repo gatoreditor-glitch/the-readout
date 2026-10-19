@@ -13,7 +13,7 @@ title: Radio
       <h2 class="episode-title">{{ ep.title }}</h2>
       <p class="signal-note">{{ ep.desc }}</p>
     </div>
-    <audio controls preload="none" src="{{ ep.file }}" class="episode-audio"></audio>
+    <audio controls preload="none" src="{{ ep.file | url }}" class="episode-audio"></audio>
   </div>
   {% endfor %}
 
