@@ -3,6 +3,7 @@ title: "Realized Volatility: Measuring the Market's Pulse"
 date: 2026-10-19
 section: Signals
 author: Staff
+image: /assets/images/signals-volatility.jpg
 excerpt: "Twenty trading days of actual price movement, annualized -- why calm markets score as bullish and what the number can't warn you about."
 reference: true
 tags: articles

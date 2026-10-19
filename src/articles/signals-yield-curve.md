@@ -3,6 +3,7 @@ title: "The Yield Curve: The Bond Market's Recession Forecast"
 date: 2026-10-19
 section: Signals
 author: Staff
+image: /assets/images/signals-yield-curve.jpg
 excerpt: "Ten-year minus two-year Treasury yield -- the spread that has preceded nearly every modern recession, and the false alarms along the way."
 reference: true
 tags: articles

@@ -3,6 +3,7 @@ title: "Momentum: The Market's Three-Month Memory"
 date: 2026-10-19
 section: Signals
 author: Staff
+image: /assets/images/signals-momentum.jpg
 excerpt: "A quarter of price history, distilled to one number -- what 63 trading days of momentum actually tells you, and where it lies."
 reference: true
 tags: articles

@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-19T13:33:34.028Z",
+  "updated": "2026-10-19T13:49:59.784Z",
   "order": [
     "News",
     "Finance"
   ],
   "groups": {
     "News": [
+      {
+        "headline": "Apu returns to The Simpsons with new voice after race row",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cw33x6gzgdm0o?at_medium=RSS&at_campaign=rss",
+        "datetime": "2026-10-19T13:22:24.000Z"
+      },
       {
         "headline": "Reform MSP quits party to sit as independent",
         "source": "BBC News",
@@ -17,12 +23,6 @@
         "source": "BBC News",
         "url": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
         "datetime": "2026-10-19T13:01:50.000Z"
-      },
-      {
-        "headline": "Home sellers cut asking prices on 3,000 properties a day",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-19T12:54:03.000Z"
       },
       {
         "headline": "'It's messed with my family too much' - inside the US opioid drug crisis",
@@ -81,9 +81,15 @@
     ],
     "Finance": [
       {
+        "headline": "S&P 500 Falls As Investors Shift Forward-Looking Focus Back To Q4 2026",
+        "source": "SeekingAlpha",
+        "url": "https://finnhub.io/api/news?id=9838e8aaa955743d84ef1aa9eef626e7768326bdf6b13fe937be69655ee63096",
+        "datetime": "2026-10-19T09:22:00.000Z"
+      },
+      {
         "headline": "A Stealth Bear Market Has Just Made U.S. Stocks A Generational Buy",
         "source": "SeekingAlpha",
-        "url": "https://finnhub.io/api/news?id=7726029d2855d7d80e3c5af436755fefb65b97ad5b3dffaf0216b80586dc651d",
+        "url": "https://finnhub.io/api/news?id=0d5ac4e9c7d645a59f768f40ef491132264d02c5d156005c001f1d8ce5bd5279",
         "datetime": "2026-10-19T09:14:32.000Z"
       },
       {
@@ -145,16 +151,17 @@
         "source": "SeekingAlpha",
         "url": "https://finnhub.io/api/news?id=f639953768fbbd69bdc4fa4baffb34746c56adb4a5f8894e3effe2572f294a4b",
         "datetime": "2026-10-18T21:48:22.000Z"
-      },
-      {
-        "headline": "The Data Continues To Defy Sentiment",
-        "source": "SeekingAlpha",
-        "url": "https://finnhub.io/api/news?id=1a6d7990f8278fd891d105a5030a28bb3f03203040550392853b7f33eefc7a90",
-        "datetime": "2026-10-18T10:47:29.000Z"
       }
     ]
   },
   "latest": [
+    {
+      "headline": "Apu returns to The Simpsons with new voice after race row",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x6gzgdm0o?at_medium=RSS&at_campaign=rss",
+      "datetime": "2026-10-19T13:22:24.000Z",
+      "category": "News"
+    },
     {
       "headline": "Reform MSP quits party to sit as independent",
       "source": "BBC News",
@@ -167,13 +174,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
       "datetime": "2026-10-19T13:01:50.000Z",
-      "category": "News"
-    },
-    {
-      "headline": "Home sellers cut asking prices on 3,000 properties a day",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
-      "datetime": "2026-10-19T12:54:03.000Z",
       "category": "News"
     },
     {

@@ -3,6 +3,7 @@ title: "Trend Regime: What the 50-Day and 200-Day Averages Are Telling You"
 date: 2026-10-19
 section: Signals
 author: Staff
+image: /assets/images/signals-trend.jpg
 excerpt: "Price above both moving averages, below both, or caught in between -- the market's trend regime is the dashboard's first and simplest read."
 reference: true
 tags: articles
