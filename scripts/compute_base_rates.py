@@ -10,8 +10,9 @@ Methodology:
 """
 import json, os, subprocess, statistics, sys
 from datetime import datetime, date
+from pathlib import Path
 
-REPO = "/home/hatch/workspace/news-blog-prototype"
+REPO = Path(__file__).resolve().parent.parent
 
 def fetch():
     key = os.environ.get("TWELVEDATA_API_KEY")
@@ -177,7 +178,7 @@ def main():
                           "are skipped so each episode counts once. Only signals with a full "
                           "forward window are counted."),
                "setups": results}
-    path = f"{REPO}/src/_data/base_rates.json"
+    path = REPO / "src" / "_data" / "base_rates.json"
     with open(path, "w") as f:
         json.dump(payload, f, indent=2)
     print(f"wrote {path} with {len(results)} setups")
