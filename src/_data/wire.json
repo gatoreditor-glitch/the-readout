@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T01:48:56.260Z",
+  "updated": "2026-10-19T12:59:29.622Z",
   "order": [
     "News",
     "Finance"
@@ -7,208 +7,208 @@
   "groups": {
     "News": [
       {
-        "headline": "What does a White House press secretary do?",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/10/18/nx-s1-6006807/what-does-a-white-house-press-secretary-do",
-        "datetime": "2026-10-19T01:41:24.000Z"
-      },
-      {
-        "headline": "Burnham says youth employment and training crisis is a 'moral failure'",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-19T01:40:53.000Z"
-      },
-      {
-        "headline": "Chance of storms this week as Atlantic jet stream roars into life",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/weather/articles/crp3g7y9n5y7o?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-19T00:34:38.000Z"
-      },
-      {
-        "headline": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-19T00:28:44.000Z"
-      },
-      {
-        "headline": "People playing loud music on buses could face £100 fine",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-19T00:22:20.000Z"
-      },
-      {
-        "headline": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-19T00:06:25.000Z"
-      },
-      {
-        "headline": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-18T23:28:45.000Z"
-      },
-      {
-        "headline": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-18T23:20:15.000Z"
-      },
-      {
-        "headline": "Major fire at Canada military base leaves four dead, dozens injured ",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-18T23:06:09.000Z"
-      },
-      {
         "headline": "Home sellers cut asking prices on 3,000 properties a day",
         "source": "BBC News",
         "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-18T23:00:45.000Z"
+        "datetime": "2026-10-19T12:54:03.000Z"
       },
       {
-        "headline": "Macron calls for 'calm and order' after riots across France",
+        "headline": "'It's messed with my family too much' - inside the US opioid crisis",
         "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-18T20:33:21.000Z"
+        "url": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&at_campaign=rss",
+        "datetime": "2026-10-19T12:12:02.000Z"
       },
       {
-        "headline": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+        "headline": "What we know about apparent attack on Australian MP hit by car",
         "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-18T19:53:27.000Z"
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynk1g88kwo?at_medium=RSS&at_campaign=rss",
+        "datetime": "2026-10-19T11:59:26.000Z"
+      },
+      {
+        "headline": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
+        "datetime": "2026-10-19T11:55:47.000Z"
+      },
+      {
+        "headline": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
+        "datetime": "2026-10-19T11:38:43.000Z"
+      },
+      {
+        "headline": "Man accused of mass train stabbing admits wounding",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cvgdd2yevd3o?at_medium=RSS&at_campaign=rss",
+        "datetime": "2026-10-19T11:22:26.000Z"
+      },
+      {
+        "headline": "Reform MSP quits party to sit as independent",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
+        "datetime": "2026-10-19T11:22:06.000Z"
+      },
+      {
+        "headline": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
+        "datetime": "2026-10-19T11:15:43.000Z"
+      },
+      {
+        "headline": "Four arrested after police officer injured in shooting",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo?at_medium=RSS&at_campaign=rss",
+        "datetime": "2026-10-19T10:52:25.000Z"
+      },
+      {
+        "headline": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
+        "datetime": "2026-10-19T09:11:42.000Z"
+      },
+      {
+        "headline": "The real reason it's going to take a while to know who won in some midterm races",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
+        "datetime": "2026-10-19T09:00:00.000Z"
+      },
+      {
+        "headline": "A Kelvin wave raised sea levels on the West Coast. More are coming",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
+        "datetime": "2026-10-19T09:00:00.000Z"
       }
     ],
     "Finance": [
       {
-        "headline": "NextEra Energy (NEE) Has Bigger Growth Ambitions. Is Duke Energy (DUK) the Better Buy?",
+        "headline": "Stocktwits Retail Therapy: Staples Defy Market Rout In Best Week Since February — Cracker Barrel, Signet And VF Steal The Show",
         "source": "Yahoo",
-        "url": "https://finnhub.io/api/news?id=1614fe8dca34fd593a289189f4b4b686b78adf9abc40ccb2d70741d6672e6700",
-        "datetime": "2026-10-18T14:51:58.000Z"
+        "url": "https://finnhub.io/api/news?id=ff4044adc5302eeb2dfb63b6c9ad88db793e17fa5f57049b5576de9abfdadd35",
+        "datetime": "2026-10-19T07:49:30.000Z"
       },
       {
-        "headline": "Roper Technologies (ROP) vs. Danaher (DHR): Which Is the Better Long-Term Capital Allocator?",
+        "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
         "source": "Yahoo",
-        "url": "https://finnhub.io/api/news?id=791ca2cf93c7a2d3213304eef5d0a285107390a49ff4c69f39aa9ab8b82530fe",
-        "datetime": "2026-10-18T14:48:52.000Z"
+        "url": "https://finnhub.io/api/news?id=ca18ee60751a0ffa355286c1057def08edb7a8b81d71b42bf1665d8bd8a1e176",
+        "datetime": "2026-10-19T06:36:27.000Z"
       },
       {
-        "headline": "Waste Management (WM) Has a Long Runway. Is the Stock Worth Buying?",
-        "source": "Yahoo",
-        "url": "https://finnhub.io/api/news?id=eae5b04814303d6ff51bfd8ac90e1432d3deec7996b201e31ecb34ea5b1d7207",
-        "datetime": "2026-10-18T14:47:41.000Z"
+        "headline": "The Market Has 1999-Like Valuations, 2007-Like Credit Issues",
+        "source": "SeekingAlpha",
+        "url": "https://finnhub.io/api/news?id=edfad3c74cf986abb114d7043ae6db480a40853c3d916b6b0104e7f70941a6ee",
+        "datetime": "2026-10-19T06:27:42.000Z"
       },
       {
-        "headline": "Berkshire Hathaway (BRK.B) After Buffett: Can Its Capital Allocation Machine Keep Compounding?",
-        "source": "Yahoo",
-        "url": "https://finnhub.io/api/news?id=343a8280b97ee2beb305a37aaf5d5e4c490fd1015eb7a8ba8b6f108526c1474a",
-        "datetime": "2026-10-18T14:44:50.000Z"
+        "headline": "Alert: Sudden Weakness In Technology - Why It Matters",
+        "source": "SeekingAlpha",
+        "url": "https://finnhub.io/api/news?id=205120c6632239cbf798ab9f89b188e80806bc36f814c58f1cce629ee5a85025",
+        "datetime": "2026-10-19T05:32:03.000Z"
       },
       {
-        "headline": "Can Eli Lilly’s (LLY) Growth Machine Keep Delivering?",
+        "headline": "Dow Futures Rise Despite 'Black Monday' Calls: Market Commentator Says Selloff Worries Are 'Overdone'",
         "source": "Yahoo",
-        "url": "https://finnhub.io/api/news?id=c8c555cfa18a9b172a3dff941be3151a72a7d299e8f44d6a7513d30c7b202703",
-        "datetime": "2026-10-18T14:43:42.000Z"
+        "url": "https://finnhub.io/api/news?id=3af609fa9039e277aa853b4093052566055f0c9f6c7d8cf61b16c43f1155c7ae",
+        "datetime": "2026-10-19T04:46:14.000Z"
       },
       {
-        "headline": "Costco (COST) vs. Walmart (WMT): Which Retailing Giant Has a Wider Moat?",
+        "headline": "No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious",
         "source": "Yahoo",
-        "url": "https://finnhub.io/api/news?id=f62f319634271df24eb48ae2b11f1c81449727934b56e92b0bb9be8805596ebb",
-        "datetime": "2026-10-18T14:42:30.000Z"
+        "url": "https://finnhub.io/api/news?id=1a2e701a4b533b333f361b3a63e36f7840c645ceaa6ad5ec7dd99a649e6795af",
+        "datetime": "2026-10-19T04:07:56.000Z"
       },
       {
-        "headline": "TSMC’s (TSM) Record AI Demand Comes With a Growing Cost",
+        "headline": "Stocktwits Pharma Pulse: Moderna-Merck Cancer Vaccine Grabs Spotlight As Kidney-Cancer And MS Data Pour In",
         "source": "Yahoo",
-        "url": "https://finnhub.io/api/news?id=d3a673bd120eca17539235722717a0a614dfc3835a61048373fa264a220cde1c",
-        "datetime": "2026-10-18T14:41:04.000Z"
+        "url": "https://finnhub.io/api/news?id=76496f81480358631a4fdb5349265ccf7219ba4e626da0d1745c468f7b418512",
+        "datetime": "2026-10-19T03:15:13.000Z"
       },
       {
-        "headline": "Alphabet’s (GOOGL) Low P/E Is Misleading, but the AI Opportunity Is Real",
-        "source": "Yahoo",
-        "url": "https://finnhub.io/api/news?id=d5410d27a5c388affec84b6dc135d9690205e35718a016773b86c19991aa0743",
-        "datetime": "2026-10-18T14:39:08.000Z"
+        "headline": "Weekly Market Pulse: Reality Bites",
+        "source": "SeekingAlpha",
+        "url": "https://finnhub.io/api/news?id=a02a3b1553e88ac2154d3ea698c43c97449dc78581de65f33a65edba64f8d22f",
+        "datetime": "2026-10-19T03:14:00.000Z"
       },
       {
-        "headline": "Broadcom (AVGO) Went Nowhere for a Year. Analysts Think It Is Worth 50% More",
-        "source": "Yahoo",
-        "url": "https://finnhub.io/api/news?id=1532391aa5c0969c751fa1194019116d039c167e1aee3cf8d61c122e45fa5420",
-        "datetime": "2026-10-18T14:34:48.000Z"
+        "headline": "What Would Stop The AI Selloff",
+        "source": "SeekingAlpha",
+        "url": "https://finnhub.io/api/news?id=f81e56ca69a5fcfaacd77d3a9630d96359897268651205c32cb90015cce769d2",
+        "datetime": "2026-10-19T01:53:26.000Z"
       },
       {
-        "headline": "Taiwan Semiconductor’s (TSM) Profit Rose 69% Last Quarter. Is the Stock Still Cheap?",
-        "source": "Yahoo",
-        "url": "https://finnhub.io/api/news?id=95ffac3e554a60ea084b112a2ab80b6599dc625942d23a70c55c3cabc1479544",
-        "datetime": "2026-10-18T14:34:21.000Z"
+        "headline": "S&P 500 Earnings Yield Jumps Over 5%; Sold The EMXC",
+        "source": "SeekingAlpha",
+        "url": "https://finnhub.io/api/news?id=cd132f31dd62eb5442847ce69e60733cd6c5c88b972659b868d83a0abe09c30e",
+        "datetime": "2026-10-19T00:45:00.000Z"
+      },
+      {
+        "headline": "Bonds Already Discounted A 3rd Hike, Stocks Have Followed, Stay Long",
+        "source": "SeekingAlpha",
+        "url": "https://finnhub.io/api/news?id=f639953768fbbd69bdc4fa4baffb34746c56adb4a5f8894e3effe2572f294a4b",
+        "datetime": "2026-10-18T21:48:22.000Z"
       },
       {
         "headline": "The Data Continues To Defy Sentiment",
         "source": "SeekingAlpha",
         "url": "https://finnhub.io/api/news?id=1a6d7990f8278fd891d105a5030a28bb3f03203040550392853b7f33eefc7a90",
         "datetime": "2026-10-18T10:47:29.000Z"
-      },
-      {
-        "headline": "Friday's Market Volatility Spike May Have Gone Too Far",
-        "source": "SeekingAlpha",
-        "url": "https://finnhub.io/api/news?id=ac1ca86581d44341d770703aeafd4604c2f80c9c71690e1ebf0242ca35d2cc02",
-        "datetime": "2026-10-18T09:55:00.000Z"
       }
     ]
   },
   "latest": [
     {
-      "headline": "What does a White House press secretary do?",
+      "headline": "Home sellers cut asking prices on 3,000 properties a day",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+      "datetime": "2026-10-19T12:54:03.000Z",
+      "category": "News"
+    },
+    {
+      "headline": "'It's messed with my family too much' - inside the US opioid crisis",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&at_campaign=rss",
+      "datetime": "2026-10-19T12:12:02.000Z",
+      "category": "News"
+    },
+    {
+      "headline": "What we know about apparent attack on Australian MP hit by car",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynk1g88kwo?at_medium=RSS&at_campaign=rss",
+      "datetime": "2026-10-19T11:59:26.000Z",
+      "category": "News"
+    },
+    {
+      "headline": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
+      "datetime": "2026-10-19T11:55:47.000Z",
+      "category": "News"
+    },
+    {
+      "headline": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
       "source": "NPR",
-      "url": "https://www.npr.org/2026/10/18/nx-s1-6006807/what-does-a-white-house-press-secretary-do",
-      "datetime": "2026-10-19T01:41:24.000Z",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
+      "datetime": "2026-10-19T11:38:43.000Z",
       "category": "News"
     },
     {
-      "headline": "Burnham says youth employment and training crisis is a 'moral failure'",
+      "headline": "Man accused of mass train stabbing admits wounding",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
-      "datetime": "2026-10-19T01:40:53.000Z",
+      "url": "https://www.bbc.co.uk/news/articles/cvgdd2yevd3o?at_medium=RSS&at_campaign=rss",
+      "datetime": "2026-10-19T11:22:26.000Z",
       "category": "News"
     },
     {
-      "headline": "Chance of storms this week as Atlantic jet stream roars into life",
+      "headline": "Reform MSP quits party to sit as independent",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/weather/articles/crp3g7y9n5y7o?at_medium=RSS&at_campaign=rss",
-      "datetime": "2026-10-19T00:34:38.000Z",
+      "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
+      "datetime": "2026-10-19T11:22:06.000Z",
       "category": "News"
     },
     {
-      "headline": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss",
-      "datetime": "2026-10-19T00:28:44.000Z",
-      "category": "News"
-    },
-    {
-      "headline": "People playing loud music on buses could face £100 fine",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-      "datetime": "2026-10-19T00:22:20.000Z",
-      "category": "News"
-    },
-    {
-      "headline": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
-      "datetime": "2026-10-19T00:06:25.000Z",
-      "category": "News"
-    },
-    {
-      "headline": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-      "datetime": "2026-10-18T23:28:45.000Z",
-      "category": "News"
-    },
-    {
-      "headline": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "datetime": "2026-10-18T23:20:15.000Z",
+      "headline": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
+      "datetime": "2026-10-19T11:15:43.000Z",
       "category": "News"
     }
   ]
