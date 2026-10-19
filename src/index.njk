@@ -9,10 +9,10 @@ title: Latest
     {% set top = posts[0] %}
     <article class="lead-story">
       {% if top.data.image %}
-      <a href="{{ top.url }}"><img class="lead-img" src="{{ top.data.image | url }}" alt="{{ top.data.title }}"></a>
+      <a href="{{ top.url | url }}"><img class="lead-img" src="{{ top.data.image | url }}" alt="{{ top.data.title }}"></a>
       {% endif %}
       <p class="kicker">{{ top.data.section }}{% if top.data.sample %} <span class="sample-badge">Sample</span>{% endif %}</p>
-      <h2 class="lead-headline"><a href="{{ top.url }}">{{ top.data.title }}</a></h2>
+      <h2 class="lead-headline"><a href="{{ top.url | url }}">{{ top.data.title }}</a></h2>
       <p class="standfirst">{{ top.data.excerpt }}</p>
       <p class="byline">By {{ top.data.author or "Staff" }} &middot; <time>{{ top.date | date("MMMM d, yyyy") }}</time></p>
     </article>
@@ -21,10 +21,10 @@ title: Latest
       {% if not loop.first %}
       <article class="secondary-story">
         {% if post.data.image %}
-        <a href="{{ post.url }}"><img class="thumb-img" src="{{ post.data.image | url }}" alt="{{ post.data.title }}"></a>
+        <a href="{{ post.url | url }}"><img class="thumb-img" src="{{ post.data.image | url }}" alt="{{ post.data.title }}"></a>
         {% endif %}
         <p class="kicker">{{ post.data.section }}{% if post.data.sample %} <span class="sample-badge">Sample</span>{% endif %}</p>
-        <h3 class="secondary-headline"><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+        <h3 class="secondary-headline"><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>
         <p class="byline">{{ post.date | date("MMMM d, yyyy") }}</p>
       </article>
       {% endif %}
