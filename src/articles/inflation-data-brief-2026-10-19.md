@@ -39,5 +39,3 @@ That's exactly the problem. With growth steady and inflation grinding higher, th
 3. **Respect duration.** Rising inflation is the enemy of long bonds first. And when rate-cut expectations get repriced lower, richly valued equities -- trading around 20x trailing earnings -- tend to feel it next.
 
 One red gauge out of six doesn't make a bear market. But it's the gauge that decides whether the other five get any help if they turn.
-
-*Draft generated from FRED CPI data (CPIAUCSL, year-over-year) and the System Signals dashboard, Oct 19, 2026 -- chart: src/assets/charts/cpi-yoy.png -- review, edit, and publish at will.*

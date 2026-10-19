@@ -42,5 +42,3 @@ Analogies are warnings, not forecasts, and dismissing them outright would be laz
 3. **Don't trade the analogy.** Trade what the gauges say: mixed trend, calm volatility, steady labor at 4.2% unemployment, hot inflation. That's a market to be selective in -- not one to flee, and not one to chase.
 
 History rhymes, but it doesn't repeat on schedule. The gauges are how you tell the difference between a rhyme and a rerun.
-
-*Draft generated from the System Signals dashboard and the morning finance wire (SeekingAlpha via Finnhub), Oct 19, 2026 -- review, edit, and publish at will.*

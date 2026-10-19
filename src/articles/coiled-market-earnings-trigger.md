@@ -44,5 +44,3 @@ And remember what low volatility actually is: a description of conditions, not a
 3. **Keep new commitments modest.** This is a market to react to, not to front-run. Half-size new positions until the trend gauges agree with each other again.
 
 The spring is wound. This week may be what releases it -- or the market may just keep coiling. Either way, you'll be ready if you know what you're watching for.
-
-*Draft generated from the System Signals dashboard and the morning finance wire, Oct 19, 2026 -- review, edit, and publish at will.*
