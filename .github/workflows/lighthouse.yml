@@ -1,0 +1,31 @@
+# Lighthouse CI: audit performance, accessibility, and SEO on every push.
+# Reports upload as run artifacts; add a budget.json later to fail on regressions.
+name: Lighthouse
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  lighthouse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npx @11ty/eleventy
+      - run: python3 -m http.server 8080 --directory _site &
+      - name: Audit with Lighthouse
+        uses: treosh/lighthouse-ci-action@v12
+        with:
+          urls: |
+            http://localhost:8080/the-readout/
+            http://localhost:8080/the-readout/signals/
+            http://localhost:8080/the-readout/base-rates/
+            http://localhost:8080/the-readout/radio/
+          uploadArtifacts: true
+          temporaryPublicStorage: true
