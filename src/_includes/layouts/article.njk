@@ -5,6 +5,11 @@ layout: layouts/base.njk
   <p class="kicker">{{ section }}{% if sample %} <span class="sample-badge">Sample</span>{% endif %}</p>
   <h1 class="article-title">{{ title }}</h1>
   <p class="byline">By {{ author or "Staff" }} &middot; <time>{{ date | date("MMMM d, yyyy") }}</time></p>
+  {% if image %}
+  <figure class="article-hero">
+    <img src="{{ image | url }}" alt="{{ title }}">
+  </figure>
+  {% endif %}
   {% if audio %}
   <div class="audio-player">
     <p class="audio-label">Listen to this article</p>

@@ -3,6 +3,7 @@ title: "What Actually Moves Markets on Fed Decision Days"
 date: 2026-10-16
 section: Finance
 author: Staff
+image: /assets/images/fed-building.jpg
 excerpt: "It's rarely the rate decision itself. Here's what traders watch in the statement, the dot plot, and the press conference."
 sample: true
 tags: articles

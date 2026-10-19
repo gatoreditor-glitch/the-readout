@@ -1,11 +1,23 @@
 {
-  "updated": "2026-10-19T01:20:05.501Z",
+  "updated": "2026-10-19T01:48:56.260Z",
   "order": [
     "News",
     "Finance"
   ],
   "groups": {
     "News": [
+      {
+        "headline": "What does a White House press secretary do?",
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/10/18/nx-s1-6006807/what-does-a-white-house-press-secretary-do",
+        "datetime": "2026-10-19T01:41:24.000Z"
+      },
+      {
+        "headline": "Burnham says youth employment and training crisis is a 'moral failure'",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
+        "datetime": "2026-10-19T01:40:53.000Z"
+      },
       {
         "headline": "Chance of storms this week as Atlantic jet stream roars into life",
         "source": "BBC News",
@@ -65,18 +77,6 @@
         "source": "BBC News",
         "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
         "datetime": "2026-10-18T19:53:27.000Z"
-      },
-      {
-        "headline": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
-        "datetime": "2026-10-18T18:38:49.000Z"
-      },
-      {
-        "headline": "Noah Adams, longtime host of NPR's All Things Considered, has died",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died",
-        "datetime": "2026-10-18T16:30:00.000Z"
       }
     ],
     "Finance": [
@@ -156,6 +156,20 @@
   },
   "latest": [
     {
+      "headline": "What does a White House press secretary do?",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/18/nx-s1-6006807/what-does-a-white-house-press-secretary-do",
+      "datetime": "2026-10-19T01:41:24.000Z",
+      "category": "News"
+    },
+    {
+      "headline": "Burnham says youth employment and training crisis is a 'moral failure'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
+      "datetime": "2026-10-19T01:40:53.000Z",
+      "category": "News"
+    },
+    {
       "headline": "Chance of storms this week as Atlantic jet stream roars into life",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/weather/articles/crp3g7y9n5y7o?at_medium=RSS&at_campaign=rss",
@@ -195,20 +209,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
       "datetime": "2026-10-18T23:20:15.000Z",
-      "category": "News"
-    },
-    {
-      "headline": "Major fire at Canada military base leaves four dead, dozens injured ",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-      "datetime": "2026-10-18T23:06:09.000Z",
-      "category": "News"
-    },
-    {
-      "headline": "Home sellers cut asking prices on 3,000 properties a day",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
-      "datetime": "2026-10-18T23:00:45.000Z",
       "category": "News"
     }
   ]

@@ -3,6 +3,7 @@ title: "Why Headline Inflation and Your Grocery Bill Disagree"
 date: 2026-10-14
 section: News
 author: Staff
+image: /assets/images/grocery-aisle.jpg
 excerpt: "Inflation is cooling on paper while checkout totals stay painful. Both can be true — here's the math."
 sample: true
 tags: articles

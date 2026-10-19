@@ -361,3 +361,10 @@ h1, h2, h3 { font-family: Arial, Helvetica, sans-serif; letter-spacing: -0.02em;
 }
 .audio-label { font-size: 13px; text-transform: uppercase; letter-spacing: 0.06em; color: #9a9a9a; margin: 0 0 8px; }
 .audio-player audio { width: 100%; }
+
+/* Article images */
+.article-hero { margin: 1.25rem 0 0; }
+.article-hero img { width: 100%; height: auto; border-radius: 6px; display: block; }
+.lead-img { width: 100%; height: auto; border-radius: 6px; display: block; margin-bottom: 0.75rem; }
+.secondary-story { display: grid; grid-template-columns: 120px 1fr; gap: 0.75rem; align-items: start; }
+.thumb-img { width: 120px; height: 80px; object-fit: cover; border-radius: 4px; display: block; grid-row: span 3; }

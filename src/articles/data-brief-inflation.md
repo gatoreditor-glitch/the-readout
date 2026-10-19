@@ -3,6 +3,7 @@ title: "Data Brief: Inflation Is Drifting the Wrong Way"
 date: 2026-10-18
 section: Data Brief
 author: Staff
+image: /assets/images/price-labels.jpg
 excerpt: "CPI inflation hit 3.7% in September, up from 2.9% a year ago. The chart shows a slow, steady climb — the opposite of what the Fed wants to see."
 audio: /assets/audio/data-brief-inflation-narration.mp3
 sample: true
