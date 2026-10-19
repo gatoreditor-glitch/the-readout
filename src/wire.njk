@@ -1,0 +1,21 @@
+---
+layout: layouts/base.njk
+title: The Wire
+---
+<section class="wire-page">
+  <h1 class="page-title">The Wire</h1>
+  <p class="wire-note">News and finance headlines, refreshed automatically on a schedule. Headlines belong to their publishers — click through to read the full story. Updated {{ wire.updated | date("MMMM d, yyyy 'at' h:mm a") }}.</p>
+  {% for cat in wire.order %}
+  {% if wire.groups[cat].length %}
+  <h2 class="wire-cat" id="{{ cat | lower }}">{{ cat }}</h2>
+  <ul class="wire-list full">
+    {% for item in wire.groups[cat] %}
+    <li>
+      <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.headline }}</a>
+      <span class="wire-meta">{{ item.source }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+  {% endfor %}
+</section>

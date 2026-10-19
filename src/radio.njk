@@ -1,0 +1,22 @@
+---
+layout: layouts/base.njk
+title: Radio
+---
+<section class="signals-page">
+  <h1 class="page-title">The Readout Radio</h1>
+  <p class="wire-note">{{ radio.tagline }} New briefings land here as they're recorded — AI-narrated for now, and Matt's own voice whenever he records one.</p>
+
+  {% for ep in radio.episodes %}
+  <div class="episode-card {% if loop.first %}episode-featured{% endif %}">
+    <div class="episode-info">
+      <p class="signal-label">{{ ep.date | date("MMMM d, yyyy") }} &middot; {{ ep.duration }}</p>
+      <h2 class="episode-title">{{ ep.title }}</h2>
+      <p class="signal-note">{{ ep.desc }}</p>
+    </div>
+    <audio controls preload="none" src="{{ ep.file }}" class="episode-audio"></audio>
+  </div>
+  {% endfor %}
+
+  <h2 class="method-head">About the station</h2>
+  <p class="wire-note">The Readout Radio is an on-demand station, not a live stream: short briefings you can play anytime. Episodes are narrated by synthetic voice today; send a recording and it plays in your own voice instead. To add an episode, drop an MP3 in <code>src/assets/audio/</code> and list it in <code>src/_data/radio.json</code>.</p>
+</section>

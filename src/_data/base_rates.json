@@ -1,0 +1,99 @@
+{
+  "computed_at": "2026-10-18T20:59:04",
+  "data_from": "2010-01-04",
+  "data_to": "2026-10-16",
+  "universe": "SPY daily closes (dividends excluded)",
+  "method": "Signals clustered: after a signal fires, the next 63 trading days are skipped so each episode counts once. Only signals with a full forward window are counted.",
+  "setups": [
+    {
+      "key": "drawdown10",
+      "title": "Market falls 10% from its 52-week high",
+      "takeaway": "The classic correction. Buying fear has the best base rate in the database.",
+      "forward_window": "12-month",
+      "n": 15,
+      "median_pct": 15.6,
+      "positive_pct": 93
+    },
+    {
+      "key": "drawdown20",
+      "title": "Market falls 20% from its 52-week high",
+      "takeaway": "Bear-market territory. Deep drawdowns have historically been the best buying opportunities.",
+      "forward_window": "12-month",
+      "n": 5,
+      "median_pct": 24.2,
+      "positive_pct": 100
+    },
+    {
+      "key": "newhigh",
+      "title": "New 52-week high",
+      "takeaway": "Strength begets strength more often than the 'buy low' crowd admits.",
+      "forward_window": "12-month",
+      "n": 36,
+      "median_pct": 13.2,
+      "positive_pct": 81
+    },
+    {
+      "key": "down3mo",
+      "title": "Three straight down months",
+      "takeaway": "Rare and miserable \u2014 and historically a launchpad, not a trapdoor.",
+      "forward_window": "126-day",
+      "n": 5,
+      "median_pct": 20.8,
+      "positive_pct": 100
+    },
+    {
+      "key": "bigdown",
+      "title": "Single-day drop of 3% or more",
+      "takeaway": "Panic days tend to get bought within a quarter.",
+      "forward_window": "63-day",
+      "n": 15,
+      "median_pct": 5.4,
+      "positive_pct": 67
+    },
+    {
+      "key": "bigup",
+      "title": "Single-day rally of 3% or more",
+      "takeaway": "Explosive up days usually mark panic bottoms, not tops.",
+      "forward_window": "63-day",
+      "n": 9,
+      "median_pct": 7.5,
+      "positive_pct": 67
+    },
+    {
+      "key": "below200",
+      "title": "Closes below the 200-day average (first break)",
+      "takeaway": "Counterintuitive: since 2010, losing the trend line has usually marked fear worth buying, not the start of something worse.",
+      "forward_window": "126-day",
+      "n": 15,
+      "median_pct": 13.2,
+      "positive_pct": 87
+    },
+    {
+      "key": "above200",
+      "title": "Reclaims the 200-day average after 20+ days below",
+      "takeaway": "Getting the trend back has been a reliable all-clear.",
+      "forward_window": "12-month",
+      "n": 8,
+      "median_pct": 14.9,
+      "positive_pct": 88
+    },
+    {
+      "key": "streak5up",
+      "title": "Five straight up days",
+      "takeaway": "Short-term overbought \u2014 the market usually digests, rarely collapses.",
+      "forward_window": "21-day",
+      "n": 37,
+      "median_pct": 2.0,
+      "positive_pct": 84
+    },
+    {
+      "key": "january",
+      "title": "January finishes down (January barometer)",
+      "takeaway": "The old saying has failed lately: since 2010, down Januarys were bought more often than not.",
+      "forward_window": "12-month",
+      "n": 6,
+      "median_pct": 15.5,
+      "positive_pct": 83
+    }
+  ]
+}

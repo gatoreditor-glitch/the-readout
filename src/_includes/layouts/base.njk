@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if title %}{{ title }} — {% endif %}{{ site.name }}</title>
+  <meta name="description" content="{{ excerpt or site.tagline }}">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <div class="brand-row">
+        <a href="/" class="wordmark">{{ site.name }}<span class="dot">.</span></a>
+        <span class="tagline">{{ site.tagline }}</span>
+      </div>
+      <div class="topbar-right">
+        <span id="dateline"></span>
+        <a href="#">Sign In</a>
+        <a href="#" class="subscribe-btn">Subscribe</a>
+      </div>
+    </div>
+    <nav class="mainnav">
+      <div class="wrap nav-inner">
+        <a href="/">Latest</a>
+        <a href="/signals/">Signals</a>
+        <a href="/base-rates/">Base Rates</a>
+        <a href="/radio/">Radio</a>
+        <a href="/wire/#news">News</a>
+        <a href="/wire/#finance">Finance</a>
+        <a href="/wire/">The Wire</a>
+      </div>
+    </nav>
+  </header>
+
+  {% if markets.items %}
+  <div class="markets-bar">
+    <div class="wrap markets-inner">
+      {% for m in markets.items %}
+      <span class="mkt"><span class="mkt-label">{{ m.label }}</span><span class="mkt-price">{{ m.price | round(2) }}</span><span class="mkt-chg {% if m.change >= 0 %}up{% else %}down{% endif %}">{% if m.change >= 0 %}▲{% else %}▼{% endif %} {{ m.pct | round(2) }}%</span></span>
+      {% endfor %}
+      <span class="mkt-note">Delayed quotes</span>
+    </div>
+  </div>
+  {% endif %}
+
+  <main class="content wrap">
+    {{ content | safe }}
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <p><strong>{{ site.name }}</strong> — a $0 static-site prototype. Sample content; wire headlines belong to their publishers. Market figures are ETF proxies, delayed.</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById('dateline').textContent =
+      new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+  </script>
+</body>
+</html>

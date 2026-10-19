@@ -1,0 +1,95 @@
+---
+layout: layouts/base.njk
+title: Latest
+---
+{% set posts = collections.articles | reverse %}
+
+<div class="front-top">
+  <div class="lead-col">
+    {% set top = posts[0] %}
+    <article class="lead-story">
+      <p class="kicker">{{ top.data.section }}{% if top.data.sample %} <span class="sample-badge">Sample</span>{% endif %}</p>
+      <h2 class="lead-headline"><a href="{{ top.url }}">{{ top.data.title }}</a></h2>
+      <p class="standfirst">{{ top.data.excerpt }}</p>
+      <p class="byline">By {{ top.data.author or "Staff" }} &middot; <time>{{ top.date | date("MMMM d, yyyy") }}</time></p>
+    </article>
+    <div class="secondary-list">
+      {% for post in posts %}
+      {% if not loop.first %}
+      <article class="secondary-story">
+        <p class="kicker">{{ post.data.section }}{% if post.data.sample %} <span class="sample-badge">Sample</span>{% endif %}</p>
+        <h3 class="secondary-headline"><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+        <p class="byline">{{ post.date | date("MMMM d, yyyy") }}</p>
+      </article>
+      {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+  <aside class="rail">
+    <h3 class="rail-head"><span class="live">Live</span>Latest</h3>
+    <ul class="rail-list">
+      {% for item in wire.latest %}
+      <li>
+        <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.headline }}</a>
+        <span class="wire-meta">{{ item.source }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </aside>
+</div>
+
+<section class="signals-teaser">
+  <div class="section-head">
+    <h2>System Signals</h2>
+    <a href="/signals/">Full dashboard &rarr;</a>
+  </div>
+  <div class="signal-grid">
+    {% for s in signals.signals %}
+    {% include "signal-card.njk" %}
+    {% endfor %}
+  </div>
+  <p class="wire-note">Computed daily from market data. Updated {{ signals.updated | date("MMMM d, yyyy") }}. <a href="/signals/">Prototype methodology</a></p>
+</section>
+
+<section class="signals-teaser">
+  <div class="section-head">
+    <h2>Base Rates</h2>
+    <a href="/base-rates/">Full database &rarr;</a>
+  </div>
+  <p class="wire-note">The historical odds for every market setup — what actually happened next, computed from 2010 to today.</p>
+  <div class="signal-grid">
+    {% for r in base_rates.setups %}
+    {% if loop.index <= 4 %}
+    <div class="signal-card {% if r.median_pct >= 0 %}sig-bullish{% else %}sig-bearish{% endif %}">
+      <p class="signal-label">{{ r.title }}</p>
+      <p class="br-median">{% if r.median_pct >= 0 %}+{% endif %}{{ r.median_pct }}%</p>
+      <p class="br-sub">median {{ r.forward_window }} return &middot; positive {{ r.positive_pct }}%</p>
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+</section>
+
+<section class="wire-sections">
+  <div class="section-head">
+    <h2>The Wire</h2>
+    <a href="/wire/">Full wire &rarr;</a>
+  </div>
+  {% for cat in wire.order %}
+  {% if wire.groups[cat].length %}
+  <h3 class="wire-cat">{{ cat }}</h3>
+  <ul class="wire-list">
+    {% for item in wire.groups[cat] %}
+    {% if loop.index <= 4 %}
+    <li>
+      <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.headline }}</a>
+      <span class="wire-meta">{{ item.source }}</span>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+  {% endif %}
+  {% endfor %}
+  <p class="wire-note">Headlines refresh automatically on a schedule. Updated {{ wire.updated | date("MMMM d, yyyy") }}.</p>
+</section>

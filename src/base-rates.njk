@@ -1,0 +1,27 @@
+---
+layout: layouts/base.njk
+title: Base Rates
+---
+<section class="signals-page">
+  <h1 class="page-title">Base Rates</h1>
+  <p class="wire-note">The historical odds for every market setup that scares or excites people — computed from {{ base_rates.data_from }} to {{ base_rates.data_to }}, {{ base_rates.universe }}. Recomputed {{ base_rates.computed_at | date("MMMM d, yyyy") }}.</p>
+  <div class="signal-grid">
+    {% for r in base_rates.setups %}
+    <div class="signal-card {% if r.median_pct >= 0 %}sig-bullish{% else %}sig-bearish{% endif %}">
+      <p class="signal-label">{{ r.title }}</p>
+      <p class="br-median">{% if r.median_pct >= 0 %}+{% endif %}{{ r.median_pct }}%</p>
+      <p class="br-sub">median {{ r.forward_window }} return &middot; positive {{ r.positive_pct }}% of the time &middot; {{ r.n }} episodes</p>
+      <p class="signal-note">{{ r.takeaway }}</p>
+    </div>
+    {% endfor %}
+  </div>
+
+  <h2 class="method-head">Methodology</h2>
+  <ul class="method-list">
+    <li><strong>Universe</strong> — {{ base_rates.universe }}, {{ base_rates.data_from }} to {{ base_rates.data_to }}.</li>
+    <li><strong>De-duplication</strong> — {{ base_rates.method }}</li>
+    <li><strong>Reading the cards</strong> — the big number is the <em>median</em> forward return after the setup fired, not the average; medians aren't dragged around by outliers. "Positive % of the time" is the hit rate.</li>
+    <li><strong>What this is not</strong> — base rates are starting points, not predictions. Small samples (n under ~10) are suggestive, not conclusive. Past odds describe the past.</li>
+  </ul>
+  <p class="wire-note">Source: Twelve Data (daily bars). Computed at build time; refresh with <code>npm run base-rates</code>.</p>
+</section>

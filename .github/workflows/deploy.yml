@@ -1,0 +1,60 @@
+name: Build and deploy
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Refresh the Market Wire + rebuild every 6 hours — free on GitHub Actions
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install matplotlib
+      # Refresh all data feeds, then build. Each feed reads its API key from
+      # repo secrets (Settings → Secrets → Actions); when a key is missing the
+      # script falls back to the committed sample data and the build still
+      # succeeds. Secrets needed for fully live data:
+      #   FINNHUB_API_KEY  (wire finance headlines, markets strip)
+      #   MASSIVE_API_KEY  (signals price action — your Polygon/Massive key)
+      #   FRED_API_KEY     (signals macro gauges, data-brief charts)
+      #   TWELVEDATA_API_KEY (base-rates database)
+      - run: npm run build
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          MASSIVE_API_KEY: ${{ secrets.MASSIVE_API_KEY }}
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          TWELVEDATA_API_KEY: ${{ secrets.TWELVEDATA_API_KEY }}
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
