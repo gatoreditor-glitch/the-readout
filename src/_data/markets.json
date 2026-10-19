@@ -1,40 +1,40 @@
 {
-  "updated": "2026-10-19T14:04:43.085Z",
+  "updated": "2026-10-19T14:57:27.455Z",
   "items": [
     {
       "label": "Dow Jones",
       "symbol": "DIA",
-      "price": 518.5,
-      "change": -0.6,
-      "pct": -0.1156
+      "price": 518.69,
+      "change": -0.41,
+      "pct": -0.079
     },
     {
       "label": "S&P 500",
       "symbol": "SPY",
-      "price": 766.01,
-      "change": 2.76,
-      "pct": 0.3616
+      "price": 768.01,
+      "change": 4.76,
+      "pct": 0.6236
     },
     {
       "label": "Nasdaq 100",
       "symbol": "QQQ",
-      "price": 716.88,
-      "change": 7.08,
-      "pct": 0.9975
+      "price": 721.36,
+      "change": 11.56,
+      "pct": 1.6286
     },
     {
       "label": "Gold",
       "symbol": "GLD",
-      "price": 380.06,
-      "change": -1.95,
-      "pct": -0.5105
+      "price": 380.09,
+      "change": -1.92,
+      "pct": -0.5026
     },
     {
       "label": "Crude Oil",
       "symbol": "USO",
-      "price": 159.53,
-      "change": -2.23,
-      "pct": -1.3786
+      "price": 159.81,
+      "change": -1.95,
+      "pct": -1.2055
     }
   ]
 }

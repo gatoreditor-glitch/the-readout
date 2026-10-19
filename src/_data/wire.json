@@ -1,75 +1,75 @@
 {
-  "updated": "2026-10-19T14:04:39.998Z",
+  "updated": "2026-10-19T14:57:24.357Z",
   "order": [
     "Finance"
   ],
   "groups": {
     "Finance": [
       {
-        "headline": "S&P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings",
+        "headline": "Intel, Datadog among market cap stock movers on Monday",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-ai-stocks-rebound-ahead-of-major-earnings-4957719",
-        "datetime": "2026-10-19T17:36:27.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/intel-datadog-among-market-cap-stock-movers-on-monday-93CH-4957960",
+        "datetime": "2026-10-19T18:36:14.000Z"
       },
       {
-        "headline": "European stocks tumble on political turmoil in France",
+        "headline": "Why is Micron Technology stock rallying today?",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/european-stocks-start-week-on-dour-note-on-french-civil-unrest-4956419",
-        "datetime": "2026-10-19T17:35:19.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-rallying-today-93CH-4957951",
+        "datetime": "2026-10-19T18:31:34.000Z"
       },
       {
-        "headline": "Xanadu Quantum stock rises on DARPA contract approval",
+        "headline": "US Supreme Court rejects music labels’ challenge to copyright termination ruling",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/xanadu-quantum-stock-rises-on-darpa-contract-approval-4957712",
-        "datetime": "2026-10-19T17:34:27.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/us-supreme-court-rejects-music-labels-challenge-to-copyright-termination-ruling-4957948",
+        "datetime": "2026-10-19T18:30:23.000Z"
       },
       {
-        "headline": "S&P 500, Nasdaq open higher, rebounding after posting their worst week since June",
+        "headline": "Why is Tesla stock climbing today?",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-climb-as-investors-return-to-ai-trade-after-selloff-4956195",
-        "datetime": "2026-10-19T17:34:24.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/why-is-tesla-stock-climbing-today-93CH-4957945",
+        "datetime": "2026-10-19T18:27:28.000Z"
       },
       {
         "headline": "Trump to create new NIH division, task force for women’s health",
         "source": "Investing.com",
         "url": "https://www.investing.com/news/stock-market-news/trump-to-create-new-nih-division-task-force-for-womens-health-4957691",
-        "datetime": "2026-10-19T17:30:27.000Z"
+        "datetime": "2026-10-19T18:24:37.000Z"
       },
       {
-        "headline": "EyePoint crashes as pivotal wet AMD trial fails, prompting 53% workforce cut",
+        "headline": "Why is Space Exploration Technologies stock climbing today?",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/eyepoint-crashes-as-pivotal-wet-amd-trial-fails-prompting-53-workforce-cut-4957677",
-        "datetime": "2026-10-19T17:28:49.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-climbing-today-93CH-4957938",
+        "datetime": "2026-10-19T18:22:33.000Z"
       },
       {
-        "headline": "Silence Therapeutics stock soars 125% on Merck acquisition",
+        "headline": "Nvidia wins CPU business from Modal, previously exclusive to AMD and Intel",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/silence-therapeutics-stock-soars-125-on-merck-acquisition-4957663",
-        "datetime": "2026-10-19T17:26:23.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/nvidia-wins-cpu-business-from-modal-previously-exclusive-to-amd-and-intel-4957937",
+        "datetime": "2026-10-19T18:21:41.000Z"
       },
       {
-        "headline": "France wants curfews in some areas after weekend of riots",
+        "headline": "Why is Palantir Technologies stock rallying today?",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/as-france-reels-from-violence-macron-points-to-security-failings-4956666",
-        "datetime": "2026-10-19T17:24:52.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/why-is-palantir-technologies-stock-rallying-today-93CH-4957930",
+        "datetime": "2026-10-19T18:19:50.000Z"
       },
       {
-        "headline": "Apple stock staged a rally to $5T \"that no one liked\": Melius",
+        "headline": "Microsoft pulls out of UK Nscale data centre deal over power delay",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/apple-stock-staged-a-rally-to-5t-that-no-one-liked-melius-4957648",
-        "datetime": "2026-10-19T17:21:17.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/microsoft-pulls-out-of-uk-nscale-data-centre-deal-over-power-delay-4957808",
+        "datetime": "2026-10-19T18:19:00.000Z"
       },
       {
-        "headline": "Veradermics stock surges as hair loss drug meets Phase 3 goals",
+        "headline": "Nvidia wins fast-growing AI startup Modal for new central processors",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/veradermics-stock-surges-as-hair-loss-drug-meets-phase-3-goals-4957642",
-        "datetime": "2026-10-19T17:20:28.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/nvidia-wins-fastgrowing-ai-startup-modal-for-new-central-processors-4957898",
+        "datetime": "2026-10-19T18:18:45.000Z"
       },
       {
         "headline": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
-        "datetime": "2026-10-19T13:50:32.000Z"
+        "datetime": "2026-10-19T14:20:08.000Z"
       },
       {
         "headline": "NYSE becomes latest exchange to extend options hours as appetite for around-the-clock trading grows",
@@ -81,52 +81,52 @@
   },
   "latest": [
     {
-      "headline": "S&P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings",
+      "headline": "Intel, Datadog among market cap stock movers on Monday",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-ai-stocks-rebound-ahead-of-major-earnings-4957719",
-      "datetime": "2026-10-19T17:36:27.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/intel-datadog-among-market-cap-stock-movers-on-monday-93CH-4957960",
+      "datetime": "2026-10-19T18:36:14.000Z"
     },
     {
-      "headline": "European stocks tumble on political turmoil in France",
+      "headline": "Why is Micron Technology stock rallying today?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/european-stocks-start-week-on-dour-note-on-french-civil-unrest-4956419",
-      "datetime": "2026-10-19T17:35:19.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/why-is-micron-technology-stock-rallying-today-93CH-4957951",
+      "datetime": "2026-10-19T18:31:34.000Z"
     },
     {
-      "headline": "Xanadu Quantum stock rises on DARPA contract approval",
+      "headline": "US Supreme Court rejects music labels’ challenge to copyright termination ruling",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/xanadu-quantum-stock-rises-on-darpa-contract-approval-4957712",
-      "datetime": "2026-10-19T17:34:27.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/us-supreme-court-rejects-music-labels-challenge-to-copyright-termination-ruling-4957948",
+      "datetime": "2026-10-19T18:30:23.000Z"
     },
     {
-      "headline": "S&P 500, Nasdaq open higher, rebounding after posting their worst week since June",
+      "headline": "Why is Tesla stock climbing today?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-climb-as-investors-return-to-ai-trade-after-selloff-4956195",
-      "datetime": "2026-10-19T17:34:24.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/why-is-tesla-stock-climbing-today-93CH-4957945",
+      "datetime": "2026-10-19T18:27:28.000Z"
     },
     {
       "headline": "Trump to create new NIH division, task force for women’s health",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/trump-to-create-new-nih-division-task-force-for-womens-health-4957691",
-      "datetime": "2026-10-19T17:30:27.000Z"
+      "datetime": "2026-10-19T18:24:37.000Z"
     },
     {
-      "headline": "EyePoint crashes as pivotal wet AMD trial fails, prompting 53% workforce cut",
+      "headline": "Why is Space Exploration Technologies stock climbing today?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/eyepoint-crashes-as-pivotal-wet-amd-trial-fails-prompting-53-workforce-cut-4957677",
-      "datetime": "2026-10-19T17:28:49.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-climbing-today-93CH-4957938",
+      "datetime": "2026-10-19T18:22:33.000Z"
     },
     {
-      "headline": "Silence Therapeutics stock soars 125% on Merck acquisition",
+      "headline": "Nvidia wins CPU business from Modal, previously exclusive to AMD and Intel",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/silence-therapeutics-stock-soars-125-on-merck-acquisition-4957663",
-      "datetime": "2026-10-19T17:26:23.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/nvidia-wins-cpu-business-from-modal-previously-exclusive-to-amd-and-intel-4957937",
+      "datetime": "2026-10-19T18:21:41.000Z"
     },
     {
-      "headline": "France wants curfews in some areas after weekend of riots",
+      "headline": "Why is Palantir Technologies stock rallying today?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/as-france-reels-from-violence-macron-points-to-security-failings-4956666",
-      "datetime": "2026-10-19T17:24:52.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/why-is-palantir-technologies-stock-rallying-today-93CH-4957930",
+      "datetime": "2026-10-19T18:19:50.000Z"
     }
   ]
 }

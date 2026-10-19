@@ -1,11 +1,12 @@
-<!-- AI DRAFT — for Matt's review. Not published. -->
-
 ---
 title: "The Full Readout: A Market Arguing With Itself"
 date: 2026-10-19
 section: Finance
-draft: true
 image: /assets/images/regime-deep-dive.jpg
+author: Staff
+excerpt: "Six gauges, three bullish, two neutral, one bearish -- the full morning readout on a market that is constructive, capped, and coiled."
+tags: articles
+layout: layouts/article.njk
 ---
 
 Six gauges. Three read bullish, two read neutral, one reads bearish. The S&P 500 sits at $763.25 -- below its 50-day average, above its 200-day, up 2.9% over the last quarter, moving at a sleepy 10.2% annualized volatility.
@@ -65,5 +66,3 @@ Gauges describe today; they don't promise tomorrow. The yield curve's clean reco
 3. **Let earnings be the catalyst, not your prediction.** Don't front-run the break. Define it in advance: a decisive reclaim of the 50-day average on strong volume says the uptrend is reasserting; a break of the 200-day says the coil released downward. Know your lines before the market tests them, and let the gauges -- not the headlines -- tell you which regime you're waking up in.
 
 The market is arguing with itself. Your job isn't to settle the argument. It's to know exactly what would settle it -- and be ready either way.
-
-*Draft generated from the System Signals dashboard (6 gauges, Oct 19, 2026), the base-rate database, and the morning finance wire -- review, edit, and publish at will.*
