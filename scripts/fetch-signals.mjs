@@ -161,6 +161,12 @@ try {
 
 const outDir = path.join(root, "src", "_data");
 await mkdir(outDir, { recursive: true });
+
+if (signals.every((s) => s.value === "—")) {
+  console.warn("signals: all feeds failed, keeping existing signals.json");
+  process.exit(0);
+}
+
 await writeFile(
   path.join(outDir, "signals.json"),
   JSON.stringify({ updated: new Date().toISOString(), signals }, null, 2)

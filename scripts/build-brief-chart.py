@@ -21,23 +21,29 @@ OUT = ROOT / "src/assets/charts/cpi-yoy.png"
 
 start = f"{date.today().year - 5}-{date.today().month:02d}-01"
 fred_key = os.environ.get("FRED_API_KEY")
-if fred_key:
-    # CI/deploy path: call the FRED API directly.
-    import urllib.request, urllib.parse
-    qs = urllib.parse.urlencode({"series_id": "CPIAUCSL", "api_key": fred_key,
-                                 "file_type": "json", "units": "pc1",
-                                 "observation_start": start})
-    with urllib.request.urlopen(
-            f"https://api.stlouisfed.org/fred/series/observations?{qs}",
-            timeout=60) as resp:
-        data = json.load(resp)
-else:
-    proc = subprocess.run(
-        ["python3", str(FRED), "observations", "--series", "CPIAUCSL",
-         "--units", "pc1", "--start", start],
-        capture_output=True, text=True, timeout=60,
-    )
-    data = json.loads(proc.stdout)
+try:
+    if fred_key:
+        # CI/deploy path: call the FRED API directly.
+        import urllib.request, urllib.parse
+        qs = urllib.parse.urlencode({"series_id": "CPIAUCSL", "api_key": fred_key,
+                                     "file_type": "json", "units": "pc1",
+                                     "observation_start": start})
+        with urllib.request.urlopen(
+                f"https://api.stlouisfed.org/fred/series/observations?{qs}",
+                timeout=60) as resp:
+            data = json.load(resp)
+    else:
+        proc = subprocess.run(
+            ["python3", str(FRED), "observations", "--series", "CPIAUCSL",
+             "--units", "pc1", "--start", start],
+            capture_output=True, text=True, timeout=60,
+        )
+        data = json.loads(proc.stdout)
+except Exception as e:
+    # In CI without a key and without the local helper, keep the committed
+    # chart instead of crashing the build.
+    print(f"brief: FRED fetch failed ({e}), keeping existing chart")
+    raise SystemExit(0)
 obs = [(datetime.strptime(o["date"], "%Y-%m-%d"), float(o["value"]))
        for o in data["observations"] if o["value"] != "."]
 dates = [o[0] for o in obs]

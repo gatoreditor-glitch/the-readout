@@ -40,6 +40,17 @@ def fetch():
     bars = sorted((datetime.strptime(v["datetime"], "%Y-%m-%d").date(), float(v["close"])) for v in vals)
     return bars
 
+def fetch_safe():
+    # In CI without a key and without the local helper, keep the committed
+    # data instead of crashing the build.
+    try:
+        return fetch()
+    except SystemExit:
+        raise
+    except Exception as e:
+        print(f"base-rates: fetch failed ({e}), keeping existing data", file=sys.stderr)
+        sys.exit(0)
+
 def cluster(idxs, gap=63):
     out, last = [], -10**9
     for i in sorted(idxs):
@@ -64,7 +75,7 @@ def sma(vals, i, n):
     return sum(w) / len(w) if len(w) == n else None
 
 def main():
-    closes = fetch()
+    closes = fetch_safe()
     px = [c for _, c in closes]
     n = len(closes)
     print(f"{n} bars: {closes[0][0]} -> {closes[-1][0]}", flush=True)

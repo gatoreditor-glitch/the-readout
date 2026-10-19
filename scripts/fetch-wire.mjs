@@ -4,7 +4,7 @@
 // wire.json is kept so the site still builds.
 import { execFile } from "node:child_process";
 import { promisify } from "node:util";
-import { writeFile, mkdir } from "node:fs/promises";
+import { writeFile, mkdir, readFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import Parser from "rss-parser";
@@ -96,6 +96,15 @@ for (const c of ORDER) {
 
 const outDir = path.join(root, "src", "_data");
 await mkdir(outDir, { recursive: true });
+
+// If the finance feed failed (e.g. no API key in CI), keep the previously
+// committed finance items so the section isn't empty.
+if (!groups.Finance.length) {
+  try {
+    const old = JSON.parse(await readFile(path.join(outDir, "wire.json"), "utf8"));
+    if (old.groups?.Finance?.length) groups.Finance = old.groups.Finance;
+  } catch {}
+}
 
 // Mixed "latest" list for the homepage What's News rail.
 const latestAll = [];
