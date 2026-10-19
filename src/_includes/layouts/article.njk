@@ -19,7 +19,7 @@ layout: layouts/base.njk
   {% endif %}
   <div class="article-body">
     {# Prefix root-absolute asset paths in markdown content (the | url filter doesn't reach inside rendered markdown) #}
-    {{ content | replace('src="/assets/', 'src="' ~ pathPrefix ~ 'assets/') | replace('href="/assets/', 'href="' ~ pathPrefix ~ 'assets/') | safe }}
+    {{ content | replace('src="/assets/', 'src="' ~ pathPrefix ~ 'assets/') | replace('href="/assets/', 'href="' ~ pathPrefix ~ 'assets/') | replace('href="/articles/', 'href="' ~ pathPrefix ~ 'articles/') | safe }}
   </div>
   <p class="backlink"><a href="{{ '/' | url }}">&larr; Back to top stories</a></p>
 </article>
