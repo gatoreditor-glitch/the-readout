@@ -5,6 +5,11 @@ export default function (eleventyConfig) {
   // Build timestamp for cache-busting static assets (changes every deploy).
   eleventyConfig.addGlobalData("buildTs", () => Date.now());
 
+  // Project subpath on GitHub Pages (gatoreditor-glitch.github.io/the-readout).
+  // Remove this if the site moves to a custom domain (also update README).
+  const pathPrefix = "/the-readout/";
+  eleventyConfig.addGlobalData("pathPrefix", pathPrefix);
+
   // Minimal date filter (Eleventy 3 removed the built-in one)
   const dateFmt = new Intl.DateTimeFormat("en-US", {
     month: "long",
@@ -30,7 +35,7 @@ export default function (eleventyConfig) {
     },
     // Project subpath on GitHub Pages (gatoreditor-glitch.github.io/the-readout).
     // Remove this if the site moves to a custom domain.
-    pathPrefix: "/the-readout/",
+    pathPrefix: pathPrefix,
     markdownTemplateEngine: "njk",
   };
 }

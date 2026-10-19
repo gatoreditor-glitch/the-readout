@@ -1,11 +1,17 @@
 {
-  "updated": "2026-10-19T13:14:21.848Z",
+  "updated": "2026-10-19T13:17:51.178Z",
   "order": [
     "News",
     "Finance"
   ],
   "groups": {
     "News": [
+      {
+        "headline": "Reform MSP quits party to sit as independent",
+        "source": "BBC News",
+        "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
+        "datetime": "2026-10-19T13:16:35.000Z"
+      },
       {
         "headline": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
         "source": "BBC News",
@@ -41,12 +47,6 @@
         "source": "BBC News",
         "url": "https://www.bbc.co.uk/news/articles/cvgdd2yevd3o?at_medium=RSS&at_campaign=rss",
         "datetime": "2026-10-19T11:22:26.000Z"
-      },
-      {
-        "headline": "Reform MSP quits party to sit as independent",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-19T11:22:06.000Z"
       },
       {
         "headline": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
@@ -156,6 +156,13 @@
   },
   "latest": [
     {
+      "headline": "Reform MSP quits party to sit as independent",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
+      "datetime": "2026-10-19T13:16:35.000Z",
+      "category": "News"
+    },
+    {
       "headline": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
@@ -195,13 +202,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cvgdd2yevd3o?at_medium=RSS&at_campaign=rss",
       "datetime": "2026-10-19T11:22:26.000Z",
-      "category": "News"
-    },
-    {
-      "headline": "Reform MSP quits party to sit as independent",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
-      "datetime": "2026-10-19T11:22:06.000Z",
       "category": "News"
     },
     {

@@ -52,4 +52,4 @@ The wire fetcher (`scripts/fetch-wire.mjs`) pulls News (BBC, NPR) from public RS
 - **Feed licensing:** headlines link back to publishers (good practice), but check Finnhub's terms for redistribution before launching publicly.
 - **Your content:** replace the sample articles with your own drafts.
 - **Name/branding:** the masthead name lives in `src/_data/site.json`.
-- **Custom domain:** the build uses `pathPrefix: "/the-readout/"` in `eleventy.config.js` because GitHub Pages serves the site from a subpath. If you attach a custom domain later, delete that line and redeploy.
+- **Custom domain:** the build uses a `pathPrefix` constant (`"/the-readout/"`) at the top of `eleventy.config.js` because GitHub Pages serves the site from a subpath. If you attach a custom domain later, change it to `"/"` and redeploy.
