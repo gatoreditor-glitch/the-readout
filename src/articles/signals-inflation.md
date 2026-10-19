@@ -3,6 +3,7 @@ title: "Inflation: The Gauge That Sets the Fed's Room to Maneuver"
 date: 2026-10-19
 section: Signals
 author: Staff
+image: /assets/images/signals-inflation.jpg
 excerpt: "CPI year over year -- why this dashboard treats hot inflation as bearish, and why it's the constraint on every other gauge."
 reference: true
 tags: articles

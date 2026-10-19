@@ -3,6 +3,7 @@ title: "Unemployment: The Economy's Slowest Honest Signal"
 date: 2026-10-19
 section: Signals
 author: Staff
+image: /assets/images/signals-unemployment.jpg
 excerpt: "The U-3 rate plus its three-month change -- why the labor market confirms what markets suspect, always late and always honestly."
 reference: true
 tags: articles

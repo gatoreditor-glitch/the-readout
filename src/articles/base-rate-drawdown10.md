@@ -3,6 +3,7 @@ title: "Base Rate: After a 10% Correction"
 date: 2026-10-19
 section: Base Rates
 author: Staff
+image: /assets/images/base-rate-drawdown10.jpg
 excerpt: "Fifteen corrections since 2010. Median gain a year later: +15.6%, positive 93% of the time."
 reference: true
 tags: articles

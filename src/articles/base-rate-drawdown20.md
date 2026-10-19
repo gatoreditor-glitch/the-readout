@@ -3,6 +3,7 @@ title: "Base Rate: After a 20% Bear Market"
 date: 2026-10-19
 section: Base Rates
 author: Staff
+image: /assets/images/base-rate-drawdown20.jpg
 excerpt: "Five bear markets since 2010. Median gain a year later: +24.2% -- positive every single time."
 reference: true
 tags: articles

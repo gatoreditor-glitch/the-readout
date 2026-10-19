@@ -1,215 +1,132 @@
 {
-  "updated": "2026-10-19T13:49:59.784Z",
+  "updated": "2026-10-19T13:59:36.798Z",
   "order": [
-    "News",
     "Finance"
   ],
   "groups": {
-    "News": [
-      {
-        "headline": "Apu returns to The Simpsons with new voice after race row",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cw33x6gzgdm0o?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-19T13:22:24.000Z"
-      },
-      {
-        "headline": "Reform MSP quits party to sit as independent",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-19T13:16:35.000Z"
-      },
-      {
-        "headline": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-19T13:01:50.000Z"
-      },
-      {
-        "headline": "'It's messed with my family too much' - inside the US opioid drug crisis",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-19T12:12:02.000Z"
-      },
-      {
-        "headline": "What we know about apparent attack on Australian MP hit by car",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cm5ynk1g88kwo?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-19T11:59:26.000Z"
-      },
-      {
-        "headline": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
-        "datetime": "2026-10-19T11:38:43.000Z"
-      },
-      {
-        "headline": "Man accused of mass train stabbing admits wounding",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cvgdd2yevd3o?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-19T11:22:26.000Z"
-      },
-      {
-        "headline": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
-        "datetime": "2026-10-19T11:15:43.000Z"
-      },
-      {
-        "headline": "Four arrested after police officer injured in shooting",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-19T10:52:25.000Z"
-      },
-      {
-        "headline": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-        "source": "BBC News",
-        "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
-        "datetime": "2026-10-19T09:11:42.000Z"
-      },
-      {
-        "headline": "The real reason it's going to take a while to know who won in some midterm races",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
-        "datetime": "2026-10-19T09:00:00.000Z"
-      },
-      {
-        "headline": "A Kelvin wave raised sea levels on the West Coast. More are coming",
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
-        "datetime": "2026-10-19T09:00:00.000Z"
-      }
-    ],
     "Finance": [
       {
-        "headline": "S&P 500 Falls As Investors Shift Forward-Looking Focus Back To Q4 2026",
-        "source": "SeekingAlpha",
-        "url": "https://finnhub.io/api/news?id=9838e8aaa955743d84ef1aa9eef626e7768326bdf6b13fe937be69655ee63096",
-        "datetime": "2026-10-19T09:22:00.000Z"
+        "headline": "S&P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-ai-stocks-rebound-ahead-of-major-earnings-4957719",
+        "datetime": "2026-10-19T17:36:27.000Z"
       },
       {
-        "headline": "A Stealth Bear Market Has Just Made U.S. Stocks A Generational Buy",
-        "source": "SeekingAlpha",
-        "url": "https://finnhub.io/api/news?id=0d5ac4e9c7d645a59f768f40ef491132264d02c5d156005c001f1d8ce5bd5279",
-        "datetime": "2026-10-19T09:14:32.000Z"
+        "headline": "European stocks tumble on political turmoil in France",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/european-stocks-start-week-on-dour-note-on-french-civil-unrest-4956419",
+        "datetime": "2026-10-19T17:35:19.000Z"
       },
       {
-        "headline": "Stocktwits Retail Therapy: Staples Defy Market Rout In Best Week Since February — Cracker Barrel, Signet And VF Steal The Show",
-        "source": "Yahoo",
-        "url": "https://finnhub.io/api/news?id=ff4044adc5302eeb2dfb63b6c9ad88db793e17fa5f57049b5576de9abfdadd35",
-        "datetime": "2026-10-19T07:49:30.000Z"
+        "headline": "Xanadu Quantum stock rises on DARPA contract approval",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/xanadu-quantum-stock-rises-on-darpa-contract-approval-4957712",
+        "datetime": "2026-10-19T17:34:27.000Z"
       },
       {
-        "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
-        "source": "Yahoo",
-        "url": "https://finnhub.io/api/news?id=ca18ee60751a0ffa355286c1057def08edb7a8b81d71b42bf1665d8bd8a1e176",
-        "datetime": "2026-10-19T06:36:27.000Z"
+        "headline": "S&P 500, Nasdaq open higher, rebounding after posting their worst week since June",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-climb-as-investors-return-to-ai-trade-after-selloff-4956195",
+        "datetime": "2026-10-19T17:34:24.000Z"
       },
       {
-        "headline": "The Market Has 1999-Like Valuations, 2007-Like Credit Issues",
-        "source": "SeekingAlpha",
-        "url": "https://finnhub.io/api/news?id=edfad3c74cf986abb114d7043ae6db480a40853c3d916b6b0104e7f70941a6ee",
-        "datetime": "2026-10-19T06:27:42.000Z"
+        "headline": "Trump to create new NIH division, task force for women’s health",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/trump-to-create-new-nih-division-task-force-for-womens-health-4957691",
+        "datetime": "2026-10-19T17:30:27.000Z"
       },
       {
-        "headline": "Alert: Sudden Weakness In Technology - Why It Matters",
-        "source": "SeekingAlpha",
-        "url": "https://finnhub.io/api/news?id=205120c6632239cbf798ab9f89b188e80806bc36f814c58f1cce629ee5a85025",
-        "datetime": "2026-10-19T05:32:03.000Z"
+        "headline": "EyePoint crashes as pivotal wet AMD trial fails, prompting 53% workforce cut",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/eyepoint-crashes-as-pivotal-wet-amd-trial-fails-prompting-53-workforce-cut-4957677",
+        "datetime": "2026-10-19T17:28:49.000Z"
       },
       {
-        "headline": "Dow Futures Rise Despite 'Black Monday' Calls: Market Commentator Says Selloff Worries Are 'Overdone'",
-        "source": "Yahoo",
-        "url": "https://finnhub.io/api/news?id=3af609fa9039e277aa853b4093052566055f0c9f6c7d8cf61b16c43f1155c7ae",
-        "datetime": "2026-10-19T04:46:14.000Z"
+        "headline": "Silence Therapeutics stock soars 125% on Merck acquisition",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/silence-therapeutics-stock-soars-125-on-merck-acquisition-4957663",
+        "datetime": "2026-10-19T17:26:23.000Z"
       },
       {
-        "headline": "No ‘Black Monday’? Nasdaq, S&P 500, Dow Futures Spike As Big Tech Earnings Loom This Week — Retail Stays Cautious",
-        "source": "Yahoo",
-        "url": "https://finnhub.io/api/news?id=1a2e701a4b533b333f361b3a63e36f7840c645ceaa6ad5ec7dd99a649e6795af",
-        "datetime": "2026-10-19T04:07:56.000Z"
+        "headline": "France wants curfews in some areas after weekend of riots",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/as-france-reels-from-violence-macron-points-to-security-failings-4956666",
+        "datetime": "2026-10-19T17:24:52.000Z"
       },
       {
-        "headline": "Stocktwits Pharma Pulse: Moderna-Merck Cancer Vaccine Grabs Spotlight As Kidney-Cancer And MS Data Pour In",
-        "source": "Yahoo",
-        "url": "https://finnhub.io/api/news?id=76496f81480358631a4fdb5349265ccf7219ba4e626da0d1745c468f7b418512",
-        "datetime": "2026-10-19T03:15:13.000Z"
+        "headline": "Apple stock staged a rally to $5T \"that no one liked\": Melius",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/apple-stock-staged-a-rally-to-5t-that-no-one-liked-melius-4957648",
+        "datetime": "2026-10-19T17:21:17.000Z"
       },
       {
-        "headline": "Weekly Market Pulse: Reality Bites",
-        "source": "SeekingAlpha",
-        "url": "https://finnhub.io/api/news?id=a02a3b1553e88ac2154d3ea698c43c97449dc78581de65f33a65edba64f8d22f",
-        "datetime": "2026-10-19T03:14:00.000Z"
+        "headline": "Veradermics stock surges as hair loss drug meets Phase 3 goals",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/veradermics-stock-surges-as-hair-loss-drug-meets-phase-3-goals-4957642",
+        "datetime": "2026-10-19T17:20:28.000Z"
       },
       {
-        "headline": "What Would Stop The AI Selloff",
-        "source": "SeekingAlpha",
-        "url": "https://finnhub.io/api/news?id=f81e56ca69a5fcfaacd77d3a9630d96359897268651205c32cb90015cce769d2",
-        "datetime": "2026-10-19T01:53:26.000Z"
+        "headline": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+        "datetime": "2026-10-19T13:50:32.000Z"
       },
       {
-        "headline": "Bonds Already Discounted A 3rd Hike, Stocks Have Followed, Stay Long",
-        "source": "SeekingAlpha",
-        "url": "https://finnhub.io/api/news?id=f639953768fbbd69bdc4fa4baffb34746c56adb4a5f8894e3effe2572f294a4b",
-        "datetime": "2026-10-18T21:48:22.000Z"
+        "headline": "NYSE becomes latest exchange to extend options hours as appetite for around-the-clock trading grows",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/19/nyse-extends-options-trading-hours.html",
+        "datetime": "2026-10-19T13:46:50.000Z"
       }
     ]
   },
   "latest": [
     {
-      "headline": "Apu returns to The Simpsons with new voice after race row",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x6gzgdm0o?at_medium=RSS&at_campaign=rss",
-      "datetime": "2026-10-19T13:22:24.000Z",
-      "category": "News"
+      "headline": "S&P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-ai-stocks-rebound-ahead-of-major-earnings-4957719",
+      "datetime": "2026-10-19T17:36:27.000Z"
     },
     {
-      "headline": "Reform MSP quits party to sit as independent",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
-      "datetime": "2026-10-19T13:16:35.000Z",
-      "category": "News"
+      "headline": "European stocks tumble on political turmoil in France",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/european-stocks-start-week-on-dour-note-on-french-civil-unrest-4956419",
+      "datetime": "2026-10-19T17:35:19.000Z"
     },
     {
-      "headline": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
-      "datetime": "2026-10-19T13:01:50.000Z",
-      "category": "News"
+      "headline": "Xanadu Quantum stock rises on DARPA contract approval",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/xanadu-quantum-stock-rises-on-darpa-contract-approval-4957712",
+      "datetime": "2026-10-19T17:34:27.000Z"
     },
     {
-      "headline": "'It's messed with my family too much' - inside the US opioid drug crisis",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&at_campaign=rss",
-      "datetime": "2026-10-19T12:12:02.000Z",
-      "category": "News"
+      "headline": "S&P 500, Nasdaq open higher, rebounding after posting their worst week since June",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-climb-as-investors-return-to-ai-trade-after-selloff-4956195",
+      "datetime": "2026-10-19T17:34:24.000Z"
     },
     {
-      "headline": "What we know about apparent attack on Australian MP hit by car",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynk1g88kwo?at_medium=RSS&at_campaign=rss",
-      "datetime": "2026-10-19T11:59:26.000Z",
-      "category": "News"
+      "headline": "Trump to create new NIH division, task force for women’s health",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/trump-to-create-new-nih-division-task-force-for-womens-health-4957691",
+      "datetime": "2026-10-19T17:30:27.000Z"
     },
     {
-      "headline": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
-      "datetime": "2026-10-19T11:38:43.000Z",
-      "category": "News"
+      "headline": "EyePoint crashes as pivotal wet AMD trial fails, prompting 53% workforce cut",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/eyepoint-crashes-as-pivotal-wet-amd-trial-fails-prompting-53-workforce-cut-4957677",
+      "datetime": "2026-10-19T17:28:49.000Z"
     },
     {
-      "headline": "Man accused of mass train stabbing admits wounding",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgdd2yevd3o?at_medium=RSS&at_campaign=rss",
-      "datetime": "2026-10-19T11:22:26.000Z",
-      "category": "News"
+      "headline": "Silence Therapeutics stock soars 125% on Merck acquisition",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/silence-therapeutics-stock-soars-125-on-merck-acquisition-4957663",
+      "datetime": "2026-10-19T17:26:23.000Z"
     },
     {
-      "headline": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
-      "datetime": "2026-10-19T11:15:43.000Z",
-      "category": "News"
+      "headline": "France wants curfews in some areas after weekend of riots",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/as-france-reels-from-violence-macron-points-to-security-failings-4956666",
+      "datetime": "2026-10-19T17:24:52.000Z"
     }
   ]
 }
