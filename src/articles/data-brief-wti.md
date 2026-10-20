@@ -1,10 +1,12 @@
-<!-- AI DRAFT — for Matt's review. Not published. -->
 ---
 title: "Data Brief: Oil's 78% Run From $57 to $102, in One Chart"
 date: 2026-10-20
 section: Finance
-draft: true
-image_idea: "Macro photograph of crude oil texture with a clean white line chart rising across it"
+author: Staff
+excerpt: "WTI went from $57.21 in January to $101.91 -- a 78% run in nine months. The chart shows an orderly grind, not a spike."
+image: /assets/images/data-brief-wti.jpg
+tags: articles
+layout: layouts/article.njk
 ---
 
 The headlines are chasing crude above $100 a barrel. The chart tells the fuller story: this is a move that started in January, when WTI traded near $57, and it hasn't really stopped since.
@@ -35,5 +37,3 @@ To be fair, the chart itself contains the bull case for oil optimists: the move 
 1. Separate the trend from the spike. The $57-to-$101 move is fundamentals; anything above that is tension premium. Size your worry accordingly.
 2. Mark the next two CPI reports. Energy pass-through is where today's headline becomes tomorrow's Fed headache.
 3. Note who's winning inside your own screen: in a $100-plus oil tape, upstream and service exposure has a tailwind, and energy-heavy margins have a headwind. The chart makes the case for checking which side your holdings are on.
-
-*Draft generated from FRED WTI daily spot prices (DCOILWTICO), refreshed 2026-10-20, plus this morning's CNBC oil story.*

@@ -1,132 +1,132 @@
 {
-  "updated": "2026-10-20T12:51:29.477Z",
+  "updated": "2026-10-20T14:01:02.010Z",
   "order": [
     "Finance"
   ],
   "groups": {
     "Finance": [
       {
-        "headline": "European stocks extend slide as French unrest triggers de-risking",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/european-stocks-extend-slide-as-french-unrest-triggers-derisking-4958779",
-        "datetime": "2026-10-20T16:40:46.000Z"
+        "headline": "September data shows housing market in a deep freeze",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
+        "datetime": "2026-10-20T14:00:03.000Z"
       },
       {
-        "headline": "S&P, Nasdaq 100 futures fall as AI trade faces renewed pressure, oil tops $110",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596",
-        "datetime": "2026-10-20T16:40:40.000Z"
-      },
-      {
-        "headline": "US stocks rebound with AI earnings test ahead, euro falls on France unrest",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-4956176",
-        "datetime": "2026-10-20T16:36:22.000Z"
-      },
-      {
-        "headline": "Jefferies downgrades Zoetis, Elanco on pricing risk; prefers IDEXX",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/jefferies-downgrades-zoetis-elanco-on-pricing-risk-prefers-idexx-4960040",
-        "datetime": "2026-10-20T16:36:11.000Z"
-      },
-      {
-        "headline": "Elice’s IPO collapse puts AI infrastructure stocks under fresh pressure",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/elices-ipo-collapse-puts-ai-infrastructure-stocks-under-fresh-pressure-4960009",
-        "datetime": "2026-10-20T16:33:19.000Z"
-      },
-      {
-        "headline": "BofA Securities prefers semicaps top picks on mix, pricing, NAND, China upside",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/bofa-securities-prefers-semicaps-top-picks-on-mix-pricing-nand-china-upside-4960030",
-        "datetime": "2026-10-20T16:33:13.000Z"
-      },
-      {
-        "headline": "Why is Halliburton stock rallying today?",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-halliburton-stock-rallying-today-93CH-4959991",
-        "datetime": "2026-10-20T16:26:55.000Z"
-      },
-      {
-        "headline": "Harvard endowment’s $4.3B stock portfolio: more than half in one space company",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/harvard-endowments-43b-stock-portfolio-more-than-half-in-one-space-company-93CH-4959990",
-        "datetime": "2026-10-20T16:26:17.000Z"
-      },
-      {
-        "headline": "Salesforce to acquire Braze in a $5.66 billion deal",
+        "headline": "Salesforce deepens AI bets with $5.66 billion Braze deal",
         "source": "Investing.com",
         "url": "https://www.investing.com/news/stock-market-news/salesforce-to-acquire-braze-in-a-566-billion-deal-4959937",
-        "datetime": "2026-10-20T16:24:57.000Z"
+        "datetime": "2026-10-20T13:55:24.000Z"
       },
       {
-        "headline": "China’s CATL profit growth slows in third quarter as competition intensifies",
+        "headline": "Zelenskiy to meet Witkoff as US-Ukraine relations sink to new lows",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/chinas-catl-profit-growth-slows-in-third-quarter-as-competition-intensifies-4959970",
-        "datetime": "2026-10-20T16:24:26.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324",
+        "datetime": "2026-10-20T13:55:11.000Z"
       },
       {
-        "headline": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
+        "headline": "Why is Hasbro stock surging today?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-hasbro-stock-surging-today-93CH-4960415",
+        "datetime": "2026-10-20T13:55:09.000Z"
+      },
+      {
+        "headline": "US judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-sam-altmans-sisters-sexual-abuse-lawsuit-4960297",
+        "datetime": "2026-10-20T13:54:41.000Z"
+      },
+      {
+        "headline": "Housing starts drop 9% in September, miss expectations, Truist comments",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/housing-starts-drop-9-in-september-miss-expectations-truist-comments-93CH-4960410",
+        "datetime": "2026-10-20T13:54:00.000Z"
+      },
+      {
+        "headline": "Why is Bloom Energy stock sliding today?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-sliding-today-93CH-4960406",
+        "datetime": "2026-10-20T13:53:20.000Z"
+      },
+      {
+        "headline": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
-        "datetime": "2026-10-20T12:45:30.000Z"
+        "url": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+        "datetime": "2026-10-20T13:50:24.000Z"
+      },
+      {
+        "headline": "Why is GE Aerospace stock sliding today?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-ge-aerospace-stock-sliding-today-93CH-4960392",
+        "datetime": "2026-10-20T13:50:05.000Z"
+      },
+      {
+        "headline": "Why is Northrop Grumman stock surging today?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-northrop-grumman-stock-surging-today-93CH-4960390",
+        "datetime": "2026-10-20T13:49:17.000Z"
       },
       {
         "headline": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-        "datetime": "2026-10-20T12:44:27.000Z"
+        "datetime": "2026-10-20T13:46:36.000Z"
+      },
+      {
+        "headline": "How should you protect your portfolio during ongoing stock market volatility?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/how-should-you-protect-your-portfolio-during-ongoing-stock-market-volatility-93CH-4960381",
+        "datetime": "2026-10-20T13:46:36.000Z"
       }
     ]
   },
   "latest": [
     {
-      "headline": "European stocks extend slide as French unrest triggers de-risking",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/european-stocks-extend-slide-as-french-unrest-triggers-derisking-4958779",
-      "datetime": "2026-10-20T16:40:46.000Z"
+      "headline": "September data shows housing market in a deep freeze",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
+      "datetime": "2026-10-20T14:00:03.000Z"
     },
     {
-      "headline": "S&P, Nasdaq 100 futures fall as AI trade faces renewed pressure, oil tops $110",
+      "headline": "Salesforce deepens AI bets with $5.66 billion Braze deal",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596",
-      "datetime": "2026-10-20T16:40:40.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/salesforce-to-acquire-braze-in-a-566-billion-deal-4959937",
+      "datetime": "2026-10-20T13:55:24.000Z"
     },
     {
-      "headline": "US stocks rebound with AI earnings test ahead, euro falls on France unrest",
+      "headline": "Zelenskiy to meet Witkoff as US-Ukraine relations sink to new lows",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-4956176",
-      "datetime": "2026-10-20T16:36:22.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324",
+      "datetime": "2026-10-20T13:55:11.000Z"
     },
     {
-      "headline": "Jefferies downgrades Zoetis, Elanco on pricing risk; prefers IDEXX",
+      "headline": "Why is Hasbro stock surging today?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/jefferies-downgrades-zoetis-elanco-on-pricing-risk-prefers-idexx-4960040",
-      "datetime": "2026-10-20T16:36:11.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/why-is-hasbro-stock-surging-today-93CH-4960415",
+      "datetime": "2026-10-20T13:55:09.000Z"
     },
     {
-      "headline": "Elice’s IPO collapse puts AI infrastructure stocks under fresh pressure",
+      "headline": "US judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/elices-ipo-collapse-puts-ai-infrastructure-stocks-under-fresh-pressure-4960009",
-      "datetime": "2026-10-20T16:33:19.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-sam-altmans-sisters-sexual-abuse-lawsuit-4960297",
+      "datetime": "2026-10-20T13:54:41.000Z"
     },
     {
-      "headline": "BofA Securities prefers semicaps top picks on mix, pricing, NAND, China upside",
+      "headline": "Housing starts drop 9% in September, miss expectations, Truist comments",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/bofa-securities-prefers-semicaps-top-picks-on-mix-pricing-nand-china-upside-4960030",
-      "datetime": "2026-10-20T16:33:13.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/housing-starts-drop-9-in-september-miss-expectations-truist-comments-93CH-4960410",
+      "datetime": "2026-10-20T13:54:00.000Z"
     },
     {
-      "headline": "Why is Halliburton stock rallying today?",
+      "headline": "Why is Bloom Energy stock sliding today?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-halliburton-stock-rallying-today-93CH-4959991",
-      "datetime": "2026-10-20T16:26:55.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-sliding-today-93CH-4960406",
+      "datetime": "2026-10-20T13:53:20.000Z"
     },
     {
-      "headline": "Harvard endowment’s $4.3B stock portfolio: more than half in one space company",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/harvard-endowments-43b-stock-portfolio-more-than-half-in-one-space-company-93CH-4959990",
-      "datetime": "2026-10-20T16:26:17.000Z"
+      "headline": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+      "datetime": "2026-10-20T13:50:24.000Z"
     }
   ]
 }
