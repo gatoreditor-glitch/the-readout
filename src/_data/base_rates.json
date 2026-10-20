@@ -1,7 +1,7 @@
 {
-  "computed_at": "2026-10-19T21:44:54",
+  "computed_at": "2026-10-20T08:51:38",
   "data_from": "2010-01-04",
-  "data_to": "2026-10-16",
+  "data_to": "2026-10-19",
   "universe": "SPY daily closes (dividends excluded)",
   "method": "Signals clustered: after a signal fires, the next 63 trading days are skipped so each episode counts once. Only signals with a full forward window are counted.",
   "setups": [

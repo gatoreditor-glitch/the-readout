@@ -1,132 +1,132 @@
 {
-  "updated": "2026-10-19T21:44:41.274Z",
+  "updated": "2026-10-20T12:51:29.477Z",
   "order": [
     "Finance"
   ],
   "groups": {
     "Finance": [
       {
-        "headline": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.12%",
+        "headline": "European stocks extend slide as French unrest triggers de-risking",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-012-4958394",
-        "datetime": "2026-10-19T21:30:03.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/european-stocks-extend-slide-as-french-unrest-triggers-derisking-4958779",
+        "datetime": "2026-10-20T16:40:46.000Z"
       },
       {
-        "headline": "Colombia stocks lower at close of trade; COLCAP down 1.75%",
+        "headline": "S&P, Nasdaq 100 futures fall as AI trade faces renewed pressure, oil tops $110",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-175-4958393",
-        "datetime": "2026-10-19T21:25:03.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596",
+        "datetime": "2026-10-20T16:40:40.000Z"
       },
       {
-        "headline": "California settles 23andMe data breach claims for $6 million",
+        "headline": "US stocks rebound with AI earnings test ahead, euro falls on France unrest",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/california-settles-23andme-data-breach-claims-for-6-million-4958392",
-        "datetime": "2026-10-19T21:24:37.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-4956176",
+        "datetime": "2026-10-20T16:36:22.000Z"
       },
       {
-        "headline": "Russia stocks higher at close of trade; MOEX Russia Index up 0.10%",
+        "headline": "Jefferies downgrades Zoetis, Elanco on pricing risk; prefers IDEXX",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-010-4958389",
-        "datetime": "2026-10-19T21:20:03.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/jefferies-downgrades-zoetis-elanco-on-pricing-risk-prefers-idexx-4960040",
+        "datetime": "2026-10-20T16:36:11.000Z"
       },
       {
-        "headline": "Why is Tradeweb Markets stock rising after-hours today?",
+        "headline": "Elice’s IPO collapse puts AI infrastructure stocks under fresh pressure",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-tradeweb-markets-stock-rising-afterhours-today-93CH-4958385",
-        "datetime": "2026-10-19T21:13:21.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/elices-ipo-collapse-puts-ai-infrastructure-stocks-under-fresh-pressure-4960009",
+        "datetime": "2026-10-20T16:33:19.000Z"
       },
       {
-        "headline": "Why is Bitdeer Technologies stock rallying after the close today?",
+        "headline": "BofA Securities prefers semicaps top picks on mix, pricing, NAND, China upside",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-bitdeer-technologies-stock-rallying-after-the-close-today-93CH-4958384",
-        "datetime": "2026-10-19T21:13:10.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/bofa-securities-prefers-semicaps-top-picks-on-mix-pricing-nand-china-upside-4960030",
+        "datetime": "2026-10-20T16:33:13.000Z"
       },
       {
-        "headline": "Germany’s Merz urges AI investment ahead of Nvidia deal",
+        "headline": "Why is Halliburton stock rallying today?",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/germanys-merz-urges-ai-investment-ahead-of-nvidia-deal-4958229",
-        "datetime": "2026-10-19T21:12:22.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/why-is-halliburton-stock-rallying-today-93CH-4959991",
+        "datetime": "2026-10-20T16:26:55.000Z"
       },
       {
-        "headline": "Why is Crown stock sliding after-hours today?",
+        "headline": "Harvard endowment’s $4.3B stock portfolio: more than half in one space company",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-crown-stock-sliding-afterhours-today-93CH-4958380",
-        "datetime": "2026-10-19T21:10:17.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/harvard-endowments-43b-stock-portfolio-more-than-half-in-one-space-company-93CH-4959990",
+        "datetime": "2026-10-20T16:26:17.000Z"
       },
       {
-        "headline": "Why is Steel Dynamics stock sliding today?",
+        "headline": "Salesforce to acquire Braze in a $5.66 billion deal",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-steel-dynamics-stock-sliding-today-93CH-4958379",
-        "datetime": "2026-10-19T21:09:42.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/salesforce-to-acquire-braze-in-a-566-billion-deal-4959937",
+        "datetime": "2026-10-20T16:24:57.000Z"
       },
       {
-        "headline": "3M stock rises 3% on $6B Amazon data center deal",
+        "headline": "China’s CATL profit growth slows in third quarter as competition intensifies",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/3m-stock-rises-3-on-6b-amazon-data-center-deal-4958375",
-        "datetime": "2026-10-19T21:06:32.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/chinas-catl-profit-growth-slows-in-third-quarter-as-competition-intensifies-4959970",
+        "datetime": "2026-10-20T16:24:26.000Z"
       },
       {
-        "headline": "Google says it can build data centers the right way. Some experts and residents are skeptical",
+        "headline": "Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
-        "datetime": "2026-10-19T21:05:20.000Z"
+        "url": "https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html",
+        "datetime": "2026-10-20T12:45:30.000Z"
       },
       {
-        "headline": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
+        "headline": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
-        "datetime": "2026-10-19T21:00:02.000Z"
+        "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+        "datetime": "2026-10-20T12:44:27.000Z"
       }
     ]
   },
   "latest": [
     {
-      "headline": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.12%",
+      "headline": "European stocks extend slide as French unrest triggers de-risking",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-012-4958394",
-      "datetime": "2026-10-19T21:30:03.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/european-stocks-extend-slide-as-french-unrest-triggers-derisking-4958779",
+      "datetime": "2026-10-20T16:40:46.000Z"
     },
     {
-      "headline": "Colombia stocks lower at close of trade; COLCAP down 1.75%",
+      "headline": "S&P, Nasdaq 100 futures fall as AI trade faces renewed pressure, oil tops $110",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-175-4958393",
-      "datetime": "2026-10-19T21:25:03.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-street-rebounds-on-tech-recovery-4958596",
+      "datetime": "2026-10-20T16:40:40.000Z"
     },
     {
-      "headline": "California settles 23andMe data breach claims for $6 million",
+      "headline": "US stocks rebound with AI earnings test ahead, euro falls on France unrest",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/california-settles-23andme-data-breach-claims-for-6-million-4958392",
-      "datetime": "2026-10-19T21:24:37.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-skid-wall-street-and-bonds-aided-by-oil-slip-4956176",
+      "datetime": "2026-10-20T16:36:22.000Z"
     },
     {
-      "headline": "Russia stocks higher at close of trade; MOEX Russia Index up 0.10%",
+      "headline": "Jefferies downgrades Zoetis, Elanco on pricing risk; prefers IDEXX",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-010-4958389",
-      "datetime": "2026-10-19T21:20:03.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/jefferies-downgrades-zoetis-elanco-on-pricing-risk-prefers-idexx-4960040",
+      "datetime": "2026-10-20T16:36:11.000Z"
     },
     {
-      "headline": "Why is Tradeweb Markets stock rising after-hours today?",
+      "headline": "Elice’s IPO collapse puts AI infrastructure stocks under fresh pressure",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-tradeweb-markets-stock-rising-afterhours-today-93CH-4958385",
-      "datetime": "2026-10-19T21:13:21.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/elices-ipo-collapse-puts-ai-infrastructure-stocks-under-fresh-pressure-4960009",
+      "datetime": "2026-10-20T16:33:19.000Z"
     },
     {
-      "headline": "Why is Bitdeer Technologies stock rallying after the close today?",
+      "headline": "BofA Securities prefers semicaps top picks on mix, pricing, NAND, China upside",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-bitdeer-technologies-stock-rallying-after-the-close-today-93CH-4958384",
-      "datetime": "2026-10-19T21:13:10.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/bofa-securities-prefers-semicaps-top-picks-on-mix-pricing-nand-china-upside-4960030",
+      "datetime": "2026-10-20T16:33:13.000Z"
     },
     {
-      "headline": "Germany’s Merz urges AI investment ahead of Nvidia deal",
+      "headline": "Why is Halliburton stock rallying today?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/germanys-merz-urges-ai-investment-ahead-of-nvidia-deal-4958229",
-      "datetime": "2026-10-19T21:12:22.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/why-is-halliburton-stock-rallying-today-93CH-4959991",
+      "datetime": "2026-10-20T16:26:55.000Z"
     },
     {
-      "headline": "Why is Crown stock sliding after-hours today?",
+      "headline": "Harvard endowment’s $4.3B stock portfolio: more than half in one space company",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-crown-stock-sliding-afterhours-today-93CH-4958380",
-      "datetime": "2026-10-19T21:10:17.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/harvard-endowments-43b-stock-portfolio-more-than-half-in-one-space-company-93CH-4959990",
+      "datetime": "2026-10-20T16:26:17.000Z"
     }
   ]
 }
