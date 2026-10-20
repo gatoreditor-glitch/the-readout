@@ -1,10 +1,12 @@
-<!-- AI DRAFT — for Matt's review. Not published. -->
 ---
 title: "$102 Oil Is a 78% Move, Not a Headline -- Here's the System Reading"
 date: 2026-10-20
 section: Finance
-draft: true
-image_idea: "Oil pumpjack silhouetted against a rising price chart at dusk"
+author: Staff
+excerpt: "WTI ran from $57 to $102 this year -- a 78% move. Through a systems lens, that's a rotation signal, not a headline."
+tags: articles
+layout: layouts/article.njk
+image: /assets/images/oil-102-system-reading.jpg
 ---
 
 U.S. crude is holding above $100 a barrel -- $101.91 on the latest FRED print, with Brent at a five-month high on Mideast tensions. Futures markets are slipping and tech is under pressure. But "oil jumps" isn't the story. The story is the math underneath it: WTI started 2026 around $57 a barrel. The run to $102 is a 78% move in under ten months.
@@ -36,5 +38,3 @@ But the margin of safety is thin. CPI already at 3.7% leaves no room for energy 
 1. Watch the next CPI print for the energy line item -- that's where a $100-plus crude print becomes a Fed problem.
 2. Don't fight the rotation mechanically: in energy-led markets, capital flows toward producers and away from high-multiple consumers of energy. Let the price confirm the shift before you chase it.
 3. Keep the 10-year/2-year curve (+0.35 pp, still healthy) on your radar. If the curve starts flattening while oil climbs, that's the market pricing in demand destruction -- and that's a different, uglier regime.
-
-*Draft generated from FRED WTI daily prices, this morning's finance wire, and the Signals dashboard.*

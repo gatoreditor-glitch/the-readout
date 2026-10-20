@@ -1,132 +1,132 @@
 {
-  "updated": "2026-10-20T14:01:02.010Z",
+  "updated": "2026-10-20T16:00:41.767Z",
   "order": [
     "Finance"
   ],
   "groups": {
     "Finance": [
       {
-        "headline": "September data shows housing market in a deep freeze",
+        "headline": "Data center stocks remain under pressure after Korea IPO plunges 30%",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
-        "datetime": "2026-10-20T14:00:03.000Z"
+        "url": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+        "datetime": "2026-10-20T15:45:47.000Z"
+      },
+      {
+        "headline": "Prudential sheds Brazil, Mexico units to CNP for $4 billion as it narrows its focus",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/prudential-sheds-brazil-mexico-units-to-cnp-for-4-billion-as-it-narrows-its-focus-4959716",
+        "datetime": "2026-10-20T15:42:59.000Z"
+      },
+      {
+        "headline": "Poland stocks lower at close of trade; WIG30 down 0.20%",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-020-4960647",
+        "datetime": "2026-10-20T15:40:04.000Z"
       },
       {
         "headline": "Salesforce deepens AI bets with $5.66 billion Braze deal",
         "source": "Investing.com",
         "url": "https://www.investing.com/news/stock-market-news/salesforce-to-acquire-braze-in-a-566-billion-deal-4959937",
-        "datetime": "2026-10-20T13:55:24.000Z"
+        "datetime": "2026-10-20T15:30:39.000Z"
       },
       {
-        "headline": "Zelenskiy to meet Witkoff as US-Ukraine relations sink to new lows",
+        "headline": "Turkey stocks higher at close of trade; BIST 100 up 3.22%",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324",
-        "datetime": "2026-10-20T13:55:11.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-322-4960640",
+        "datetime": "2026-10-20T15:30:31.000Z"
       },
       {
-        "headline": "Why is Hasbro stock surging today?",
+        "headline": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.72%",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-hasbro-stock-surging-today-93CH-4960415",
-        "datetime": "2026-10-20T13:55:09.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-072-4960638",
+        "datetime": "2026-10-20T15:30:04.000Z"
       },
       {
-        "headline": "US judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+        "headline": "Why is Loblaw stock climbing today?",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-sam-altmans-sisters-sexual-abuse-lawsuit-4960297",
-        "datetime": "2026-10-20T13:54:41.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/why-is-loblaw-stock-climbing-today-93CH-4960637",
+        "datetime": "2026-10-20T15:28:32.000Z"
       },
       {
-        "headline": "Housing starts drop 9% in September, miss expectations, Truist comments",
+        "headline": "China criticizes US ban on DeepSeek AI from federal systems",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/housing-starts-drop-9-in-september-miss-expectations-truist-comments-93CH-4960410",
-        "datetime": "2026-10-20T13:54:00.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/china-criticizes-us-ban-on-deepseek-ai-from-federal-systems-93CH-4960636",
+        "datetime": "2026-10-20T15:28:11.000Z"
       },
       {
-        "headline": "Why is Bloom Energy stock sliding today?",
+        "headline": "Twilio reiterated as large-cap software top pick by BTIG",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-sliding-today-93CH-4960406",
-        "datetime": "2026-10-20T13:53:20.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/twilio-reiterated-as-largecap-software-top-pick-by-btig-4960635",
+        "datetime": "2026-10-20T15:22:04.000Z"
       },
       {
-        "headline": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
+        "headline": "Unconfirmed Qatar-Pakistan Iran peace proposal lifts stocks, weighs on oil",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/unconfirmed-qatarpakistan-iran-peace-proposal-lifts-stocks-weighs-on-oil-4960631",
+        "datetime": "2026-10-20T15:20:49.000Z"
+      },
+      {
+        "headline": "Myriad Genetics stock surges on $210M prenatal unit sale",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/myriad-genetics-stock-surges-on-210m-prenatal-unit-sale-4960632",
+        "datetime": "2026-10-20T15:15:35.000Z"
+      },
+      {
+        "headline": "France to deploy military as it braces for fresh unrest this weekend",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
-        "datetime": "2026-10-20T13:50:24.000Z"
-      },
-      {
-        "headline": "Why is GE Aerospace stock sliding today?",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-ge-aerospace-stock-sliding-today-93CH-4960392",
-        "datetime": "2026-10-20T13:50:05.000Z"
-      },
-      {
-        "headline": "Why is Northrop Grumman stock surging today?",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-northrop-grumman-stock-surging-today-93CH-4960390",
-        "datetime": "2026-10-20T13:49:17.000Z"
-      },
-      {
-        "headline": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
-        "datetime": "2026-10-20T13:46:36.000Z"
-      },
-      {
-        "headline": "How should you protect your portfolio during ongoing stock market volatility?",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/how-should-you-protect-your-portfolio-during-ongoing-stock-market-volatility-93CH-4960381",
-        "datetime": "2026-10-20T13:46:36.000Z"
+        "url": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+        "datetime": "2026-10-20T15:01:38.000Z"
       }
     ]
   },
   "latest": [
     {
-      "headline": "September data shows housing market in a deep freeze",
+      "headline": "Data center stocks remain under pressure after Korea IPO plunges 30%",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
-      "datetime": "2026-10-20T14:00:03.000Z"
+      "url": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+      "datetime": "2026-10-20T15:45:47.000Z"
+    },
+    {
+      "headline": "Prudential sheds Brazil, Mexico units to CNP for $4 billion as it narrows its focus",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/prudential-sheds-brazil-mexico-units-to-cnp-for-4-billion-as-it-narrows-its-focus-4959716",
+      "datetime": "2026-10-20T15:42:59.000Z"
+    },
+    {
+      "headline": "Poland stocks lower at close of trade; WIG30 down 0.20%",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-020-4960647",
+      "datetime": "2026-10-20T15:40:04.000Z"
     },
     {
       "headline": "Salesforce deepens AI bets with $5.66 billion Braze deal",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/salesforce-to-acquire-braze-in-a-566-billion-deal-4959937",
-      "datetime": "2026-10-20T13:55:24.000Z"
+      "datetime": "2026-10-20T15:30:39.000Z"
     },
     {
-      "headline": "Zelenskiy to meet Witkoff as US-Ukraine relations sink to new lows",
+      "headline": "Turkey stocks higher at close of trade; BIST 100 up 3.22%",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324",
-      "datetime": "2026-10-20T13:55:11.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-322-4960640",
+      "datetime": "2026-10-20T15:30:31.000Z"
     },
     {
-      "headline": "Why is Hasbro stock surging today?",
+      "headline": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.72%",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-hasbro-stock-surging-today-93CH-4960415",
-      "datetime": "2026-10-20T13:55:09.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-072-4960638",
+      "datetime": "2026-10-20T15:30:04.000Z"
     },
     {
-      "headline": "US judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "headline": "Why is Loblaw stock climbing today?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-sam-altmans-sisters-sexual-abuse-lawsuit-4960297",
-      "datetime": "2026-10-20T13:54:41.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/why-is-loblaw-stock-climbing-today-93CH-4960637",
+      "datetime": "2026-10-20T15:28:32.000Z"
     },
     {
-      "headline": "Housing starts drop 9% in September, miss expectations, Truist comments",
+      "headline": "China criticizes US ban on DeepSeek AI from federal systems",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/housing-starts-drop-9-in-september-miss-expectations-truist-comments-93CH-4960410",
-      "datetime": "2026-10-20T13:54:00.000Z"
-    },
-    {
-      "headline": "Why is Bloom Energy stock sliding today?",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-sliding-today-93CH-4960406",
-      "datetime": "2026-10-20T13:53:20.000Z"
-    },
-    {
-      "headline": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
-      "datetime": "2026-10-20T13:50:24.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/china-criticizes-us-ban-on-deepseek-ai-from-federal-systems-93CH-4960636",
+      "datetime": "2026-10-20T15:28:11.000Z"
     }
   ]
 }
