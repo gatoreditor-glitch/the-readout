@@ -1,132 +1,132 @@
 {
-  "updated": "2026-10-20T16:00:41.767Z",
+  "updated": "2026-10-20T22:50:19.802Z",
   "order": [
     "Finance"
   ],
   "groups": {
     "Finance": [
       {
-        "headline": "Data center stocks remain under pressure after Korea IPO plunges 30%",
+        "headline": "United Airlines profit outlook well below estimates, hit by fuel costs",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/united-airlines-forecasts-fourthquarter-profit-below-estimates-as-fuel-costs-bite-4960998",
+        "datetime": "2026-10-21T02:18:38.000Z"
+      },
+      {
+        "headline": "Musk ordered slowdown of Starlink service used by Ukraine’s military, WSJ reports",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/musk-ordered-starlink-slowdown-that-blindsided-ukraine-wsj-reports-4961200",
+        "datetime": "2026-10-21T02:12:21.000Z"
+      },
+      {
+        "headline": "US envoy Witkoff to meet Putin, Trump presses Kyiv to settle",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324",
+        "datetime": "2026-10-21T02:00:35.000Z"
+      },
+      {
+        "headline": "SpaceX and Tesla form special committees to evaluate potential merger, Musk says",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/spacex-and-tesla-form-special-committees-to-evaluate-potential-merger-musk-says-4961262",
+        "datetime": "2026-10-21T01:56:51.000Z"
+      },
+      {
+        "headline": "FAA certifies Boeing’s 737 MAX 10, clearing way for deliveries",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/faa-certifies-boeings-737-max-10-clearing-way-for-deliveries-4960916",
+        "datetime": "2026-10-21T01:54:51.000Z"
+      },
+      {
+        "headline": "Waste Connections Q3 earnings preview: EPS and revenue seen up 6%",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/waste-connections-q3-earnings-preview-eps-and-revenue-seen-up-6-93CH-4961261",
+        "datetime": "2026-10-21T01:50:40.000Z"
+      },
+      {
+        "headline": "Why is Agree Realty stock climbing today?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-agree-realty-stock-climbing-today-93CH-4961257",
+        "datetime": "2026-10-21T01:45:38.000Z"
+      },
+      {
+        "headline": "Why is Netflix stock sliding today?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-netflix-stock-sliding-today-93CH-4961253",
+        "datetime": "2026-10-21T01:43:05.000Z"
+      },
+      {
+        "headline": "Alaska Air forecasts bigger-than-expected fourth-quarter loss on soaring fuel costs",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/alaska-air-forecasts-biggerthanexpected-fourthquarter-loss-on-soaring-fuel-costs-4961235",
+        "datetime": "2026-10-21T01:30:43.000Z"
+      },
+      {
+        "headline": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.36%",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-036-4961224",
+        "datetime": "2026-10-21T01:30:03.000Z"
+      },
+      {
+        "headline": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
-        "datetime": "2026-10-20T15:45:47.000Z"
+        "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+        "datetime": "2026-10-20T22:29:45.000Z"
       },
       {
-        "headline": "Prudential sheds Brazil, Mexico units to CNP for $4 billion as it narrows its focus",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/prudential-sheds-brazil-mexico-units-to-cnp-for-4-billion-as-it-narrows-its-focus-4959716",
-        "datetime": "2026-10-20T15:42:59.000Z"
-      },
-      {
-        "headline": "Poland stocks lower at close of trade; WIG30 down 0.20%",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-020-4960647",
-        "datetime": "2026-10-20T15:40:04.000Z"
-      },
-      {
-        "headline": "Salesforce deepens AI bets with $5.66 billion Braze deal",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/salesforce-to-acquire-braze-in-a-566-billion-deal-4959937",
-        "datetime": "2026-10-20T15:30:39.000Z"
-      },
-      {
-        "headline": "Turkey stocks higher at close of trade; BIST 100 up 3.22%",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-322-4960640",
-        "datetime": "2026-10-20T15:30:31.000Z"
-      },
-      {
-        "headline": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.72%",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-072-4960638",
-        "datetime": "2026-10-20T15:30:04.000Z"
-      },
-      {
-        "headline": "Why is Loblaw stock climbing today?",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-loblaw-stock-climbing-today-93CH-4960637",
-        "datetime": "2026-10-20T15:28:32.000Z"
-      },
-      {
-        "headline": "China criticizes US ban on DeepSeek AI from federal systems",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/china-criticizes-us-ban-on-deepseek-ai-from-federal-systems-93CH-4960636",
-        "datetime": "2026-10-20T15:28:11.000Z"
-      },
-      {
-        "headline": "Twilio reiterated as large-cap software top pick by BTIG",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/twilio-reiterated-as-largecap-software-top-pick-by-btig-4960635",
-        "datetime": "2026-10-20T15:22:04.000Z"
-      },
-      {
-        "headline": "Unconfirmed Qatar-Pakistan Iran peace proposal lifts stocks, weighs on oil",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/unconfirmed-qatarpakistan-iran-peace-proposal-lifts-stocks-weighs-on-oil-4960631",
-        "datetime": "2026-10-20T15:20:49.000Z"
-      },
-      {
-        "headline": "Myriad Genetics stock surges on $210M prenatal unit sale",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/myriad-genetics-stock-surges-on-210m-prenatal-unit-sale-4960632",
-        "datetime": "2026-10-20T15:15:35.000Z"
-      },
-      {
-        "headline": "France to deploy military as it braces for fresh unrest this weekend",
+        "headline": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-        "datetime": "2026-10-20T15:01:38.000Z"
+        "url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
+        "datetime": "2026-10-20T22:01:11.000Z"
       }
     ]
   },
   "latest": [
     {
-      "headline": "Data center stocks remain under pressure after Korea IPO plunges 30%",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
-      "datetime": "2026-10-20T15:45:47.000Z"
+      "headline": "United Airlines profit outlook well below estimates, hit by fuel costs",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/united-airlines-forecasts-fourthquarter-profit-below-estimates-as-fuel-costs-bite-4960998",
+      "datetime": "2026-10-21T02:18:38.000Z"
     },
     {
-      "headline": "Prudential sheds Brazil, Mexico units to CNP for $4 billion as it narrows its focus",
+      "headline": "Musk ordered slowdown of Starlink service used by Ukraine’s military, WSJ reports",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/prudential-sheds-brazil-mexico-units-to-cnp-for-4-billion-as-it-narrows-its-focus-4959716",
-      "datetime": "2026-10-20T15:42:59.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/musk-ordered-starlink-slowdown-that-blindsided-ukraine-wsj-reports-4961200",
+      "datetime": "2026-10-21T02:12:21.000Z"
     },
     {
-      "headline": "Poland stocks lower at close of trade; WIG30 down 0.20%",
+      "headline": "US envoy Witkoff to meet Putin, Trump presses Kyiv to settle",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-020-4960647",
-      "datetime": "2026-10-20T15:40:04.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/zelenskiy-to-meet-witkoff-as-trump-praises-russia-and-rebukes-ukraine-4959324",
+      "datetime": "2026-10-21T02:00:35.000Z"
     },
     {
-      "headline": "Salesforce deepens AI bets with $5.66 billion Braze deal",
+      "headline": "SpaceX and Tesla form special committees to evaluate potential merger, Musk says",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/salesforce-to-acquire-braze-in-a-566-billion-deal-4959937",
-      "datetime": "2026-10-20T15:30:39.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/spacex-and-tesla-form-special-committees-to-evaluate-potential-merger-musk-says-4961262",
+      "datetime": "2026-10-21T01:56:51.000Z"
     },
     {
-      "headline": "Turkey stocks higher at close of trade; BIST 100 up 3.22%",
+      "headline": "FAA certifies Boeing’s 737 MAX 10, clearing way for deliveries",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/turkey-stocks-higher-at-close-of-trade-bist-100-up-322-4960640",
-      "datetime": "2026-10-20T15:30:31.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/faa-certifies-boeings-737-max-10-clearing-way-for-deliveries-4960916",
+      "datetime": "2026-10-21T01:54:51.000Z"
     },
     {
-      "headline": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.72%",
+      "headline": "Waste Connections Q3 earnings preview: EPS and revenue seen up 6%",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-072-4960638",
-      "datetime": "2026-10-20T15:30:04.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/waste-connections-q3-earnings-preview-eps-and-revenue-seen-up-6-93CH-4961261",
+      "datetime": "2026-10-21T01:50:40.000Z"
     },
     {
-      "headline": "Why is Loblaw stock climbing today?",
+      "headline": "Why is Agree Realty stock climbing today?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-loblaw-stock-climbing-today-93CH-4960637",
-      "datetime": "2026-10-20T15:28:32.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/why-is-agree-realty-stock-climbing-today-93CH-4961257",
+      "datetime": "2026-10-21T01:45:38.000Z"
     },
     {
-      "headline": "China criticizes US ban on DeepSeek AI from federal systems",
+      "headline": "Why is Netflix stock sliding today?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/china-criticizes-us-ban-on-deepseek-ai-from-federal-systems-93CH-4960636",
-      "datetime": "2026-10-20T15:28:11.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/why-is-netflix-stock-sliding-today-93CH-4961253",
+      "datetime": "2026-10-21T01:43:05.000Z"
     }
   ]
 }

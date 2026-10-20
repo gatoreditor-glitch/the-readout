@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T16:01:21.292Z",
+  "updated": "2026-10-20T22:50:27.125Z",
   "signals": [
     {
       "id": "trend",
@@ -25,7 +25,7 @@
     {
       "id": "curve",
       "label": "Yield Curve (10Y–2Y)",
-      "value": "+0.35 pp",
+      "value": "+0.38 pp",
       "signal": "bullish",
       "note": "Normal upward slope — no recession warning from the curve."
     },
