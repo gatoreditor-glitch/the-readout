@@ -1,1 +1,48 @@
-{"episodes":[{"date":"2026-10-18","desc":"Trend neutral, volatility calm, inflation misbehaving — the market is arguing with itself.","duration":"0:33","file":"/assets/audio/ep03-signals-readout.mp3","title":"Market Briefing — October 18"},{"date":"2026-10-18","desc":"Buying 10% corrections has worked 93% of the time since 2010. The numbers behind the database's best base rate.","duration":"0:25","file":"/assets/audio/ep02-base-rate-spotlight.mp3","title":"Base Rate Spotlight: The 10% Correction"},{"date":"2026-10-18","desc":"What The Readout Radio is: short audio briefings on markets, data, and the odds — every fear has a base rate.","duration":"0:17","file":"/assets/audio/ep01-welcome.mp3","title":"Welcome to The Readout Radio"}],"tagline":"Short audio briefings on markets, data, and the odds.","updated":"2026-10-18"}
+{
+  "episodes": [
+    {
+      "date": "2026-10-21",
+      "title": "Four Green Lights, One Neutral, One Red",
+      "desc": "SPY holds above its 50-day line by a whisker -- four gauges bullish, one neutral, one red, and the October CPI print now decides what the green lights are worth.",
+      "duration": "3:04",
+      "file": "/assets/audio/five-green-lights.mp3"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "One-Tenth of One Percent: SPY Reclaims Its 50-Day Line on a Day Built to Break It",
+      "desc": "SPY reclaimed its 50-day average by 0.10% on a day oil topped $109 and tech lagged -- the reclaim, the Dow's leadership, and GM selling its beat.",
+      "duration": "9:24",
+      "file": "/assets/audio/spy-reclaims-50day.mp3"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "The Full Readout: A Market Arguing With Itself",
+      "desc": "The full regime deep dive: all six gauges, the base rates behind them, and the three things that would change the read.",
+      "duration": "7:32",
+      "file": "/assets/audio/market-regime-deep-dive.mp3"
+    },
+    {
+      "date": "2026-10-18",
+      "desc": "Trend neutral, volatility calm, inflation misbehaving \u2014 the market is arguing with itself.",
+      "duration": "0:33",
+      "file": "/assets/audio/ep03-signals-readout.mp3",
+      "title": "Market Briefing \u2014 October 18"
+    },
+    {
+      "date": "2026-10-18",
+      "desc": "Buying 10% corrections has worked 93% of the time since 2010. The numbers behind the database's best base rate.",
+      "duration": "0:25",
+      "file": "/assets/audio/ep02-base-rate-spotlight.mp3",
+      "title": "Base Rate Spotlight: The 10% Correction"
+    },
+    {
+      "date": "2026-10-18",
+      "desc": "What The Readout Radio is: short audio briefings on markets, data, and the odds \u2014 every fear has a base rate.",
+      "duration": "0:17",
+      "file": "/assets/audio/ep01-welcome.mp3",
+      "title": "Welcome to The Readout Radio"
+    }
+  ],
+  "tagline": "Short audio briefings on markets, data, and the odds.",
+  "updated": "2026-10-21"
+}

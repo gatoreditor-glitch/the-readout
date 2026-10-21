@@ -2,6 +2,7 @@
 title: "One-Tenth of One Percent: SPY Reclaims Its 50-Day Line on a Day Built to Break It"
 date: 2026-10-20
 section: Finance
+audio: /assets/audio/spy-reclaims-50day.mp3
 image: /assets/images/spy-reclaim-hero.jpg
 author: Staff
 excerpt: "SPY reclaimed its 50-day average by 0.10% on a day oil topped $109 and tech lagged -- why the whisker-thin reclaim, the Dow leadership, and GM selling its beat matter more than the index change."

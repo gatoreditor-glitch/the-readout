@@ -6,6 +6,7 @@ author: Staff
 excerpt: "SPY holds above its 50-day line by a whisker -- four gauges bullish, one neutral, one red, and the October CPI print now decides what the green lights are worth."
 tags: articles
 layout: layouts/article.njk
+audio: /assets/audio/five-green-lights.mp3
 image: /assets/images/traffic-lights.jpg
 ---
 

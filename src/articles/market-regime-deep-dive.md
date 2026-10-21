@@ -2,6 +2,7 @@
 title: "The Full Readout: A Market Arguing With Itself"
 date: 2026-10-19
 section: Finance
+audio: /assets/audio/market-regime-deep-dive.mp3
 image: /assets/images/regime-deep-dive.jpg
 author: Staff
 excerpt: "Six gauges, three bullish, two neutral, one bearish -- the full morning readout on a market that is constructive, capped, and coiled."
