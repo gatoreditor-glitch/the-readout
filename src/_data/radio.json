@@ -2,6 +2,13 @@
   "episodes": [
     {
       "date": "2026-10-21",
+      "title": "A Special Committee Is Not a Merger",
+      "desc": "SpaceX and Tesla formed special committees to explore a merger -- five headlines, zero terms. Why the systems read says watch the process, don't chase the pop.",
+      "duration": "3:54",
+      "file": "/assets/audio/special-committee-not-merger.mp3"
+    },
+    {
+      "date": "2026-10-21",
       "title": "Four Green Lights, One Neutral, One Red",
       "desc": "SPY holds above its 50-day line by a whisker -- four gauges bullish, one neutral, one red, and the October CPI print now decides what the green lights are worth.",
       "duration": "3:04",
@@ -23,10 +30,10 @@
     },
     {
       "date": "2026-10-18",
-      "desc": "Trend neutral, volatility calm, inflation misbehaving \u2014 the market is arguing with itself.",
+      "desc": "Trend neutral, volatility calm, inflation misbehaving — the market is arguing with itself.",
       "duration": "0:33",
       "file": "/assets/audio/ep03-signals-readout.mp3",
-      "title": "Market Briefing \u2014 October 18"
+      "title": "Market Briefing — October 18"
     },
     {
       "date": "2026-10-18",
@@ -37,7 +44,7 @@
     },
     {
       "date": "2026-10-18",
-      "desc": "What The Readout Radio is: short audio briefings on markets, data, and the odds \u2014 every fear has a base rate.",
+      "desc": "What The Readout Radio is: short audio briefings on markets, data, and the odds — every fear has a base rate.",
       "duration": "0:17",
       "file": "/assets/audio/ep01-welcome.mp3",
       "title": "Welcome to The Readout Radio"

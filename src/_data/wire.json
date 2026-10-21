@@ -1,132 +1,132 @@
 {
-  "updated": "2026-10-21T13:17:15.122Z",
+  "updated": "2026-10-21T16:23:12.234Z",
   "order": [
     "Finance"
   ],
   "groups": {
     "Finance": [
       {
-        "headline": "Government websites go dark as vulnerabilities in programming language send shudder across internet",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/cyber-agency-warns-websites-may-go-dark-as-php-prepares-critical-fix-4961963",
-        "datetime": "2026-10-21T17:12:20.000Z"
+        "headline": "How Ukraine’s drone strikes on Russia crippled the world’s second largest diesel supplier",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
+        "datetime": "2026-10-21T16:18:27.000Z"
       },
       {
-        "headline": "FTSE 100 today: Stocks edge up despite UK inflation at 3.5%",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-uk-inflation-quickens-to-35-4961773",
-        "datetime": "2026-10-21T17:10:08.000Z"
-      },
-      {
-        "headline": "OpenAI expands ChatGPT ads to 26 more countries in bid to boost revenue",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/openai-expands-chatgpt-ads-to-26-more-countries-in-bid-to-boost-revenue-4963176",
-        "datetime": "2026-10-21T17:06:28.000Z"
-      },
-      {
-        "headline": " Top insider buys and sells disclosed on Tuesday",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/top-insider-buys-and-sells-disclosed-on-tuesday-93CH-4963139",
-        "datetime": "2026-10-21T17:02:17.000Z"
-      },
-      {
-        "headline": "Piper Sandler calls DigitalOcean pullback overdone, upgrades to Overweight",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/piper-sandler-calls-digitalocean-pullback-overdone-upgrades-to-overweight-4963120",
-        "datetime": "2026-10-21T17:00:14.000Z"
-      },
-      {
-        "headline": "European shares edge up on earnings support; Big Tech results awaited",
+        "headline": "European shares rise on earnings support; Big Tech results awaited",
         "source": "Investing.com",
         "url": "https://www.investing.com/news/stock-market-news/european-shares-steady-ahead-of-big-tech-reports-4961665",
-        "datetime": "2026-10-21T17:00:11.000Z"
+        "datetime": "2026-10-21T16:14:38.000Z"
       },
       {
-        "headline": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.26%",
+        "headline": "Why is DigitalOcean stock rallying today?",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-026-4963071",
-        "datetime": "2026-10-21T16:45:03.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/why-is-digitalocean-stock-rallying-today-93CH-4963689",
+        "datetime": "2026-10-21T16:13:53.000Z"
       },
       {
-        "headline": "INVE Technologies stock surges on $20M share buyback tender",
+        "headline": "Why is Unicycive Therapeutics stock rallying today?",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/inve-technologies-stock-surges-on-20m-share-buyback-tender-4963070",
-        "datetime": "2026-10-21T16:44:40.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/why-is-unicycive-therapeutics-stock-rallying-today-93CH-4963688",
+        "datetime": "2026-10-21T16:13:45.000Z"
       },
       {
-        "headline": "Netflix slides as weak outlook deepens worries on viewership, revenue growth",
+        "headline": "Why is Mobileye stock sliding today?",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/netflix-slides-as-weak-profit-ad-outlook-intensify-investor-anxiety-4962151",
-        "datetime": "2026-10-21T16:42:28.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/why-is-mobileye-stock-sliding-today-93CH-4963687",
+        "datetime": "2026-10-21T16:13:38.000Z"
       },
       {
-        "headline": "Robinhood is a “generational growth story” declares analyst",
+        "headline": "Wall St sees Tesla-SpaceX merger as inevitable, but split on price",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/robinhood-is-a-generational-growth-story-declares-analyst-4963060",
-        "datetime": "2026-10-21T16:41:01.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/teslaspacex-deal-wall-st-says-inevitable-but-musk-says-its-not-certain-4962374",
+        "datetime": "2026-10-21T16:12:57.000Z"
       },
       {
-        "headline": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
+        "headline": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.24%",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-024-4963686",
+        "datetime": "2026-10-21T16:09:07.000Z"
+      },
+      {
+        "headline": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
-        "datetime": "2026-10-21T13:13:48.000Z"
+        "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+        "datetime": "2026-10-21T16:08:50.000Z"
       },
       {
-        "headline": "OpenAI expands ChatGPT Ads to 26 new countries as diversification push accelerates",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/21/openai-chatgpt-ads-26-countries.html",
-        "datetime": "2026-10-21T13:00:01.000Z"
+        "headline": "Spain stocks higher at close of trade; IBEX 35 up 1.08%",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-108-4963685",
+        "datetime": "2026-10-21T16:08:41.000Z"
+      },
+      {
+        "headline": "Portugal stocks higher at close of trade; PSI up 0.46%",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-046-4963684",
+        "datetime": "2026-10-21T16:08:15.000Z"
+      },
+      {
+        "headline": "Netherlands stocks higher at close of trade; AEX up 0.77%",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/netherlands-stocks-higher-at-close-of-trade-aex-up-077-4963683",
+        "datetime": "2026-10-21T16:07:46.000Z"
+      },
+      {
+        "headline": "Italy stocks higher at close of trade; Investing.com Italy 40 up 1.23%",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/italy-stocks-higher-at-close-of-trade-investingcom-italy-40-up-123-4963682",
+        "datetime": "2026-10-21T16:07:19.000Z"
       }
     ]
   },
   "latest": [
     {
-      "headline": "Government websites go dark as vulnerabilities in programming language send shudder across internet",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/cyber-agency-warns-websites-may-go-dark-as-php-prepares-critical-fix-4961963",
-      "datetime": "2026-10-21T17:12:20.000Z"
+      "headline": "How Ukraine’s drone strikes on Russia crippled the world’s second largest diesel supplier",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
+      "datetime": "2026-10-21T16:18:27.000Z"
     },
     {
-      "headline": "FTSE 100 today: Stocks edge up despite UK inflation at 3.5%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-uk-inflation-quickens-to-35-4961773",
-      "datetime": "2026-10-21T17:10:08.000Z"
-    },
-    {
-      "headline": "OpenAI expands ChatGPT ads to 26 more countries in bid to boost revenue",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/openai-expands-chatgpt-ads-to-26-more-countries-in-bid-to-boost-revenue-4963176",
-      "datetime": "2026-10-21T17:06:28.000Z"
-    },
-    {
-      "headline": " Top insider buys and sells disclosed on Tuesday",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/top-insider-buys-and-sells-disclosed-on-tuesday-93CH-4963139",
-      "datetime": "2026-10-21T17:02:17.000Z"
-    },
-    {
-      "headline": "Piper Sandler calls DigitalOcean pullback overdone, upgrades to Overweight",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/piper-sandler-calls-digitalocean-pullback-overdone-upgrades-to-overweight-4963120",
-      "datetime": "2026-10-21T17:00:14.000Z"
-    },
-    {
-      "headline": "European shares edge up on earnings support; Big Tech results awaited",
+      "headline": "European shares rise on earnings support; Big Tech results awaited",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/european-shares-steady-ahead-of-big-tech-reports-4961665",
-      "datetime": "2026-10-21T17:00:11.000Z"
+      "datetime": "2026-10-21T16:14:38.000Z"
     },
     {
-      "headline": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.26%",
+      "headline": "Why is DigitalOcean stock rallying today?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-026-4963071",
-      "datetime": "2026-10-21T16:45:03.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/why-is-digitalocean-stock-rallying-today-93CH-4963689",
+      "datetime": "2026-10-21T16:13:53.000Z"
     },
     {
-      "headline": "INVE Technologies stock surges on $20M share buyback tender",
+      "headline": "Why is Unicycive Therapeutics stock rallying today?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/inve-technologies-stock-surges-on-20m-share-buyback-tender-4963070",
-      "datetime": "2026-10-21T16:44:40.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/why-is-unicycive-therapeutics-stock-rallying-today-93CH-4963688",
+      "datetime": "2026-10-21T16:13:45.000Z"
+    },
+    {
+      "headline": "Why is Mobileye stock sliding today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-mobileye-stock-sliding-today-93CH-4963687",
+      "datetime": "2026-10-21T16:13:38.000Z"
+    },
+    {
+      "headline": "Wall St sees Tesla-SpaceX merger as inevitable, but split on price",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/teslaspacex-deal-wall-st-says-inevitable-but-musk-says-its-not-certain-4962374",
+      "datetime": "2026-10-21T16:12:57.000Z"
+    },
+    {
+      "headline": "U.K. stocks higher at close of trade; Investing.com United Kingdom 100 up 0.24%",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/uk-stocks-higher-at-close-of-trade-investingcom-united-kingdom-100-up-024-4963686",
+      "datetime": "2026-10-21T16:09:07.000Z"
+    },
+    {
+      "headline": "SpaceX stock jumps 10% after earnings beat and Musk hints at Tesla tie-up",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+      "datetime": "2026-10-21T16:08:50.000Z"
     }
   ]
 }

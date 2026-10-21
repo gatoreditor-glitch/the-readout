@@ -7,7 +7,7 @@ draft: true
 image_idea: A rocket launch trail and an electric car silhouette on opposite sides of a boardroom table, dusk lighting
 ---
 
-The finance wire this morning is dominated by one story told five different ways: Elon Musk says SpaceX and Tesla have each formed special committees to explore a potential merger. SpaceX jumped over 8% premarket on the news. Wall Street, per the headlines, already calls the deal "inevitable." Musk himself says it is not certain.
+The finance wire this morning is dominated by one story told five different ways: Elon Musk says SpaceX and Tesla have each formed special committees to explore a potential merger. SpaceX jumped over 8% premarket after a Q3 earnings beat and the merger hint -- CNBC reports the pop followed both drivers. Wall Street, per the headlines, already calls the deal "inevitable." Musk himself says it is not certain.
 
 ([Source: Investing.com](https://www.investing.com/news/stock-market-news/spacex-and-tesla-form-special-committees-to-evaluate-potential-merger-musk-says-4961262))
 
@@ -26,6 +26,8 @@ But systems traders don't trade stories. They trade expected value, and expected
 Sometimes the press release *is* the trade. Special committees exploring a deal, announced by the principal himself, do not form for nothing. Musk doesn't volunteer his companies into months of legal process as a thought experiment. The base case has to be that a real transaction is being seriously evaluated, which means today's buyers are probably not wrong about the direction -- only about the certainty.
 
 And there is precedent for the industrial logic winning. The market has a habit of initially discounting Musk combinations (the SolarCity deal was widely mocked at announcement) and then being embarrassed by the outcome. Betting against the combination on vibes has not been the high-percentage play historically.
+
+One caveat worth stating plainly: this morning's 8% pop is not pure merger sentiment. The stock also posted a Q3 earnings beat, so the move reflects earnings momentum as well as merger speculation -- worth keeping straight before extrapolating the market's enthusiasm for the deal itself.
 
 ## Here's your plan
 

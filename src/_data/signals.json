@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T13:17:23.496Z",
+  "updated": "2026-10-21T16:23:18.716Z",
   "signals": [
     {
       "id": "trend",
@@ -25,23 +25,23 @@
     {
       "id": "curve",
       "label": "Yield Curve (10Y–2Y)",
-      "value": "+0.38 pp",
-      "signal": "bullish",
-      "note": "Normal upward slope — no recession warning from the curve."
+      "value": "—",
+      "signal": "neutral",
+      "note": "Data unavailable in this build."
     },
     {
       "id": "inflation",
       "label": "Inflation (CPI YoY)",
-      "value": "3.7%",
-      "signal": "bearish",
-      "note": "Hot — keeps the Fed hawkish."
+      "value": "—",
+      "signal": "neutral",
+      "note": "Data unavailable in this build."
     },
     {
       "id": "labor",
       "label": "Unemployment",
-      "value": "4.2%",
-      "signal": "bullish",
-      "note": "Flat 0.0pp over 3 months — steady."
+      "value": "—",
+      "signal": "neutral",
+      "note": "Data unavailable in this build."
     }
   ]
 }
