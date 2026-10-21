@@ -1,13 +1,15 @@
-<!-- AI DRAFT — for Matt's review. Not published. -->
 ---
-title: "Five Green Lights, One Red"
+title: "Four Green Lights, One Neutral, One Red"
 date: 2026-10-21
 section: signals
-draft: true
-image_idea: A traffic-light dashboard with five green lights and one red, Bloomberg-terminal style, dark background
+author: Staff
+excerpt: "SPY holds above its 50-day line by a whisker -- four gauges bullish, one neutral, one red, and the October CPI print now decides what the green lights are worth."
+tags: articles
+layout: layouts/article.njk
+image: /assets/images/traffic-lights.jpg
 ---
 
-SPY closed at $769.05, and five of my six dashboard gauges are flashing green. The one that's red? Inflation, running at 3.7% year over year and keeping the Fed hawkish.
+SPY closed at $769.05, and four of my six dashboard gauges are flashing green, one sits neutral. The one that's red? Inflation, running at 3.7% year over year and keeping the Fed hawkish.
 
 That's the tape this morning: a market that looks fine on almost every dial, with exactly one dial that matters loudly disagreeing.
 
@@ -29,8 +31,6 @@ The catch is that same calm can turn on a dime when the red gauge is the one dri
 
 ## Here's your plan
 
-Watch one number first: the SPY 50-day at $768. Hold above it and the system says stay the course -- the five green gauges outweigh the one red. Lose it on a closing basis and reassess, because the uptrend was the one load-bearing wall in this setup.
+Watch one number first: the SPY 50-day at $768. Hold above it and the system says stay the course -- the four green gauges outweigh the one red. Lose it on a closing basis and reassess, because the uptrend was the one load-bearing wall in this setup.
 
 Second, the October CPI print is now the most important scheduled event on the calendar. If 3.7% starts with a 4 -- or a 3 -- everything reprices. The trend can survive a red inflation gauge. It has. But it can't survive that gauge getting worse.
-
-*Draft generated from the Readout signals dashboard (6 gauges, data as of 2026-10-21).*
