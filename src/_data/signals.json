@@ -1,47 +1,47 @@
 {
-  "updated": "2026-10-21T19:35:06.656Z",
+  "updated": "2026-10-22T12:55:46.558Z",
   "signals": [
     {
       "id": "trend",
       "label": "Trend Regime",
-      "value": "SPY $769.05",
+      "value": "SPY $773.09",
       "signal": "bullish",
       "note": "Above 50-day ($768) and 200-day ($726) — uptrend intact."
     },
     {
       "id": "momentum",
       "label": "Momentum (3-mo)",
-      "value": "+2.9%",
+      "value": "+4.7%",
       "signal": "neutral",
       "note": "S&P 500 return over the last 63 trading days."
     },
     {
       "id": "vol",
       "label": "Realized Volatility",
-      "value": "8.8%",
+      "value": "8.6%",
       "signal": "bullish",
       "note": "20-day annualized volatility — calm conditions."
     },
     {
       "id": "curve",
       "label": "Yield Curve (10Y–2Y)",
-      "value": "—",
-      "signal": "neutral",
-      "note": "Data unavailable in this build."
+      "value": "+0.33 pp",
+      "signal": "bullish",
+      "note": "Normal upward slope — no recession warning from the curve."
     },
     {
       "id": "inflation",
       "label": "Inflation (CPI YoY)",
-      "value": "—",
-      "signal": "neutral",
-      "note": "Data unavailable in this build."
+      "value": "3.7%",
+      "signal": "bearish",
+      "note": "Hot — keeps the Fed hawkish."
     },
     {
       "id": "labor",
       "label": "Unemployment",
-      "value": "—",
-      "signal": "neutral",
-      "note": "Data unavailable in this build."
+      "value": "4.2%",
+      "signal": "bullish",
+      "note": "Flat 0.0pp over 3 months — steady."
     }
   ]
 }

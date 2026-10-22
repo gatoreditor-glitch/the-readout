@@ -18,7 +18,7 @@ title: Latest
     </article>
     <div class="secondary-list">
       {% for post in posts %}
-      {% if not loop.first %}
+      {% if loop.index >= 2 and loop.index <= 5 %}
       <article class="secondary-story">
         {% if post.data.image %}
         <a href="{{ post.url | url }}"><img class="thumb-img" src="{{ post.data.image | url }}" alt="{{ post.data.title }}"></a>

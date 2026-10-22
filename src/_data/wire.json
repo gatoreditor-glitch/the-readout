@@ -1,132 +1,132 @@
 {
-  "updated": "2026-10-21T19:35:00.689Z",
+  "updated": "2026-10-22T12:55:38.716Z",
   "order": [
     "Finance"
   ],
   "groups": {
     "Finance": [
       {
-        "headline": "BlackRock's Rick Rieder sees 'historic' opportunity in high-quality bonds",
+        "headline": "Why is Gix Internet stock surging today?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-gix-internet-stock-surging-today-93CH-4966040",
+        "datetime": "2026-10-22T16:33:27.000Z"
+      },
+      {
+        "headline": "BTIG finds robotics economics depend on multi-shift deployment",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/btig-finds-robotics-economics-depend-on-multishift-deployment-93CH-4966037",
+        "datetime": "2026-10-22T16:33:05.000Z"
+      },
+      {
+        "headline": "Norfolk Southern tops profit estimates as freight demand stays strong",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/norfolk-southern-tops-profit-estimates-as-freight-demand-stays-strong-4966019",
+        "datetime": "2026-10-22T16:31:15.000Z"
+      },
+      {
+        "headline": "UBS reports semiconductor distributor inventory up 2% in October",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/ubs-reports-semiconductor-distributor-inventory-up-2-in-october-93CH-4966016",
+        "datetime": "2026-10-22T16:31:08.000Z"
+      },
+      {
+        "headline": "Deutsche Bank names three stocks as standouts as AI usage grows",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/deutsche-bank-names-three-stocks-as-standouts-as-ai-usage-grows-4965999",
+        "datetime": "2026-10-22T16:28:39.000Z"
+      },
+      {
+        "headline": "Why is Forgent Power Solutions stock sliding today?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-forgent-power-solutions-stock-sliding-today-93CH-4965997",
+        "datetime": "2026-10-22T16:28:23.000Z"
+      },
+      {
+        "headline": "Forgent stock falls 11% on CFO transition announcement",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/forgent-stock-falls-11-on-cfo-transition-announcement-4965990",
+        "datetime": "2026-10-22T16:26:17.000Z"
+      },
+      {
+        "headline": "Meta stock drops premarket after earnings: Buy the dip or stay put?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/meta-stock-drops-premarket-after-earnings-buy-the-dip-or-stay-put-93CH-4965991",
+        "datetime": "2026-10-22T16:25:48.000Z"
+      },
+      {
+        "headline": "Best European Industrial Mid-Cap Stocks: Jefferies Reveals New Top Picks",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/best-european-industrial-midcap-stocks-jefferies-reveals-new-top-picks-4965925",
+        "datetime": "2026-10-22T16:15:55.000Z"
+      },
+      {
+        "headline": "Goldman Sachs Preferred Picks in EU Building Materials Hinge on Pricing Power",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/goldman-sachs-preferred-picks-in-eu-building-materials-hinge-on-pricing-power-4965917",
+        "datetime": "2026-10-22T16:14:59.000Z"
+      },
+      {
+        "headline": "France protests: Macron condemns 'stupid' comments from Trump, others as bond market pressure builds",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/21/rick-rieder-investment-grade-bonds.html",
-        "datetime": "2026-10-21T19:32:55.000Z"
+        "url": "https://www.cnbc.com/2026/10/22/macron-trump-france-protests.html",
+        "datetime": "2026-10-22T12:52:48.000Z"
       },
       {
-        "headline": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+        "headline": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-        "datetime": "2026-10-21T19:20:53.000Z"
-      },
-      {
-        "headline": "Six Flags drops as Mizuho warns of balance sheet strains and cash flow deficits",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/six-flags-drops-as-mizuho-warns-of-balance-sheet-strains-and-cash-flow-deficits-4963847",
-        "datetime": "2026-10-21T19:15:09.000Z"
-      },
-      {
-        "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/cyber-agency-warns-websites-may-go-dark-as-php-prepares-critical-fix-4961963",
-        "datetime": "2026-10-21T19:12:42.000Z"
-      },
-      {
-        "headline": "Factbox-Websites taken offline over PHP risks",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/factboxwebsites-taken-offline-over-php-risks-4963631",
-        "datetime": "2026-10-21T19:06:41.000Z"
-      },
-      {
-        "headline": "Why is Teledyne Technologies stock slipping today?",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-teledyne-technologies-stock-slipping-today-93CH-4963831",
-        "datetime": "2026-10-21T18:54:35.000Z"
-      },
-      {
-        "headline": "EA to shutter BioWare studio, cut jobs as it narrows game slate",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/ea-to-shutter-bioware-studio-cut-jobs-as-it-narrows-game-slate-4963824",
-        "datetime": "2026-10-21T18:54:33.000Z"
-      },
-      {
-        "headline": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
-        "datetime": "2026-10-21T18:43:56.000Z"
-      },
-      {
-        "headline": "BofA Securities names top quantum computing stocks to watch",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/bofa-securities-names-top-quantum-computing-stocks-to-watch-4963817",
-        "datetime": "2026-10-21T18:36:10.000Z"
-      },
-      {
-        "headline": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/21/netflix-theatrical-strategy.html",
-        "datetime": "2026-10-21T18:32:12.000Z"
-      },
-      {
-        "headline": "Britain regulator ends Home REIT probe, defers to fraud office",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/britain-regulator-ends-home-reit-probe-defers-to-fraud-office-93CH-4963814",
-        "datetime": "2026-10-21T18:30:44.000Z"
-      },
-      {
-        "headline": "BlackRock adds robotics ETF to growing ranks of AI-themed products",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/blackrock-adds-robotics-etf-to-growing-ranks-of-aithemed-products-4963809",
-        "datetime": "2026-10-21T18:24:20.000Z"
+        "url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+        "datetime": "2026-10-22T12:44:34.000Z"
       }
     ]
   },
   "latest": [
     {
-      "headline": "BlackRock's Rick Rieder sees 'historic' opportunity in high-quality bonds",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/21/rick-rieder-investment-grade-bonds.html",
-      "datetime": "2026-10-21T19:32:55.000Z"
-    },
-    {
-      "headline": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "datetime": "2026-10-21T19:20:53.000Z"
-    },
-    {
-      "headline": "Six Flags drops as Mizuho warns of balance sheet strains and cash flow deficits",
+      "headline": "Why is Gix Internet stock surging today?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/six-flags-drops-as-mizuho-warns-of-balance-sheet-strains-and-cash-flow-deficits-4963847",
-      "datetime": "2026-10-21T19:15:09.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/why-is-gix-internet-stock-surging-today-93CH-4966040",
+      "datetime": "2026-10-22T16:33:27.000Z"
     },
     {
-      "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
+      "headline": "BTIG finds robotics economics depend on multi-shift deployment",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/cyber-agency-warns-websites-may-go-dark-as-php-prepares-critical-fix-4961963",
-      "datetime": "2026-10-21T19:12:42.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/btig-finds-robotics-economics-depend-on-multishift-deployment-93CH-4966037",
+      "datetime": "2026-10-22T16:33:05.000Z"
     },
     {
-      "headline": "Factbox-Websites taken offline over PHP risks",
+      "headline": "Norfolk Southern tops profit estimates as freight demand stays strong",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/factboxwebsites-taken-offline-over-php-risks-4963631",
-      "datetime": "2026-10-21T19:06:41.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/norfolk-southern-tops-profit-estimates-as-freight-demand-stays-strong-4966019",
+      "datetime": "2026-10-22T16:31:15.000Z"
     },
     {
-      "headline": "Why is Teledyne Technologies stock slipping today?",
+      "headline": "UBS reports semiconductor distributor inventory up 2% in October",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-teledyne-technologies-stock-slipping-today-93CH-4963831",
-      "datetime": "2026-10-21T18:54:35.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/ubs-reports-semiconductor-distributor-inventory-up-2-in-october-93CH-4966016",
+      "datetime": "2026-10-22T16:31:08.000Z"
     },
     {
-      "headline": "EA to shutter BioWare studio, cut jobs as it narrows game slate",
+      "headline": "Deutsche Bank names three stocks as standouts as AI usage grows",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/ea-to-shutter-bioware-studio-cut-jobs-as-it-narrows-game-slate-4963824",
-      "datetime": "2026-10-21T18:54:33.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/deutsche-bank-names-three-stocks-as-standouts-as-ai-usage-grows-4965999",
+      "datetime": "2026-10-22T16:28:39.000Z"
     },
     {
-      "headline": "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
-      "datetime": "2026-10-21T18:43:56.000Z"
+      "headline": "Why is Forgent Power Solutions stock sliding today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-forgent-power-solutions-stock-sliding-today-93CH-4965997",
+      "datetime": "2026-10-22T16:28:23.000Z"
+    },
+    {
+      "headline": "Forgent stock falls 11% on CFO transition announcement",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/forgent-stock-falls-11-on-cfo-transition-announcement-4965990",
+      "datetime": "2026-10-22T16:26:17.000Z"
+    },
+    {
+      "headline": "Meta stock drops premarket after earnings: Buy the dip or stay put?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/meta-stock-drops-premarket-after-earnings-buy-the-dip-or-stay-put-93CH-4965991",
+      "datetime": "2026-10-22T16:25:48.000Z"
     }
   ]
 }

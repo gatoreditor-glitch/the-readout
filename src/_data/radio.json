@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "date": "2026-10-22",
+      "title": "The $5 Cushion Holding Up a Bullish Dashboard",
+      "desc": "SPY sits $5.09 above its 50-day line -- a bullish dashboard resting on a two-thirds-of-one-percent cushion, with momentum nowhere in sight.",
+      "duration": "4:12",
+      "file": "/assets/audio/five-dollar-cushion.mp3"
+    },
+    {
       "date": "2026-10-21",
       "title": "The 0.8-Point Drift Nobody's Talking About",
       "desc": "CPI has drifted from 2.9% to 3.7% in thirteen months, in a straight line. The level isn't the story -- the direction is, and the October print decides it.",
@@ -58,5 +65,5 @@
     }
   ],
   "tagline": "Short audio briefings on markets, data, and the odds.",
-  "updated": "2026-10-21"
+  "updated": "2026-10-22"
 }
