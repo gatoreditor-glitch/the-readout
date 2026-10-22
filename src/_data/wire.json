@@ -1,132 +1,132 @@
 {
-  "updated": "2026-10-22T16:32:31.491Z",
+  "updated": "2026-10-22T19:27:32.237Z",
   "order": [
     "Finance"
   ],
   "groups": {
     "Finance": [
       {
-        "headline": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
+        "headline": "Moderna shares plunge after leak of cancer vaccine data despite positive results",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/22/trump-deposition-bbc-defamation-lawsuit.html",
-        "datetime": "2026-10-22T16:32:13.000Z"
+        "url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+        "datetime": "2026-10-22T19:26:33.000Z"
       },
       {
-        "headline": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+        "headline": "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
-        "datetime": "2026-10-22T16:31:17.000Z"
+        "url": "https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html",
+        "datetime": "2026-10-22T19:24:43.000Z"
       },
       {
-        "headline": "Gucci sales slid further in Q3, Kering says, dampening revival hopes ",
+        "headline": "US farm secretary says USDA reorganization blocked by judge is ’full bore ahead’",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/guccis-sales-drop-5-in-third-quarter-as-weak-chinese-demand-dampens-turnaround-hopes-4966939",
-        "datetime": "2026-10-22T16:12:39.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/us-farm-secretary-says-usda-reorganization-blocked-by-judge-is-full-bore-ahead-4967220",
+        "datetime": "2026-10-22T19:12:25.000Z"
       },
       {
-        "headline": "L’Oréal stock jumps as third-quarter sales beat estimates",
+        "headline": "Consumer staples rotation: PepsiCo, Coca-Cola, P&G and Altria compared",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/loreal-stock-jumps-as-thirdquarter-sales-beat-estimates-4966982",
-        "datetime": "2026-10-22T16:11:06.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/consumer-staples-rotation-pepsico-cocacola-pg-and-altria-compared-93CH-4967219",
+        "datetime": "2026-10-22T19:11:44.000Z"
       },
       {
-        "headline": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.33%",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-033-4966981",
-        "datetime": "2026-10-22T16:09:14.000Z"
+        "headline": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
+        "datetime": "2026-10-22T19:09:11.000Z"
       },
       {
-        "headline": "Spain stocks lower at close of trade; IBEX 35 down 2.12%",
+        "headline": "Why is Celestica stock tumbling today?",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-212-4966980",
-        "datetime": "2026-10-22T16:08:47.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/why-is-celestica-stock-tumbling-today-93CH-4967215",
+        "datetime": "2026-10-22T19:07:03.000Z"
       },
       {
-        "headline": "Portugal stocks lower at close of trade; PSI down 1.46%",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-146-4966979",
-        "datetime": "2026-10-22T16:08:20.000Z"
+        "headline": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
+        "datetime": "2026-10-22T19:05:32.000Z"
       },
       {
-        "headline": "Netherlands stocks lower at close of trade; AEX down 1.10%",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-110-4966978",
-        "datetime": "2026-10-22T16:07:49.000Z"
+        "headline": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+        "datetime": "2026-10-22T18:55:38.000Z"
       },
       {
-        "headline": "Italy stocks lower at close of trade; Investing.com Italy 40 down 2.59%",
+        "headline": "Best large-cap dip buys: AT&T leads on earnings beat and rising estimates",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/italy-stocks-lower-at-close-of-trade-investingcom-italy-40-down-259-4966977",
-        "datetime": "2026-10-22T16:07:21.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/best-largecap-dip-buys-att-leads-on-earnings-beat-and-rising-estimates-93CH-4967207",
+        "datetime": "2026-10-22T18:54:56.000Z"
       },
       {
-        "headline": "AI safety group METR finds flaws in OpenAI’s internal monitoring system",
+        "headline": "Jefferies names top fashion stocks ahead of earnings season",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/ai-safety-group-metr-finds-flaws-in-openais-internal-monitoring-system-4966975",
-        "datetime": "2026-10-22T16:06:47.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/jefferies-names-top-fashion-stocks-ahead-of-earnings-season-4967203",
+        "datetime": "2026-10-22T18:53:18.000Z"
       },
       {
-        "headline": "Epic’s ’Fortnite’ to return on Apple’s app store in Australia after antitrust ruling",
+        "headline": "Top lodging stocks for 3Q26 earnings, according to Wells Fargo",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/epics-fortnite-back-on-apple-app-store-in-australia-after-antitrust-ruling-4964596",
-        "datetime": "2026-10-22T16:06:29.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/top-lodging-stocks-for-3q26-earnings-according-to-wells-fargo-4967202",
+        "datetime": "2026-10-22T18:51:43.000Z"
       },
       {
-        "headline": "Germany stocks lower at close of trade; DAX down 1.04%",
+        "headline": "Trump asks Musk to lift Ukraine Starlink restrictions, WSJ reports",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/germany-stocks-lower-at-close-of-trade-dax-down-104-4966974",
-        "datetime": "2026-10-22T16:06:22.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports-4967200",
+        "datetime": "2026-10-22T18:48:24.000Z"
       }
     ]
   },
   "latest": [
     {
-      "headline": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
+      "headline": "Moderna shares plunge after leak of cancer vaccine data despite positive results",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/trump-deposition-bbc-defamation-lawsuit.html",
-      "datetime": "2026-10-22T16:32:13.000Z"
+      "url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+      "datetime": "2026-10-22T19:26:33.000Z"
     },
     {
-      "headline": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+      "headline": "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
-      "datetime": "2026-10-22T16:31:17.000Z"
+      "url": "https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html",
+      "datetime": "2026-10-22T19:24:43.000Z"
     },
     {
-      "headline": "Gucci sales slid further in Q3, Kering says, dampening revival hopes ",
+      "headline": "US farm secretary says USDA reorganization blocked by judge is ’full bore ahead’",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/guccis-sales-drop-5-in-third-quarter-as-weak-chinese-demand-dampens-turnaround-hopes-4966939",
-      "datetime": "2026-10-22T16:12:39.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/us-farm-secretary-says-usda-reorganization-blocked-by-judge-is-full-bore-ahead-4967220",
+      "datetime": "2026-10-22T19:12:25.000Z"
     },
     {
-      "headline": "L’Oréal stock jumps as third-quarter sales beat estimates",
+      "headline": "Consumer staples rotation: PepsiCo, Coca-Cola, P&G and Altria compared",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/loreal-stock-jumps-as-thirdquarter-sales-beat-estimates-4966982",
-      "datetime": "2026-10-22T16:11:06.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/consumer-staples-rotation-pepsico-cocacola-pg-and-altria-compared-93CH-4967219",
+      "datetime": "2026-10-22T19:11:44.000Z"
     },
     {
-      "headline": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.33%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-033-4966981",
-      "datetime": "2026-10-22T16:09:14.000Z"
+      "headline": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
+      "datetime": "2026-10-22T19:09:11.000Z"
     },
     {
-      "headline": "Spain stocks lower at close of trade; IBEX 35 down 2.12%",
+      "headline": "Why is Celestica stock tumbling today?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-212-4966980",
-      "datetime": "2026-10-22T16:08:47.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/why-is-celestica-stock-tumbling-today-93CH-4967215",
+      "datetime": "2026-10-22T19:07:03.000Z"
     },
     {
-      "headline": "Portugal stocks lower at close of trade; PSI down 1.46%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-146-4966979",
-      "datetime": "2026-10-22T16:08:20.000Z"
+      "headline": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
+      "datetime": "2026-10-22T19:05:32.000Z"
     },
     {
-      "headline": "Netherlands stocks lower at close of trade; AEX down 1.10%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/netherlands-stocks-lower-at-close-of-trade-aex-down-110-4966978",
-      "datetime": "2026-10-22T16:07:49.000Z"
+      "headline": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+      "datetime": "2026-10-22T18:55:38.000Z"
     }
   ]
 }
