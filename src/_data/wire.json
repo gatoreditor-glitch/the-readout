@@ -1,132 +1,132 @@
 {
-  "updated": "2026-10-23T13:00:29.246Z",
+  "updated": "2026-10-23T16:23:42.638Z",
   "order": [
     "Finance"
   ],
   "groups": {
     "Finance": [
       {
-        "headline": "U.S. stock futures slide amid AI-driven tech jitters, oil price spike",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-posts-worst-day-since-june-4967865",
-        "datetime": "2026-10-23T16:43:26.000Z"
-      },
-      {
-        "headline": "Apple fans, customers react as iPhone Duo hits stores",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/apple-fans-customers-react-as-iphone-duo-hits-stores-4969372",
-        "datetime": "2026-10-23T16:42:57.000Z"
-      },
-      {
-        "headline": "AmEx lifts 2026 profit forecast as travel, entertainment spending drives growth",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/american-express-raises-2026-profit-forecast-as-affluent-customers-keep-spending-4968920",
-        "datetime": "2026-10-23T16:42:40.000Z"
-      },
-      {
-        "headline": "Cboe Global Markets stock gains on $550M buyback boost",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/cboe-global-markets-stock-gains-on-550m-buyback-boost-4969297",
-        "datetime": "2026-10-23T16:31:04.000Z"
-      },
-      {
-        "headline": "Meta’s capital-raising plans expose a major weakness in the AI boom",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/metas-capitalraising-plans-expose-a-major-weakness-in-the-ai-boom-4969253",
-        "datetime": "2026-10-23T16:24:45.000Z"
-      },
-      {
-        "headline": "Nokia shares analysis: Is this AI stock a buy amid oversold conditions?",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/nokia-shares-analysis-is-this-ai-stock-a-buy-amid-oversold-conditions-93CH-4969226",
-        "datetime": "2026-10-23T16:17:32.000Z"
-      },
-      {
-        "headline": "Why is LKQ stock crashing today?",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-lkq-stock-crashing-today-93CH-4969222",
-        "datetime": "2026-10-23T16:15:34.000Z"
-      },
-      {
-        "headline": "Is Netflix stock a buy at 52-week lows?",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/is-netflix-stock-a-buy-at-52week-lows-93CH-4969205",
-        "datetime": "2026-10-23T16:13:55.000Z"
-      },
-      {
-        "headline": "BofA Names Preferred Picks Among European Chipmakers Ahead of Earnings",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/bofa-names-preferred-picks-among-european-chipmakers-ahead-of-earnings-4969203",
-        "datetime": "2026-10-23T16:13:27.000Z"
-      },
-      {
-        "headline": "LKQ stock tumbles 10% on weak Q3 results, CEO departure",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/lkq-stock-tumbles-10-on-weak-q3-results-ceo-departure-4969181",
-        "datetime": "2026-10-23T16:12:35.000Z"
-      },
-      {
-        "headline": "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare",
+        "headline": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-        "datetime": "2026-10-23T12:46:11.000Z"
+        "url": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
+        "datetime": "2026-10-23T16:17:48.000Z"
       },
       {
-        "headline": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
+        "headline": "Western Digital earnings analysis: questions answered and next catalysts",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/western-digital-earnings-analysis-questions-answered-and-next-catalysts-93CH-4970089",
+        "datetime": "2026-10-23T16:02:16.000Z"
+      },
+      {
+        "headline": "Finland stocks lower at close of trade; OMX Helsinki 25 down 0.40%",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/finland-stocks-lower-at-close-of-trade-omx-helsinki-25-down-040-4970078",
+        "datetime": "2026-10-23T16:00:04.000Z"
+      },
+      {
+        "headline": "Why is CrowdStrike stock surging today?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-crowdstrike-stock-surging-today-93CH-4970073",
+        "datetime": "2026-10-23T15:56:25.000Z"
+      },
+      {
+        "headline": "Autoliv earnings analysis: questions answered and next catalysts",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/autoliv-earnings-analysis-questions-answered-and-next-catalysts-93CH-4970070",
+        "datetime": "2026-10-23T15:53:14.000Z"
+      },
+      {
+        "headline": "Booz Allen Hamilton earnings analysis: questions answered and next catalysts",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/booz-allen-hamilton-earnings-analysis-questions-answered-and-next-catalysts-93CH-4970068",
+        "datetime": "2026-10-23T15:52:28.000Z"
+      },
+      {
+        "headline": "Rogers Communications earnings analysis: questions answered and next catalysts",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/rogers-communications-earnings-analysis-questions-answered-and-next-catalysts-93CH-4970066",
+        "datetime": "2026-10-23T15:51:32.000Z"
+      },
+      {
+        "headline": "American Express earnings analysis: questions answered and next catalysts",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/american-express-earnings-analysis-questions-answered-and-next-catalysts-93CH-4970065",
+        "datetime": "2026-10-23T15:51:09.000Z"
+      },
+      {
+        "headline": "Ambani’s Jio becomes most subscribed Indian IPO with $77 billion in bids",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/ambanis-32-billion-jio-indian-ipo-lures-investors-as-bids-surge-on-final-day-4968087",
+        "datetime": "2026-10-23T15:50:31.000Z"
+      },
+      {
+        "headline": "SK Hynix puts US IPO of chip unit Solidigm on hold after Seoul authorities raise concerns",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/sk-hynix-drops-us-ipo-plan-for-solidigm-newspaper-reports-4967714",
+        "datetime": "2026-10-23T15:50:18.000Z"
+      },
+      {
+        "headline": "Exclusive-New Mexico’s outside lawyers could collect up to $1.27 billion in Meta case ",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/exclusivenew-mexicos-outside-lawyers-could-collect-up-to-127-billion-in-meta-case-4968679",
+        "datetime": "2026-10-23T15:50:01.000Z"
+      },
+      {
+        "headline": "TikTok U.S. hunts for multiple gigawatts of computing capacity, sources tell CNBC",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
-        "datetime": "2026-10-23T12:22:10.000Z"
+        "url": "https://www.cnbc.com/2026/10/23/tiktok-us-compute-capacity.html",
+        "datetime": "2026-10-23T15:35:36.000Z"
       }
     ]
   },
   "latest": [
     {
-      "headline": "U.S. stock futures slide amid AI-driven tech jitters, oil price spike",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-posts-worst-day-since-june-4967865",
-      "datetime": "2026-10-23T16:43:26.000Z"
+      "headline": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
+      "datetime": "2026-10-23T16:17:48.000Z"
     },
     {
-      "headline": "Apple fans, customers react as iPhone Duo hits stores",
+      "headline": "Western Digital earnings analysis: questions answered and next catalysts",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/apple-fans-customers-react-as-iphone-duo-hits-stores-4969372",
-      "datetime": "2026-10-23T16:42:57.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/western-digital-earnings-analysis-questions-answered-and-next-catalysts-93CH-4970089",
+      "datetime": "2026-10-23T16:02:16.000Z"
     },
     {
-      "headline": "AmEx lifts 2026 profit forecast as travel, entertainment spending drives growth",
+      "headline": "Finland stocks lower at close of trade; OMX Helsinki 25 down 0.40%",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/american-express-raises-2026-profit-forecast-as-affluent-customers-keep-spending-4968920",
-      "datetime": "2026-10-23T16:42:40.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/finland-stocks-lower-at-close-of-trade-omx-helsinki-25-down-040-4970078",
+      "datetime": "2026-10-23T16:00:04.000Z"
     },
     {
-      "headline": "Cboe Global Markets stock gains on $550M buyback boost",
+      "headline": "Why is CrowdStrike stock surging today?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/cboe-global-markets-stock-gains-on-550m-buyback-boost-4969297",
-      "datetime": "2026-10-23T16:31:04.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/why-is-crowdstrike-stock-surging-today-93CH-4970073",
+      "datetime": "2026-10-23T15:56:25.000Z"
     },
     {
-      "headline": "Meta’s capital-raising plans expose a major weakness in the AI boom",
+      "headline": "Autoliv earnings analysis: questions answered and next catalysts",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/metas-capitalraising-plans-expose-a-major-weakness-in-the-ai-boom-4969253",
-      "datetime": "2026-10-23T16:24:45.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/autoliv-earnings-analysis-questions-answered-and-next-catalysts-93CH-4970070",
+      "datetime": "2026-10-23T15:53:14.000Z"
     },
     {
-      "headline": "Nokia shares analysis: Is this AI stock a buy amid oversold conditions?",
+      "headline": "Booz Allen Hamilton earnings analysis: questions answered and next catalysts",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/nokia-shares-analysis-is-this-ai-stock-a-buy-amid-oversold-conditions-93CH-4969226",
-      "datetime": "2026-10-23T16:17:32.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/booz-allen-hamilton-earnings-analysis-questions-answered-and-next-catalysts-93CH-4970068",
+      "datetime": "2026-10-23T15:52:28.000Z"
     },
     {
-      "headline": "Why is LKQ stock crashing today?",
+      "headline": "Rogers Communications earnings analysis: questions answered and next catalysts",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-lkq-stock-crashing-today-93CH-4969222",
-      "datetime": "2026-10-23T16:15:34.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/rogers-communications-earnings-analysis-questions-answered-and-next-catalysts-93CH-4970066",
+      "datetime": "2026-10-23T15:51:32.000Z"
     },
     {
-      "headline": "Is Netflix stock a buy at 52-week lows?",
+      "headline": "American Express earnings analysis: questions answered and next catalysts",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/is-netflix-stock-a-buy-at-52week-lows-93CH-4969205",
-      "datetime": "2026-10-23T16:13:55.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/american-express-earnings-analysis-questions-answered-and-next-catalysts-93CH-4970065",
+      "datetime": "2026-10-23T15:51:09.000Z"
     }
   ]
 }
