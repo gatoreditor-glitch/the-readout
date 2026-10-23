@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "date": "2026-10-23",
+      "title": "One Red Light in a Calm Cockpit",
+      "desc": "Five gauges calm, one red -- SPY slipped back below its 50-day while headlines rout the AI trade; the divergence between realized calm and headline fear is the story.",
+      "duration": "3:55",
+      "file": "/assets/audio/one-red-light-calm-cockpit.mp3"
+    },
+    {
       "date": "2026-10-22",
       "title": "Lockheed's 3% Pop Is Really Two Stories",
       "desc": "Lockheed's 3% pop was a double beat plus a 10-year F-35 framework -- and the number that matters is the $292 billion backlog, up 27% in one quarter.",
@@ -79,5 +86,5 @@
     }
   ],
   "tagline": "Short audio briefings on markets, data, and the odds.",
-  "updated": "2026-10-22"
+  "updated": "2026-10-23"
 }

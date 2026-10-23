@@ -1,132 +1,132 @@
 {
-  "updated": "2026-10-22T19:27:32.237Z",
+  "updated": "2026-10-23T13:00:29.246Z",
   "order": [
     "Finance"
   ],
   "groups": {
     "Finance": [
       {
-        "headline": "Moderna shares plunge after leak of cancer vaccine data despite positive results",
+        "headline": "U.S. stock futures slide amid AI-driven tech jitters, oil price spike",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-posts-worst-day-since-june-4967865",
+        "datetime": "2026-10-23T16:43:26.000Z"
+      },
+      {
+        "headline": "Apple fans, customers react as iPhone Duo hits stores",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/apple-fans-customers-react-as-iphone-duo-hits-stores-4969372",
+        "datetime": "2026-10-23T16:42:57.000Z"
+      },
+      {
+        "headline": "AmEx lifts 2026 profit forecast as travel, entertainment spending drives growth",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/american-express-raises-2026-profit-forecast-as-affluent-customers-keep-spending-4968920",
+        "datetime": "2026-10-23T16:42:40.000Z"
+      },
+      {
+        "headline": "Cboe Global Markets stock gains on $550M buyback boost",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/cboe-global-markets-stock-gains-on-550m-buyback-boost-4969297",
+        "datetime": "2026-10-23T16:31:04.000Z"
+      },
+      {
+        "headline": "Meta’s capital-raising plans expose a major weakness in the AI boom",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/metas-capitalraising-plans-expose-a-major-weakness-in-the-ai-boom-4969253",
+        "datetime": "2026-10-23T16:24:45.000Z"
+      },
+      {
+        "headline": "Nokia shares analysis: Is this AI stock a buy amid oversold conditions?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/nokia-shares-analysis-is-this-ai-stock-a-buy-amid-oversold-conditions-93CH-4969226",
+        "datetime": "2026-10-23T16:17:32.000Z"
+      },
+      {
+        "headline": "Why is LKQ stock crashing today?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-lkq-stock-crashing-today-93CH-4969222",
+        "datetime": "2026-10-23T16:15:34.000Z"
+      },
+      {
+        "headline": "Is Netflix stock a buy at 52-week lows?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/is-netflix-stock-a-buy-at-52week-lows-93CH-4969205",
+        "datetime": "2026-10-23T16:13:55.000Z"
+      },
+      {
+        "headline": "BofA Names Preferred Picks Among European Chipmakers Ahead of Earnings",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/bofa-names-preferred-picks-among-european-chipmakers-ahead-of-earnings-4969203",
+        "datetime": "2026-10-23T16:13:27.000Z"
+      },
+      {
+        "headline": "LKQ stock tumbles 10% on weak Q3 results, CEO departure",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/lkq-stock-tumbles-10-on-weak-q3-results-ceo-departure-4969181",
+        "datetime": "2026-10-23T16:12:35.000Z"
+      },
+      {
+        "headline": "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-        "datetime": "2026-10-22T19:26:33.000Z"
+        "url": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
+        "datetime": "2026-10-23T12:46:11.000Z"
       },
       {
-        "headline": "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
+        "headline": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html",
-        "datetime": "2026-10-22T19:24:43.000Z"
-      },
-      {
-        "headline": "US farm secretary says USDA reorganization blocked by judge is ’full bore ahead’",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/us-farm-secretary-says-usda-reorganization-blocked-by-judge-is-full-bore-ahead-4967220",
-        "datetime": "2026-10-22T19:12:25.000Z"
-      },
-      {
-        "headline": "Consumer staples rotation: PepsiCo, Coca-Cola, P&G and Altria compared",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/consumer-staples-rotation-pepsico-cocacola-pg-and-altria-compared-93CH-4967219",
-        "datetime": "2026-10-22T19:11:44.000Z"
-      },
-      {
-        "headline": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
-        "datetime": "2026-10-22T19:09:11.000Z"
-      },
-      {
-        "headline": "Why is Celestica stock tumbling today?",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/why-is-celestica-stock-tumbling-today-93CH-4967215",
-        "datetime": "2026-10-22T19:07:03.000Z"
-      },
-      {
-        "headline": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
-        "datetime": "2026-10-22T19:05:32.000Z"
-      },
-      {
-        "headline": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
-        "datetime": "2026-10-22T18:55:38.000Z"
-      },
-      {
-        "headline": "Best large-cap dip buys: AT&T leads on earnings beat and rising estimates",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/best-largecap-dip-buys-att-leads-on-earnings-beat-and-rising-estimates-93CH-4967207",
-        "datetime": "2026-10-22T18:54:56.000Z"
-      },
-      {
-        "headline": "Jefferies names top fashion stocks ahead of earnings season",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/jefferies-names-top-fashion-stocks-ahead-of-earnings-season-4967203",
-        "datetime": "2026-10-22T18:53:18.000Z"
-      },
-      {
-        "headline": "Top lodging stocks for 3Q26 earnings, according to Wells Fargo",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/top-lodging-stocks-for-3q26-earnings-according-to-wells-fargo-4967202",
-        "datetime": "2026-10-22T18:51:43.000Z"
-      },
-      {
-        "headline": "Trump asks Musk to lift Ukraine Starlink restrictions, WSJ reports",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports-4967200",
-        "datetime": "2026-10-22T18:48:24.000Z"
+        "url": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
+        "datetime": "2026-10-23T12:22:10.000Z"
       }
     ]
   },
   "latest": [
     {
-      "headline": "Moderna shares plunge after leak of cancer vaccine data despite positive results",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-      "datetime": "2026-10-22T19:26:33.000Z"
-    },
-    {
-      "headline": "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html",
-      "datetime": "2026-10-22T19:24:43.000Z"
-    },
-    {
-      "headline": "US farm secretary says USDA reorganization blocked by judge is ’full bore ahead’",
+      "headline": "U.S. stock futures slide amid AI-driven tech jitters, oil price spike",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-farm-secretary-says-usda-reorganization-blocked-by-judge-is-full-bore-ahead-4967220",
-      "datetime": "2026-10-22T19:12:25.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-posts-worst-day-since-june-4967865",
+      "datetime": "2026-10-23T16:43:26.000Z"
     },
     {
-      "headline": "Consumer staples rotation: PepsiCo, Coca-Cola, P&G and Altria compared",
+      "headline": "Apple fans, customers react as iPhone Duo hits stores",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/consumer-staples-rotation-pepsico-cocacola-pg-and-altria-compared-93CH-4967219",
-      "datetime": "2026-10-22T19:11:44.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/apple-fans-customers-react-as-iphone-duo-hits-stores-4969372",
+      "datetime": "2026-10-23T16:42:57.000Z"
     },
     {
-      "headline": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
-      "datetime": "2026-10-22T19:09:11.000Z"
-    },
-    {
-      "headline": "Why is Celestica stock tumbling today?",
+      "headline": "AmEx lifts 2026 profit forecast as travel, entertainment spending drives growth",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-celestica-stock-tumbling-today-93CH-4967215",
-      "datetime": "2026-10-22T19:07:03.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/american-express-raises-2026-profit-forecast-as-affluent-customers-keep-spending-4968920",
+      "datetime": "2026-10-23T16:42:40.000Z"
     },
     {
-      "headline": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
-      "datetime": "2026-10-22T19:05:32.000Z"
+      "headline": "Cboe Global Markets stock gains on $550M buyback boost",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/cboe-global-markets-stock-gains-on-550m-buyback-boost-4969297",
+      "datetime": "2026-10-23T16:31:04.000Z"
     },
     {
-      "headline": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
-      "datetime": "2026-10-22T18:55:38.000Z"
+      "headline": "Meta’s capital-raising plans expose a major weakness in the AI boom",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/metas-capitalraising-plans-expose-a-major-weakness-in-the-ai-boom-4969253",
+      "datetime": "2026-10-23T16:24:45.000Z"
+    },
+    {
+      "headline": "Nokia shares analysis: Is this AI stock a buy amid oversold conditions?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/nokia-shares-analysis-is-this-ai-stock-a-buy-amid-oversold-conditions-93CH-4969226",
+      "datetime": "2026-10-23T16:17:32.000Z"
+    },
+    {
+      "headline": "Why is LKQ stock crashing today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-lkq-stock-crashing-today-93CH-4969222",
+      "datetime": "2026-10-23T16:15:34.000Z"
+    },
+    {
+      "headline": "Is Netflix stock a buy at 52-week lows?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/is-netflix-stock-a-buy-at-52week-lows-93CH-4969205",
+      "datetime": "2026-10-23T16:13:55.000Z"
     }
   ]
 }
