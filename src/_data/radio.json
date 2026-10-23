@@ -2,6 +2,13 @@
   "episodes": [
     {
       "date": "2026-10-23",
+      "title": "3.7% and Creeping: The Inflation Chart in One Look",
+      "desc": "CPI has drifted from 2.9% to 3.7% in twelve months without a single spike -- the chart that argues against the Fed's settling thesis.",
+      "duration": "3:02",
+      "file": "/assets/audio/cpi-creep-data-brief.mp3"
+    },
+    {
+      "date": "2026-10-23",
       "title": "WTI Is Back Above $100. Here's What the Last Trip Cost Stocks.",
       "desc": "WTI's sixth trip above $100 this year, up 88.6% since January -- and the 2022 tape, when sustained triple-digit oil overlapped a 14.9% S&P slide.",
       "duration": "7:28",
