@@ -1,132 +1,132 @@
 {
-  "updated": "2026-10-25T03:25:16.882Z",
+  "updated": "2026-10-25T19:21:37.175Z",
   "order": [
     "Finance"
   ],
   "groups": {
     "Finance": [
       {
-        "headline": "Trump announces Audi will build $4 billion US factory in Georgia",
+        "headline": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+        "datetime": "2026-10-25T18:18:49.000Z"
+      },
+      {
+        "headline": "Oppenheimer sees web, commerce software Q3 backdrop improving, AI worries linger",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/oppenheimer-sees-web-commerce-software-q3-backdrop-improving-ai-worries-linger-4971234",
+        "datetime": "2026-10-25T17:48:15.000Z"
+      },
+      {
+        "headline": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+        "datetime": "2026-10-25T16:42:42.000Z"
+      },
+      {
+        "headline": "Audi defends decision to stand by Trump on $4 billion US factory in Georgia",
         "source": "Investing.com",
         "url": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
-        "datetime": "2026-10-25T06:48:34.000Z"
+        "datetime": "2026-10-25T15:54:23.000Z"
       },
       {
-        "headline": "HSBC sees cautious optimism in VC and PE activity",
+        "headline": "Does enough capital exist to finance everyone’s ambitious AI spending plans?",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/hsbc-sees-cautious-optimism-in-vc-and-pe-activity-4971023",
-        "datetime": "2026-10-25T06:48:10.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/does-enough-capital-exist-to-finance-everyones-ambitious-ai-spending-plans-4971221",
+        "datetime": "2026-10-25T15:27:32.000Z"
       },
       {
-        "headline": "Chinese equities face prolonged downturn as earnings forecasts tumble",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/chinese-equities-face-prolonged-downturn-as-earnings-forecasts-tumble-4971016",
-        "datetime": "2026-10-25T05:37:10.000Z"
-      },
-      {
-        "headline": "Sydney’s new international airport opens to passengers",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/sydneys-new-international-airport-opens-to-passengers-4971003",
-        "datetime": "2026-10-25T04:30:24.000Z"
-      },
-      {
-        "headline": "Abuse survivors approve $800 million settlement with Archdiocese of New York",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/abuse-survivors-approve-800-million-settlement-with-archdiocese-of-new-york-4971001",
-        "datetime": "2026-10-25T03:42:03.000Z"
-      },
-      {
-        "headline": "Why South Korea’s stock market represents the purest AI trade",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/why-south-koreas-stock-market-represents-the-purest-ai-trade-4970991",
-        "datetime": "2026-10-25T02:55:32.000Z"
-      },
-      {
-        "headline": "Inside the Trump-administration campaign to return Brazil’s Bolsonaro clan to power",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978",
-        "datetime": "2026-10-25T01:48:24.000Z"
-      },
-      {
-        "headline": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
+        "headline": "In pictures: Initially peaceful protests across France over inequality again descend into violence ",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
-        "datetime": "2026-10-24T21:07:01.000Z"
+        "url": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
+        "datetime": "2026-10-25T14:14:23.000Z"
       },
       {
-        "headline": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+        "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
-        "datetime": "2026-10-24T20:38:30.000Z"
+        "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
+        "datetime": "2026-10-25T13:41:37.000Z"
       },
       {
-        "headline": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification",
+        "headline": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 2.65%",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-265-4971175",
+        "datetime": "2026-10-25T12:45:03.000Z"
+      },
+      {
+        "headline": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
-        "datetime": "2026-10-24T19:57:24.000Z"
+        "url": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
+        "datetime": "2026-10-25T12:00:01.000Z"
       },
       {
-        "headline": "Apax, Nordic Capital and Dalmore circling UK supplier JLA Group - Bloomberg",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/apax-nordic-capital-and-dalmore-circling-uk-supplier-jla-group--bloomberg-4970855",
-        "datetime": "2026-10-24T19:09:31.000Z"
+        "headline": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+        "datetime": "2026-10-25T12:00:01.000Z"
       },
       {
-        "headline": "Couche-Tard proposes up to $8 billion offer for Cumberland Farms, The Times reports",
+        "headline": "UBS may cut 12,000 Swiss jobs if capital rules tighten - report",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/couchetard-proposes-up-to-8-billion-offer-for-cumberland-farms-the-times-reports-4970845",
-        "datetime": "2026-10-24T18:30:26.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/ubs-may-cut-12000-swiss-jobs-if-capital-rules-tighten--report-4971117",
+        "datetime": "2026-10-25T10:45:31.000Z"
+      },
+      {
+        "headline": "Street Calls of the Week",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-4970904",
+        "datetime": "2026-10-25T10:05:01.000Z"
       }
     ]
   },
   "latest": [
     {
-      "headline": "Trump announces Audi will build $4 billion US factory in Georgia",
+      "headline": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+      "datetime": "2026-10-25T18:18:49.000Z"
+    },
+    {
+      "headline": "Oppenheimer sees web, commerce software Q3 backdrop improving, AI worries linger",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/oppenheimer-sees-web-commerce-software-q3-backdrop-improving-ai-worries-linger-4971234",
+      "datetime": "2026-10-25T17:48:15.000Z"
+    },
+    {
+      "headline": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+      "datetime": "2026-10-25T16:42:42.000Z"
+    },
+    {
+      "headline": "Audi defends decision to stand by Trump on $4 billion US factory in Georgia",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
-      "datetime": "2026-10-25T06:48:34.000Z"
+      "datetime": "2026-10-25T15:54:23.000Z"
     },
     {
-      "headline": "HSBC sees cautious optimism in VC and PE activity",
+      "headline": "Does enough capital exist to finance everyone’s ambitious AI spending plans?",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/hsbc-sees-cautious-optimism-in-vc-and-pe-activity-4971023",
-      "datetime": "2026-10-25T06:48:10.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/does-enough-capital-exist-to-finance-everyones-ambitious-ai-spending-plans-4971221",
+      "datetime": "2026-10-25T15:27:32.000Z"
     },
     {
-      "headline": "Chinese equities face prolonged downturn as earnings forecasts tumble",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/chinese-equities-face-prolonged-downturn-as-earnings-forecasts-tumble-4971016",
-      "datetime": "2026-10-25T05:37:10.000Z"
-    },
-    {
-      "headline": "Sydney’s new international airport opens to passengers",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/sydneys-new-international-airport-opens-to-passengers-4971003",
-      "datetime": "2026-10-25T04:30:24.000Z"
-    },
-    {
-      "headline": "Abuse survivors approve $800 million settlement with Archdiocese of New York",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/abuse-survivors-approve-800-million-settlement-with-archdiocese-of-new-york-4971001",
-      "datetime": "2026-10-25T03:42:03.000Z"
-    },
-    {
-      "headline": "Why South Korea’s stock market represents the purest AI trade",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/why-south-koreas-stock-market-represents-the-purest-ai-trade-4970991",
-      "datetime": "2026-10-25T02:55:32.000Z"
-    },
-    {
-      "headline": "Inside the Trump-administration campaign to return Brazil’s Bolsonaro clan to power",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978",
-      "datetime": "2026-10-25T01:48:24.000Z"
-    },
-    {
-      "headline": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
+      "headline": "In pictures: Initially peaceful protests across France over inequality again descend into violence ",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
-      "datetime": "2026-10-24T21:07:01.000Z"
+      "url": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
+      "datetime": "2026-10-25T14:14:23.000Z"
+    },
+    {
+      "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
+      "datetime": "2026-10-25T13:41:37.000Z"
+    },
+    {
+      "headline": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 2.65%",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-265-4971175",
+      "datetime": "2026-10-25T12:45:03.000Z"
     }
   ]
 }

@@ -2,6 +2,13 @@
   "episodes": [
     {
       "date": "2026-10-25",
+      "title": "Two Exits at Once: Out of France, Out of AI, Into Switzerland",
+      "desc": "France boards up its luxury stores while Swiss stocks outperform -- two rotations, one destination: somewhere quieter to stand.",
+      "duration": "3:03",
+      "file": "/assets/audio/two-exits-france-switzerland.mp3"
+    },
+    {
+      "date": "2026-10-25",
       "title": "Nvidia's Real AI Bet Isn't Chips. It's Credit.",
       "desc": "Nvidia isn't just selling the AI buildout, it's financing it -- $36B in neocloud backstops, $105B behind OpenAI's Ohio build, and CoreWeave credit trading at distress levels.",
       "duration": "4:32",
