@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "date": "2026-10-25",
+      "title": "Nvidia's Real AI Bet Isn't Chips. It's Credit.",
+      "desc": "Nvidia isn't just selling the AI buildout, it's financing it -- $36B in neocloud backstops, $105B behind OpenAI's Ohio build, and CoreWeave credit trading at distress levels.",
+      "duration": "4:32",
+      "file": "/assets/audio/nvidia-credit-not-chips.mp3"
+    },
+    {
       "date": "2026-10-24",
       "title": "Calm on the Surface, Cooling Underneath",
       "desc": "SPY drifted to $759.97 with momentum cooling to +2.8% -- 3 gauges bullish, 2 neutral, 1 red, and a market quiet enough to mistake for safe.",
@@ -107,5 +114,5 @@
     }
   ],
   "tagline": "Short audio briefings on markets, data, and the odds.",
-  "updated": "2026-10-24"
+  "updated": "2026-10-25"
 }
