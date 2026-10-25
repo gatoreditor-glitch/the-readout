@@ -1,132 +1,132 @@
 {
-  "updated": "2026-10-23T19:22:24.793Z",
+  "updated": "2026-10-25T03:25:16.882Z",
   "order": [
     "Finance"
   ],
   "groups": {
     "Finance": [
       {
-        "headline": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+        "headline": "Trump announces Audi will build $4 billion US factory in Georgia",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
+        "datetime": "2026-10-25T06:48:34.000Z"
+      },
+      {
+        "headline": "HSBC sees cautious optimism in VC and PE activity",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/hsbc-sees-cautious-optimism-in-vc-and-pe-activity-4971023",
+        "datetime": "2026-10-25T06:48:10.000Z"
+      },
+      {
+        "headline": "Chinese equities face prolonged downturn as earnings forecasts tumble",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/chinese-equities-face-prolonged-downturn-as-earnings-forecasts-tumble-4971016",
+        "datetime": "2026-10-25T05:37:10.000Z"
+      },
+      {
+        "headline": "Sydney’s new international airport opens to passengers",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/sydneys-new-international-airport-opens-to-passengers-4971003",
+        "datetime": "2026-10-25T04:30:24.000Z"
+      },
+      {
+        "headline": "Abuse survivors approve $800 million settlement with Archdiocese of New York",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/abuse-survivors-approve-800-million-settlement-with-archdiocese-of-new-york-4971001",
+        "datetime": "2026-10-25T03:42:03.000Z"
+      },
+      {
+        "headline": "Why South Korea’s stock market represents the purest AI trade",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/why-south-koreas-stock-market-represents-the-purest-ai-trade-4970991",
+        "datetime": "2026-10-25T02:55:32.000Z"
+      },
+      {
+        "headline": "Inside the Trump-administration campaign to return Brazil’s Bolsonaro clan to power",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978",
+        "datetime": "2026-10-25T01:48:24.000Z"
+      },
+      {
+        "headline": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
-        "datetime": "2026-10-23T19:19:08.000Z"
+        "url": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
+        "datetime": "2026-10-24T21:07:01.000Z"
       },
       {
-        "headline": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+        "headline": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
-        "datetime": "2026-10-23T18:59:53.000Z"
+        "url": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+        "datetime": "2026-10-24T20:38:30.000Z"
       },
       {
-        "headline": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+        "headline": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-        "datetime": "2026-10-23T18:57:48.000Z"
+        "url": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
+        "datetime": "2026-10-24T19:57:24.000Z"
       },
       {
-        "headline": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
-        "datetime": "2026-10-23T18:54:16.000Z"
-      },
-      {
-        "headline": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
-        "datetime": "2026-10-23T18:52:37.000Z"
-      },
-      {
-        "headline": "Chili’s workers’ lawsuit looks to strike New York state’s lower wage for tipped workers",
+        "headline": "Apax, Nordic Capital and Dalmore circling UK supplier JLA Group - Bloomberg",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/chilis-workers-lawsuit-looks-to-strike-new-york-states-lower-wage-for-tipped-workers-4970224",
-        "datetime": "2026-10-23T18:30:25.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/apax-nordic-capital-and-dalmore-circling-uk-supplier-jla-group--bloomberg-4970855",
+        "datetime": "2026-10-24T19:09:31.000Z"
       },
       {
-        "headline": "Top restaurant stocks to watch, according to Raymond James",
+        "headline": "Couche-Tard proposes up to $8 billion offer for Cumberland Farms, The Times reports",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/top-restaurant-stocks-to-watch-according-to-raymond-james-4970217",
-        "datetime": "2026-10-23T18:14:24.000Z"
-      },
-      {
-        "headline": "Senator says planned Meta commercial terms update could harm US businesses",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/senator-says-planned-meta-commercial-terms-update-could-harm-us-businesses-4970215",
-        "datetime": "2026-10-23T18:12:17.000Z"
-      },
-      {
-        "headline": "Dow, S&P 500 fall, tech steadies to end rocky week ",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/wall-street-futures-dip-after-ai-rout-telecoms-slide-4968816",
-        "datetime": "2026-10-23T18:06:38.000Z"
-      },
-      {
-        "headline": "Crowdstrike, Micron among market cap stock movers on Friday",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/crowdstrike-micron-among-market-cap-stock-movers-on-friday-93CH-4970208",
-        "datetime": "2026-10-23T18:06:13.000Z"
-      },
-      {
-        "headline": "Economic data and Treasury auctions highlight Monday’s schedule",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/economic-data-and-treasury-auctions-highlight-mondays-schedule-93CH-4970204",
-        "datetime": "2026-10-23T18:00:34.000Z"
-      },
-      {
-        "headline": "Investing.com’s stocks of the week",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/investingcoms-stocks-of-the-week-4970198",
-        "datetime": "2026-10-23T17:59:33.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/couchetard-proposes-up-to-8-billion-offer-for-cumberland-farms-the-times-reports-4970845",
+        "datetime": "2026-10-24T18:30:26.000Z"
       }
     ]
   },
   "latest": [
     {
-      "headline": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
-      "datetime": "2026-10-23T19:19:08.000Z"
-    },
-    {
-      "headline": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
-      "datetime": "2026-10-23T18:59:53.000Z"
-    },
-    {
-      "headline": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-      "datetime": "2026-10-23T18:57:48.000Z"
-    },
-    {
-      "headline": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
-      "datetime": "2026-10-23T18:54:16.000Z"
-    },
-    {
-      "headline": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
-      "datetime": "2026-10-23T18:52:37.000Z"
-    },
-    {
-      "headline": "Chili’s workers’ lawsuit looks to strike New York state’s lower wage for tipped workers",
+      "headline": "Trump announces Audi will build $4 billion US factory in Georgia",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/chilis-workers-lawsuit-looks-to-strike-new-york-states-lower-wage-for-tipped-workers-4970224",
-      "datetime": "2026-10-23T18:30:25.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
+      "datetime": "2026-10-25T06:48:34.000Z"
     },
     {
-      "headline": "Top restaurant stocks to watch, according to Raymond James",
+      "headline": "HSBC sees cautious optimism in VC and PE activity",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/top-restaurant-stocks-to-watch-according-to-raymond-james-4970217",
-      "datetime": "2026-10-23T18:14:24.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/hsbc-sees-cautious-optimism-in-vc-and-pe-activity-4971023",
+      "datetime": "2026-10-25T06:48:10.000Z"
     },
     {
-      "headline": "Senator says planned Meta commercial terms update could harm US businesses",
+      "headline": "Chinese equities face prolonged downturn as earnings forecasts tumble",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/senator-says-planned-meta-commercial-terms-update-could-harm-us-businesses-4970215",
-      "datetime": "2026-10-23T18:12:17.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/chinese-equities-face-prolonged-downturn-as-earnings-forecasts-tumble-4971016",
+      "datetime": "2026-10-25T05:37:10.000Z"
+    },
+    {
+      "headline": "Sydney’s new international airport opens to passengers",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/sydneys-new-international-airport-opens-to-passengers-4971003",
+      "datetime": "2026-10-25T04:30:24.000Z"
+    },
+    {
+      "headline": "Abuse survivors approve $800 million settlement with Archdiocese of New York",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/abuse-survivors-approve-800-million-settlement-with-archdiocese-of-new-york-4971001",
+      "datetime": "2026-10-25T03:42:03.000Z"
+    },
+    {
+      "headline": "Why South Korea’s stock market represents the purest AI trade",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-south-koreas-stock-market-represents-the-purest-ai-trade-4970991",
+      "datetime": "2026-10-25T02:55:32.000Z"
+    },
+    {
+      "headline": "Inside the Trump-administration campaign to return Brazil’s Bolsonaro clan to power",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/inside-the-trumpadministration-campaign-to-return-brazils-bolsonaro-clan-to-power-4970978",
+      "datetime": "2026-10-25T01:48:24.000Z"
+    },
+    {
+      "headline": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
+      "datetime": "2026-10-24T21:07:01.000Z"
     }
   ]
 }

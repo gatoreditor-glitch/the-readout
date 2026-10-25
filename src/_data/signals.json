@@ -1,31 +1,31 @@
 {
-  "updated": "2026-10-23T19:22:32.593Z",
+  "updated": "2026-10-25T03:25:24.117Z",
   "signals": [
     {
       "id": "trend",
       "label": "Trend Regime",
-      "value": "SPY $763.96",
+      "value": "SPY $759.97",
       "signal": "neutral",
       "note": "Mixed — below 50-day, above 200-day."
     },
     {
       "id": "momentum",
       "label": "Momentum (3-mo)",
-      "value": "+3.4%",
+      "value": "+2.8%",
       "signal": "neutral",
       "note": "S&P 500 return over the last 63 trading days."
     },
     {
       "id": "vol",
       "label": "Realized Volatility",
-      "value": "9.6%",
+      "value": "9.5%",
       "signal": "bullish",
       "note": "20-day annualized volatility — calm conditions."
     },
     {
       "id": "curve",
       "label": "Yield Curve (10Y–2Y)",
-      "value": "+0.32 pp",
+      "value": "+0.31 pp",
       "signal": "bullish",
       "note": "Normal upward slope — no recession warning from the curve."
     },

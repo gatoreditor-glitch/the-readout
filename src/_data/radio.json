@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "date": "2026-10-24",
+      "title": "Calm on the Surface, Cooling Underneath",
+      "desc": "SPY drifted to $759.97 with momentum cooling to +2.8% -- 3 gauges bullish, 2 neutral, 1 red, and a market quiet enough to mistake for safe.",
+      "duration": "3:42",
+      "file": "/assets/audio/calm-surface-cooling-engine.mp3"
+    },
+    {
       "date": "2026-10-23",
       "title": "3.7% and Creeping: The Inflation Chart in One Look",
       "desc": "CPI has drifted from 2.9% to 3.7% in twelve months without a single spike -- the chart that argues against the Fed's settling thesis.",
@@ -100,5 +107,5 @@
     }
   ],
   "tagline": "Short audio briefings on markets, data, and the odds.",
-  "updated": "2026-10-23"
+  "updated": "2026-10-24"
 }
