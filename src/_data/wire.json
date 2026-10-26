@@ -1,132 +1,132 @@
 {
-  "updated": "2026-10-26T13:00:57.059Z",
+  "updated": "2026-10-26T16:21:58.108Z",
   "order": [
     "Finance"
   ],
   "groups": {
     "Finance": [
       {
-        "headline": "Meta announces $95 billion stock offering to fund AI expansion",
+        "headline": "Microsoft offers voluntary buyouts to 60,000 employees",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
-        "datetime": "2026-10-26T12:42:41.000Z"
+        "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+        "datetime": "2026-10-26T16:21:13.000Z"
       },
       {
-        "headline": "Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?",
+        "headline": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/26/brian-fitzpatrick-bob-harvie-pennsylvania-senate-election.html",
-        "datetime": "2026-10-26T12:33:16.000Z"
+        "url": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+        "datetime": "2026-10-26T16:17:23.000Z"
       },
       {
-        "headline": "Caregiving for adult relatives can cost thousands. AARP survey finds support could matter to midterm voters",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/26/family-caregiving-costs-2026-midterm-elections.html",
-        "datetime": "2026-10-26T12:15:01.000Z"
+        "headline": "Obesity drug developer Corxel to go public in US via SPAC deal",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/obesity-drug-developer-corxel-to-go-public-in-us-via-spac-deal-4973283",
+        "datetime": "2026-10-26T16:13:09.000Z"
       },
       {
-        "headline": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-        "datetime": "2026-10-26T12:14:55.000Z"
+        "headline": "Volkswagen considers using Chinese software for Europe, report says",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/volkswagen-considers-using-chinese-software-for-europe-report-says-4973202",
+        "datetime": "2026-10-26T16:12:40.000Z"
       },
       {
-        "headline": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-        "datetime": "2026-10-26T12:10:07.000Z"
+        "headline": "Anthropic’s IPO filing shows explosive growth, risks and staggering costs",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/anthropic-opens-books-on-ais-explosive-growth-and-staggering-costs-4972801",
+        "datetime": "2026-10-26T16:06:58.000Z"
       },
       {
-        "headline": "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may have the answer",
+        "headline": "NBA enters prediction markets with Kalshi, Polymarket partnerships",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/26/gpu-futures-ai-hedge-hyperbolic.html",
-        "datetime": "2026-10-26T12:08:13.000Z"
+        "url": "https://www.cnbc.com/2026/10/26/nba-kalshi-polymarket-prediction-markets.html",
+        "datetime": "2026-10-26T16:00:59.000Z"
       },
       {
-        "headline": "Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
-        "datetime": "2026-10-26T11:49:17.000Z"
+        "headline": "Barclays initiates Life Time at overweight on affluent member insulation; stock up",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/barclays-initiates-life-time-at-overweight-on-affluent-member-insulation-stock-up-4973270",
+        "datetime": "2026-10-26T15:58:36.000Z"
       },
       {
-        "headline": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
-        "datetime": "2026-10-26T11:47:00.000Z"
+        "headline": "U.S. stocks rise as Anthropic IPO filing boosts AI shares ahead of Fed decision",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-higher-after-bruising-tech-losses-fed-earnings-on-tap-4971325",
+        "datetime": "2026-10-26T15:56:35.000Z"
       },
       {
-        "headline": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
+        "headline": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit before midterm",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
-        "datetime": "2026-10-26T10:39:00.000Z"
+        "url": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
+        "datetime": "2026-10-26T15:55:37.000Z"
       },
       {
-        "headline": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-        "datetime": "2026-10-26T05:18:01.000Z"
+        "headline": "Norway stocks higher at close of trade; Oslo OBX up 0.94%",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-094-4973268",
+        "datetime": "2026-10-26T15:55:31.000Z"
       },
       {
-        "headline": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
-        "datetime": "2026-10-25T16:42:42.000Z"
+        "headline": "Israel stocks higher at close of trade; TA 35 up 1.99%",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-199-4973267",
+        "datetime": "2026-10-26T15:55:03.000Z"
       },
       {
-        "headline": "Why popular airplanes are getting scrapped years early",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
-        "datetime": "2026-10-24T15:18:30.000Z"
+        "headline": "Unconventional AI buys Israeli chip startup NeuReality to speed product development",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/unconventional-ai-buys-israelichip-startup-neureality-to-speed-product-development-4973194",
+        "datetime": "2026-10-26T15:54:39.000Z"
       }
     ]
   },
   "latest": [
     {
-      "headline": "Meta announces $95 billion stock offering to fund AI expansion",
+      "headline": "Microsoft offers voluntary buyouts to 60,000 employees",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
-      "datetime": "2026-10-26T12:42:41.000Z"
+      "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+      "datetime": "2026-10-26T16:21:13.000Z"
     },
     {
-      "headline": "Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?",
+      "headline": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/26/brian-fitzpatrick-bob-harvie-pennsylvania-senate-election.html",
-      "datetime": "2026-10-26T12:33:16.000Z"
+      "url": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
+      "datetime": "2026-10-26T16:17:23.000Z"
     },
     {
-      "headline": "Caregiving for adult relatives can cost thousands. AARP survey finds support could matter to midterm voters",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/26/family-caregiving-costs-2026-midterm-elections.html",
-      "datetime": "2026-10-26T12:15:01.000Z"
+      "headline": "Obesity drug developer Corxel to go public in US via SPAC deal",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/obesity-drug-developer-corxel-to-go-public-in-us-via-spac-deal-4973283",
+      "datetime": "2026-10-26T16:13:09.000Z"
     },
     {
-      "headline": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-      "datetime": "2026-10-26T12:14:55.000Z"
+      "headline": "Volkswagen considers using Chinese software for Europe, report says",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/volkswagen-considers-using-chinese-software-for-europe-report-says-4973202",
+      "datetime": "2026-10-26T16:12:40.000Z"
     },
     {
-      "headline": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-      "datetime": "2026-10-26T12:10:07.000Z"
+      "headline": "Anthropic’s IPO filing shows explosive growth, risks and staggering costs",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-opens-books-on-ais-explosive-growth-and-staggering-costs-4972801",
+      "datetime": "2026-10-26T16:06:58.000Z"
     },
     {
-      "headline": "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may have the answer",
+      "headline": "NBA enters prediction markets with Kalshi, Polymarket partnerships",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/26/gpu-futures-ai-hedge-hyperbolic.html",
-      "datetime": "2026-10-26T12:08:13.000Z"
+      "url": "https://www.cnbc.com/2026/10/26/nba-kalshi-polymarket-prediction-markets.html",
+      "datetime": "2026-10-26T16:00:59.000Z"
     },
     {
-      "headline": "Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
-      "datetime": "2026-10-26T11:49:17.000Z"
+      "headline": "Barclays initiates Life Time at overweight on affluent member insulation; stock up",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/barclays-initiates-life-time-at-overweight-on-affluent-member-insulation-stock-up-4973270",
+      "datetime": "2026-10-26T15:58:36.000Z"
     },
     {
-      "headline": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
-      "datetime": "2026-10-26T11:47:00.000Z"
+      "headline": "U.S. stocks rise as Anthropic IPO filing boosts AI shares ahead of Fed decision",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-higher-after-bruising-tech-losses-fed-earnings-on-tap-4971325",
+      "datetime": "2026-10-26T15:56:35.000Z"
     }
   ]
 }
