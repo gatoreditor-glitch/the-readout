@@ -16,7 +16,7 @@ Realized volatility is the market's pulse: not what traders expect to happen, bu
 
 ## What it measures
 
-The annualized standard deviation of the S&P 500's daily returns over the last 20 trading days -- about one calendar month. Annualizing just puts the number on the familiar yearly scale. On this dashboard:
+The annualized standard deviation of the S&P 500's daily returns over the last 20 trading days -- about one calendar month -- using the population standard deviation, since the gauge describes the full 20-day window rather than estimating from a sample. Annualizing just puts the number on the familiar yearly scale. On this dashboard:
 
 - **Bullish:** under 14%. Genuinely calm conditions.
 - **Bearish:** over 22%. Real stress -- the kind that forces selling.

@@ -69,6 +69,7 @@ try {
   const rets = [];
   for (let i = bars.length - 20; i < bars.length; i++) rets.push(Math.log(bars[i] / bars[i - 1]));
   const mean = rets.reduce((a, b) => a + b, 0) / rets.length;
+  // Population SD by design (divide by N, per Matt's 2026-10-26 ruling): the gauge describes the full 20-day window.
   const vol = Math.sqrt(rets.reduce((a, b) => a + (b - mean) ** 2, 0) / rets.length) * Math.sqrt(252) * 100;
 
   const above50 = last > ma50;
@@ -97,7 +98,7 @@ try {
     label: "Realized Volatility",
     value: `${vol.toFixed(1)}%`,
     signal: vol < 14 ? "bullish" : vol > 22 ? "bearish" : "neutral",
-    note: `20-day annualized volatility — ${vol < 14 ? "calm" : vol > 22 ? "elevated" : "normal"} conditions.`,
+    note: `20-day annualized volatility (population SD) — ${vol < 14 ? "calm" : vol > 22 ? "elevated" : "normal"} conditions.`,
   });
 } catch (e) {
   console.warn(`signals: price action failed (${e.message}), skipping`);
