@@ -3,7 +3,7 @@ title: "The Dashboard Didn't Move. Central-Bank Week Will."
 date: 2026-10-26
 section: markets
 author: Staff
-excerpt: "All six gauges held exactly where Sunday left them: SPY $759.97, momentum +2.8%, volatility 9.5%, CPI 3.7%. A frozen dashboard is not a calm market -- it is a market waiting, and the Fed and the ECB both meet this week."
+excerpt: "All six gauges froze into central-bank week -- SPY at $759.97 between its two trend lines, CPI at 3.7%, and a market priced for one outcome until the Fed or the ECB changes its mind."
 tags: articles
 layout: layouts/article.njk
 image: /assets/images/frozen-dashboard.jpg
