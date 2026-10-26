@@ -2,6 +2,13 @@
   "episodes": [
     {
       "date": "2026-10-26",
+      "title": "The Neocloud Cull Has Started -- and the Tape Is Naming Names",
+      "desc": "Musk says 200-plus neoclouds face 'guppy-level death,' CoreWeave and Nebius are sliding, and Verizon just signed a $2B-plus AI infrastructure deal with AWS. The cull has started: demand is real, and suppliers are being sorted.",
+      "duration": "3:42",
+      "file": "/assets/audio/neocloud-cull.mp3"
+    },
+    {
+      "date": "2026-10-26",
       "title": "Meta Just Answered the AI Funding Question -- With Your Shares",
       "desc": "Meta launched a $35B stock offering to fund its AI buildout, and the stock's round trip -- down on dilution, up on the plan -- answers the only question that matters now: not how much gets spent, but who pays for it.",
       "duration": "3:24",

@@ -1,132 +1,132 @@
 {
-  "updated": "2026-10-26T16:21:58.108Z",
+  "updated": "2026-10-26T19:21:59.820Z",
   "order": [
     "Finance"
   ],
   "groups": {
     "Finance": [
       {
-        "headline": "Microsoft offers voluntary buyouts to 60,000 employees",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-        "datetime": "2026-10-26T16:21:13.000Z"
+        "headline": "Fed hold expected this week as markets watch for December hike signals",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/fed-hold-expected-this-week-as-markets-watch-for-december-hike-signals-93CH-4973447",
+        "datetime": "2026-10-26T19:06:32.000Z"
+      },
+      {
+        "headline": "Aspen Neuroscience, Bambusa Therapeutics launch US IPOs as biotech boom rolls on",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/aspen-neuroscience-bambusa-therapeutics-launch-us-ipos-as-biotech-boom-rolls-on-4973446",
+        "datetime": "2026-10-26T19:06:31.000Z"
+      },
+      {
+        "headline": "Earnings week preview: Microsoft, Amazon, Intel and more report Oct 26–29",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/earnings-week-preview-microsoft-amazon-intel-and-more-report-oct-2629-93CH-4973444",
+        "datetime": "2026-10-26T19:05:41.000Z"
+      },
+      {
+        "headline": "Earnings preview: WELL, CDNS, NUE and PSA report after the close Oct. 26",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/earnings-preview-well-cdns-nue-and-psa-report-after-the-close-oct-26-93CH-4973441",
+        "datetime": "2026-10-26T19:01:17.000Z"
+      },
+      {
+        "headline": "Verizon earnings analysis: questions answered and next catalysts",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/verizon-earnings-analysis-questions-answered-and-next-catalysts-93CH-4973438",
+        "datetime": "2026-10-26T19:00:45.000Z"
+      },
+      {
+        "headline": "Factbox-Anthropic’s potential mega IPO joins ranks of world’s biggest listings",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/factboxanthropic-moves-closer-to-blockbuster-listing-with-us-ipo-filing-4972888",
+        "datetime": "2026-10-26T18:54:39.000Z"
       },
       {
         "headline": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-        "datetime": "2026-10-26T16:17:23.000Z"
+        "datetime": "2026-10-26T18:52:54.000Z"
       },
       {
-        "headline": "Obesity drug developer Corxel to go public in US via SPAC deal",
+        "headline": "Anthropic’s IPO: 7 risks investors should know before buying",
         "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/obesity-drug-developer-corxel-to-go-public-in-us-via-spac-deal-4973283",
-        "datetime": "2026-10-26T16:13:09.000Z"
+        "url": "https://www.investing.com/news/stock-market-news/anthropics-ipo-7-risks-investors-should-know-before-buying-4973433",
+        "datetime": "2026-10-26T18:51:45.000Z"
       },
       {
-        "headline": "Volkswagen considers using Chinese software for Europe, report says",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/volkswagen-considers-using-chinese-software-for-europe-report-says-4973202",
-        "datetime": "2026-10-26T16:12:40.000Z"
+        "headline": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html",
+        "datetime": "2026-10-26T18:51:23.000Z"
       },
       {
-        "headline": "Anthropic’s IPO filing shows explosive growth, risks and staggering costs",
+        "headline": "Apple responds to user reports of broken iPhone Duo screens on new foldable phone",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/26/apple-responds-to-user-reports-of-broken-iphone-duo-screens.html",
+        "datetime": "2026-10-26T18:43:25.000Z"
+      },
+      {
+        "headline": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
+        "datetime": "2026-10-26T18:37:01.000Z"
+      },
+      {
+        "headline": "Anthropic’s soaring sales, steep losses put AI frenzy to IPO test",
         "source": "Investing.com",
         "url": "https://www.investing.com/news/stock-market-news/anthropic-opens-books-on-ais-explosive-growth-and-staggering-costs-4972801",
-        "datetime": "2026-10-26T16:06:58.000Z"
-      },
-      {
-        "headline": "NBA enters prediction markets with Kalshi, Polymarket partnerships",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/26/nba-kalshi-polymarket-prediction-markets.html",
-        "datetime": "2026-10-26T16:00:59.000Z"
-      },
-      {
-        "headline": "Barclays initiates Life Time at overweight on affluent member insulation; stock up",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/barclays-initiates-life-time-at-overweight-on-affluent-member-insulation-stock-up-4973270",
-        "datetime": "2026-10-26T15:58:36.000Z"
-      },
-      {
-        "headline": "U.S. stocks rise as Anthropic IPO filing boosts AI shares ahead of Fed decision",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-higher-after-bruising-tech-losses-fed-earnings-on-tap-4971325",
-        "datetime": "2026-10-26T15:56:35.000Z"
-      },
-      {
-        "headline": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit before midterm",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
-        "datetime": "2026-10-26T15:55:37.000Z"
-      },
-      {
-        "headline": "Norway stocks higher at close of trade; Oslo OBX up 0.94%",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-094-4973268",
-        "datetime": "2026-10-26T15:55:31.000Z"
-      },
-      {
-        "headline": "Israel stocks higher at close of trade; TA 35 up 1.99%",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-199-4973267",
-        "datetime": "2026-10-26T15:55:03.000Z"
-      },
-      {
-        "headline": "Unconventional AI buys Israeli chip startup NeuReality to speed product development",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/unconventional-ai-buys-israelichip-startup-neureality-to-speed-product-development-4973194",
-        "datetime": "2026-10-26T15:54:39.000Z"
+        "datetime": "2026-10-26T18:36:25.000Z"
       }
     ]
   },
   "latest": [
     {
-      "headline": "Microsoft offers voluntary buyouts to 60,000 employees",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-      "datetime": "2026-10-26T16:21:13.000Z"
+      "headline": "Fed hold expected this week as markets watch for December hike signals",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/fed-hold-expected-this-week-as-markets-watch-for-december-hike-signals-93CH-4973447",
+      "datetime": "2026-10-26T19:06:32.000Z"
+    },
+    {
+      "headline": "Aspen Neuroscience, Bambusa Therapeutics launch US IPOs as biotech boom rolls on",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/aspen-neuroscience-bambusa-therapeutics-launch-us-ipos-as-biotech-boom-rolls-on-4973446",
+      "datetime": "2026-10-26T19:06:31.000Z"
+    },
+    {
+      "headline": "Earnings week preview: Microsoft, Amazon, Intel and more report Oct 26–29",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/earnings-week-preview-microsoft-amazon-intel-and-more-report-oct-2629-93CH-4973444",
+      "datetime": "2026-10-26T19:05:41.000Z"
+    },
+    {
+      "headline": "Earnings preview: WELL, CDNS, NUE and PSA report after the close Oct. 26",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/earnings-preview-well-cdns-nue-and-psa-report-after-the-close-oct-26-93CH-4973441",
+      "datetime": "2026-10-26T19:01:17.000Z"
+    },
+    {
+      "headline": "Verizon earnings analysis: questions answered and next catalysts",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/verizon-earnings-analysis-questions-answered-and-next-catalysts-93CH-4973438",
+      "datetime": "2026-10-26T19:00:45.000Z"
+    },
+    {
+      "headline": "Factbox-Anthropic’s potential mega IPO joins ranks of world’s biggest listings",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/factboxanthropic-moves-closer-to-blockbuster-listing-with-us-ipo-filing-4972888",
+      "datetime": "2026-10-26T18:54:39.000Z"
     },
     {
       "headline": "Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html",
-      "datetime": "2026-10-26T16:17:23.000Z"
+      "datetime": "2026-10-26T18:52:54.000Z"
     },
     {
-      "headline": "Obesity drug developer Corxel to go public in US via SPAC deal",
+      "headline": "Anthropic’s IPO: 7 risks investors should know before buying",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/obesity-drug-developer-corxel-to-go-public-in-us-via-spac-deal-4973283",
-      "datetime": "2026-10-26T16:13:09.000Z"
-    },
-    {
-      "headline": "Volkswagen considers using Chinese software for Europe, report says",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/volkswagen-considers-using-chinese-software-for-europe-report-says-4973202",
-      "datetime": "2026-10-26T16:12:40.000Z"
-    },
-    {
-      "headline": "Anthropic’s IPO filing shows explosive growth, risks and staggering costs",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/anthropic-opens-books-on-ais-explosive-growth-and-staggering-costs-4972801",
-      "datetime": "2026-10-26T16:06:58.000Z"
-    },
-    {
-      "headline": "NBA enters prediction markets with Kalshi, Polymarket partnerships",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/26/nba-kalshi-polymarket-prediction-markets.html",
-      "datetime": "2026-10-26T16:00:59.000Z"
-    },
-    {
-      "headline": "Barclays initiates Life Time at overweight on affluent member insulation; stock up",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/barclays-initiates-life-time-at-overweight-on-affluent-member-insulation-stock-up-4973270",
-      "datetime": "2026-10-26T15:58:36.000Z"
-    },
-    {
-      "headline": "U.S. stocks rise as Anthropic IPO filing boosts AI shares ahead of Fed decision",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-higher-after-bruising-tech-losses-fed-earnings-on-tap-4971325",
-      "datetime": "2026-10-26T15:56:35.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/anthropics-ipo-7-risks-investors-should-know-before-buying-4973433",
+      "datetime": "2026-10-26T18:51:45.000Z"
     }
   ]
 }
