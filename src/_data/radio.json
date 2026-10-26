@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "date": "2026-10-26",
+      "title": "The Dashboard Didn't Move. Central-Bank Week Will.",
+      "desc": "All six gauges held exactly where Sunday left them: SPY $759.97, momentum +2.8%, volatility 9.5%, CPI 3.7%. A frozen dashboard is not a calm market -- it is a market waiting, and the Fed and the ECB both meet this week.",
+      "duration": "3:44",
+      "file": "/assets/audio/frozen-dashboard-central-bank-week.mp3"
+    },
+    {
       "date": "2026-10-25",
       "title": "Two Exits at Once: Out of France, Out of AI, Into Switzerland",
       "desc": "France boards up its luxury stores while Swiss stocks outperform -- two rotations, one destination: somewhere quieter to stand.",
@@ -121,5 +128,5 @@
     }
   ],
   "tagline": "Short audio briefings on markets, data, and the odds.",
-  "updated": "2026-10-25"
+  "updated": "2026-10-26"
 }

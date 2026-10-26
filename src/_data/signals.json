@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T19:21:44.640Z",
+  "updated": "2026-10-26T13:01:55.993Z",
   "signals": [
     {
       "id": "trend",
@@ -20,7 +20,7 @@
       "label": "Realized Volatility",
       "value": "9.5%",
       "signal": "bullish",
-      "note": "20-day annualized volatility — calm conditions."
+      "note": "20-day annualized volatility (population SD) — calm conditions."
     },
     {
       "id": "curve",

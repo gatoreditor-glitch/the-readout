@@ -1,21 +1,69 @@
 {
-  "updated": "2026-10-25T19:21:37.175Z",
+  "updated": "2026-10-26T13:00:57.059Z",
   "order": [
     "Finance"
   ],
   "groups": {
     "Finance": [
       {
-        "headline": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+        "headline": "Meta announces $95 billion stock offering to fund AI expansion",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
-        "datetime": "2026-10-25T18:18:49.000Z"
+        "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+        "datetime": "2026-10-26T12:42:41.000Z"
       },
       {
-        "headline": "Oppenheimer sees web, commerce software Q3 backdrop improving, AI worries linger",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/oppenheimer-sees-web-commerce-software-q3-backdrop-improving-ai-worries-linger-4971234",
-        "datetime": "2026-10-25T17:48:15.000Z"
+        "headline": "Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/26/brian-fitzpatrick-bob-harvie-pennsylvania-senate-election.html",
+        "datetime": "2026-10-26T12:33:16.000Z"
+      },
+      {
+        "headline": "Caregiving for adult relatives can cost thousands. AARP survey finds support could matter to midterm voters",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/26/family-caregiving-costs-2026-midterm-elections.html",
+        "datetime": "2026-10-26T12:15:01.000Z"
+      },
+      {
+        "headline": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+        "datetime": "2026-10-26T12:14:55.000Z"
+      },
+      {
+        "headline": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+        "datetime": "2026-10-26T12:10:07.000Z"
+      },
+      {
+        "headline": "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may have the answer",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/26/gpu-futures-ai-hedge-hyperbolic.html",
+        "datetime": "2026-10-26T12:08:13.000Z"
+      },
+      {
+        "headline": "Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
+        "datetime": "2026-10-26T11:49:17.000Z"
+      },
+      {
+        "headline": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
+        "datetime": "2026-10-26T11:47:00.000Z"
+      },
+      {
+        "headline": "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
+        "datetime": "2026-10-26T10:39:00.000Z"
+      },
+      {
+        "headline": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+        "datetime": "2026-10-26T05:18:01.000Z"
       },
       {
         "headline": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
@@ -24,109 +72,61 @@
         "datetime": "2026-10-25T16:42:42.000Z"
       },
       {
-        "headline": "Audi defends decision to stand by Trump on $4 billion US factory in Georgia",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
-        "datetime": "2026-10-25T15:54:23.000Z"
-      },
-      {
-        "headline": "Does enough capital exist to finance everyone’s ambitious AI spending plans?",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/does-enough-capital-exist-to-finance-everyones-ambitious-ai-spending-plans-4971221",
-        "datetime": "2026-10-25T15:27:32.000Z"
-      },
-      {
-        "headline": "In pictures: Initially peaceful protests across France over inequality again descend into violence ",
+        "headline": "Why popular airplanes are getting scrapped years early",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
-        "datetime": "2026-10-25T14:14:23.000Z"
-      },
-      {
-        "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
-        "datetime": "2026-10-25T13:41:37.000Z"
-      },
-      {
-        "headline": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 2.65%",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-265-4971175",
-        "datetime": "2026-10-25T12:45:03.000Z"
-      },
-      {
-        "headline": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
-        "datetime": "2026-10-25T12:00:01.000Z"
-      },
-      {
-        "headline": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
-        "datetime": "2026-10-25T12:00:01.000Z"
-      },
-      {
-        "headline": "UBS may cut 12,000 Swiss jobs if capital rules tighten - report",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/ubs-may-cut-12000-swiss-jobs-if-capital-rules-tighten--report-4971117",
-        "datetime": "2026-10-25T10:45:31.000Z"
-      },
-      {
-        "headline": "Street Calls of the Week",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/street-calls-of-the-week-93CH-4970904",
-        "datetime": "2026-10-25T10:05:01.000Z"
+        "url": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+        "datetime": "2026-10-24T15:18:30.000Z"
       }
     ]
   },
   "latest": [
     {
-      "headline": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+      "headline": "Meta announces $95 billion stock offering to fund AI expansion",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
-      "datetime": "2026-10-25T18:18:49.000Z"
+      "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+      "datetime": "2026-10-26T12:42:41.000Z"
     },
     {
-      "headline": "Oppenheimer sees web, commerce software Q3 backdrop improving, AI worries linger",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/oppenheimer-sees-web-commerce-software-q3-backdrop-improving-ai-worries-linger-4971234",
-      "datetime": "2026-10-25T17:48:15.000Z"
-    },
-    {
-      "headline": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+      "headline": "Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
-      "datetime": "2026-10-25T16:42:42.000Z"
+      "url": "https://www.cnbc.com/2026/10/26/brian-fitzpatrick-bob-harvie-pennsylvania-senate-election.html",
+      "datetime": "2026-10-26T12:33:16.000Z"
     },
     {
-      "headline": "Audi defends decision to stand by Trump on $4 billion US factory in Georgia",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/trump-set-to-announce-plan-by-audi-to-build-us-factory-in-georgia-source-says-4970975",
-      "datetime": "2026-10-25T15:54:23.000Z"
-    },
-    {
-      "headline": "Does enough capital exist to finance everyone’s ambitious AI spending plans?",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/does-enough-capital-exist-to-finance-everyones-ambitious-ai-spending-plans-4971221",
-      "datetime": "2026-10-25T15:27:32.000Z"
-    },
-    {
-      "headline": "In pictures: Initially peaceful protests across France over inequality again descend into violence ",
+      "headline": "Caregiving for adult relatives can cost thousands. AARP survey finds support could matter to midterm voters",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
-      "datetime": "2026-10-25T14:14:23.000Z"
+      "url": "https://www.cnbc.com/2026/10/26/family-caregiving-costs-2026-midterm-elections.html",
+      "datetime": "2026-10-26T12:15:01.000Z"
     },
     {
-      "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+      "headline": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
-      "datetime": "2026-10-25T13:41:37.000Z"
+      "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+      "datetime": "2026-10-26T12:14:55.000Z"
     },
     {
-      "headline": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 2.65%",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-265-4971175",
-      "datetime": "2026-10-25T12:45:03.000Z"
+      "headline": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+      "datetime": "2026-10-26T12:10:07.000Z"
+    },
+    {
+      "headline": "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may have the answer",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/26/gpu-futures-ai-hedge-hyperbolic.html",
+      "datetime": "2026-10-26T12:08:13.000Z"
+    },
+    {
+      "headline": "Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
+      "datetime": "2026-10-26T11:49:17.000Z"
+    },
+    {
+      "headline": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
+      "datetime": "2026-10-26T11:47:00.000Z"
     }
   ]
 }
