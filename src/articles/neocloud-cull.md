@@ -3,7 +3,7 @@ title: "The Neocloud Cull Has Started -- and the Tape Is Naming Names"
 date: 2026-10-26
 section: markets
 author: Staff
-excerpt: "Musk says 200-plus neoclouds face 'guppy-level death,' CoreWeave and Nebius are sliding, and Verizon just signed a $2B-plus AI infrastructure deal with AWS. The cull has started: demand is real, and suppliers are being sorted."
+excerpt: "Musk says 200+ neoclouds face 'guppy-level death' while CoreWeave and Nebius slide -- and Verizon's $2B AWS deal shows the demand side is fine; it's the suppliers being sorted."
 tags: articles
 layout: layouts/article.njk
 image: /assets/images/neocloud-cull.jpg
