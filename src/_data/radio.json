@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "date": "2026-10-27",
+      "title": "Three Bullish, Two Neutral, One Bearish: The Tape Argues With Itself",
+      "desc": "Three gauges bullish, two neutral, one bearish -- SPY at $765.37, volatility calm at 9.6%, and CPI at 3.7% doing most of the work in a market arguing with itself.",
+      "duration": "3:45",
+      "file": "/assets/audio/three-bullish-two-neutral-one-bearish.mp3"
+    },
+    {
       "date": "2026-10-26",
       "title": "The Dashboard Didn't Move. Central-Bank Week Will.",
       "desc": "All six gauges froze into central-bank week -- SPY at $759.97 between its two trend lines, CPI at 3.7%, and a market priced for one outcome until the Fed or the ECB changes its mind.",
@@ -149,5 +156,5 @@
     }
   ],
   "tagline": "Short audio briefings on markets, data, and the odds.",
-  "updated": "2026-10-26"
+  "updated": "2026-10-27"
 }
