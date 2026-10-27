@@ -7,15 +7,15 @@ draft: true
 image_idea: Three factory conveyor belts carrying fewer boxes but each box stamped with a larger price tag
 ---
 
-Three companies raised their outlooks on Tuesday morning, and none of them did it by selling a lot more stuff. Coca-Cola hiked its earnings outlook even as it sees lackluster demand in North America. UPS raised its annual forecasts as higher-margin parcels drove a quarterly profit beat. PayPal raised its 2026 profit forecast as its turnaround gains traction.
+Three companies raised their outlooks on Tuesday morning, and none of them did it on a demand boom. Coca-Cola hiked its earnings outlook even as it sees lackluster demand in North America -- though globally it did sell more: unit case volume rose 5% for a second straight quarter, helped by demand outside North America. UPS raised its annual forecasts as higher-margin parcels drove a quarterly profit beat against expectations. PayPal raised its 2026 profit forecast as its turnaround gains traction.
 
 Read those three headlines together and a pattern appears: this earnings season is rewarding profit engineering over demand growth. Companies are not riding a boom. They are squeezing more profit out of the same -- or smaller -- base of business, through price, through mix, or through focus. The market, for now, is applauding the squeeze.
 
 ## Price, mix, and focus: three routes to the same raise
 
-Each raise took a different route, which is what makes the pattern worth noting rather than dismissing as one company's quirk. Coca-Cola's version is the price-and-portfolio route: if demand in a major market is lackluster and the outlook still rises, something other than volume is doing the lifting -- pricing, product mix, or cost control.
+Each raise took a different route, which is what makes the pattern worth noting rather than dismissing as one company's quirk. Coca-Cola's version is the price-and-portfolio route: if demand in a major market is lackluster and the outlook still rises, something other than volume is doing the lifting -- pricing, product mix, or cost control. North America volume was flat -- and even that comes with a qualifier: CFO John Murphy told CNBC the business would have reported volume growth there but for the timing of the Fourth of July holiday and a months-long shortage of Topo Chico, the sparkling water brand Coke owns.
 
-UPS took the mix route in plain sight. Its profit beat came from higher-margin parcels, and its forecast followed. That is a choice, not an accident: carrying fewer, more profitable shipments instead of chasing every box at any price. It is also a trade with a ceiling, because a parcel network can only tilt its mix so far before it starts shrinking the network itself.
+UPS took the mix route in plain sight. Its profit beat was a beat against expectations, not against last year: adjusted EPS of $1.69 topped the $1.63 analysts expected, but came in below $1.74 a year ago. And it did that on fewer boxes -- U.S. domestic average daily volume fell 3.3%, a deliberate pullback from Amazon volume, while higher-margin parcels did the lifting, and its forecast followed. That is a choice, not an accident: carrying fewer, more profitable shipments instead of chasing every box at any price. It is also a trade with a ceiling, because a parcel network can only tilt its mix so far before it starts shrinking the network itself.
 
 PayPal's version is the turnaround route: a forecast raise that signals a plan working rather than a market booming. Turnarounds earn raises by fixing what was broken -- costs, focus, execution -- and the market tends to reward the first few proofs generously, before asking whether growth can follow the repair.
 
