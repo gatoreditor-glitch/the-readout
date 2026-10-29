@@ -1,174 +1,195 @@
 {
-  "episodes": [
-    {
-      "date": "2026-10-27",
-      "title": "Three Raises, No Boom: Profits Are Outrunning Demand",
-      "desc": "Coca-Cola, UPS, and PayPal all raised outlooks without a demand boom -- price, mix, and turnaround instead -- and why a margin-led raise shouldn't get a growth multiple.",
-      "duration": "5:01",
-      "file": "/assets/audio/three-raises-no-boom.mp3"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "Nvidia Just Bought Into Its Biggest Customer. Read That Twice.",
-      "desc": "Nvidia is putting $3 billion into Meta's $37.5 billion raise -- the supplier writing a check back to its biggest customer, and what that circular capital means for the AI trade.",
-      "duration": "4:04",
-      "file": "/assets/audio/nvidia-buys-into-its-biggest-customer.mp3"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "Three Bullish, Two Neutral, One Bearish: The Tape Argues With Itself",
-      "desc": "Three gauges bullish, two neutral, one bearish -- SPY at $765.37, volatility calm at 9.6%, and CPI at 3.7% doing most of the work in a market arguing with itself.",
-      "duration": "3:45",
-      "file": "/assets/audio/three-bullish-two-neutral-one-bearish.mp3"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "The Dashboard Didn't Move. Central-Bank Week Will.",
-      "desc": "All six gauges froze into central-bank week -- SPY at $759.97 between its two trend lines, CPI at 3.7%, and a market priced for one outcome until the Fed or the ECB changes its mind.",
-      "duration": "3:42",
-      "file": "/assets/audio/frozen-dashboard-central-bank-week.mp3"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "The Neocloud Cull Has Started -- and the Tape Is Naming Names",
-      "desc": "Musk says 200+ neoclouds face 'guppy-level death' while CoreWeave and Nebius slide -- and Verizon's $2B AWS deal shows the demand side is fine; it's the suppliers being sorted.",
-      "duration": "3:42",
-      "file": "/assets/audio/neocloud-cull.mp3"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "Meta Just Answered the AI Funding Question -- With Your Shares",
-      "desc": "Meta launched a $35B stock offering to fund its AI buildout, and the stock's round trip -- down on dilution, up on the plan -- answers the only question that matters now: not how much gets spent, but who pays for it.",
-      "duration": "3:24",
-      "file": "/assets/audio/meta-answers-ai-funding-question.mp3"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "The Dashboard Didn't Move. Central-Bank Week Will.",
-      "desc": "All six gauges held exactly where Sunday left them: SPY $759.97, momentum +2.8%, volatility 9.5%, CPI 3.7%. A frozen dashboard is not a calm market -- it is a market waiting, and the Fed and the ECB both meet this week.",
-      "duration": "3:44",
-      "file": "/assets/audio/frozen-dashboard-central-bank-week.mp3"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "Two Exits at Once: Out of France, Out of AI, Into Switzerland",
-      "desc": "France boards up its luxury stores while Swiss stocks outperform -- two rotations, one destination: somewhere quieter to stand.",
-      "duration": "3:03",
-      "file": "/assets/audio/two-exits-france-switzerland.mp3"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "Nvidia's Real AI Bet Isn't Chips. It's Credit.",
-      "desc": "Nvidia isn't just selling the AI buildout, it's financing it -- $36B in neocloud backstops, $105B behind OpenAI's Ohio build, and CoreWeave credit trading at distress levels.",
-      "duration": "4:32",
-      "file": "/assets/audio/nvidia-credit-not-chips.mp3"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Calm on the Surface, Cooling Underneath",
-      "desc": "SPY drifted to $759.97 with momentum cooling to +2.8% -- 3 gauges bullish, 2 neutral, 1 red, and a market quiet enough to mistake for safe.",
-      "duration": "3:42",
-      "file": "/assets/audio/calm-surface-cooling-engine.mp3"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "3.7% and Creeping: The Inflation Chart in One Look",
-      "desc": "CPI has drifted from 2.9% to 3.7% in twelve months without a single spike -- the chart that argues against the Fed's settling thesis.",
-      "duration": "3:02",
-      "file": "/assets/audio/cpi-creep-data-brief.mp3"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "WTI Is Back Above $100. Here's What the Last Trip Cost Stocks.",
-      "desc": "WTI's sixth trip above $100 this year, up 88.6% since January -- and the 2022 tape, when sustained triple-digit oil overlapped a 14.9% S&P slide.",
-      "duration": "7:28",
-      "file": "/assets/audio/wti-above-100-second-trip.mp3"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "One Red Light in a Calm Cockpit",
-      "desc": "Five gauges calm, one red -- SPY slipped back below its 50-day while headlines rout the AI trade; the divergence between realized calm and headline fear is the story.",
-      "duration": "3:55",
-      "file": "/assets/audio/one-red-light-calm-cockpit.mp3"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Lockheed's 3% Pop Is Really Two Stories",
-      "desc": "Lockheed's 3% pop was a double beat plus a 10-year F-35 framework -- and the number that matters is the $292 billion backlog, up 27% in one quarter.",
-      "duration": "5:44",
-      "file": "/assets/audio/lockheed-two-stories.mp3"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Record Revenue, Vanishing Margins",
-      "desc": "P&G and American Airlines posted record demand and shrinking margins on the same morning -- the inflation squeeze shows up in earnings calls before it shows up in the CPI.",
-      "duration": "3:08",
-      "file": "/assets/audio/record-revenue-vanishing-margins.mp3"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "The $5 Cushion Holding Up a Bullish Dashboard",
-      "desc": "SPY sits $5.09 above its 50-day line -- a bullish dashboard resting on a two-thirds-of-one-percent cushion, with momentum nowhere in sight.",
-      "duration": "4:12",
-      "file": "/assets/audio/five-dollar-cushion.mp3"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "The 0.8-Point Drift Nobody's Talking About",
-      "desc": "CPI has drifted from 2.9% to 3.7% in thirteen months, in a straight line. The level isn't the story -- the direction is, and the October print decides it.",
-      "duration": "4:30",
-      "file": "/assets/audio/inflation-drift-data-brief.mp3"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "A Special Committee Is Not a Merger",
-      "desc": "SpaceX and Tesla formed special committees to explore a merger -- five headlines, zero terms. Why the systems read says watch the process, don't chase the pop.",
-      "duration": "3:54",
-      "file": "/assets/audio/special-committee-not-merger.mp3"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Four Green Lights, One Neutral, One Red",
-      "desc": "SPY holds above its 50-day line by a whisker -- four gauges bullish, one neutral, one red, and the October CPI print now decides what the green lights are worth.",
-      "duration": "3:04",
-      "file": "/assets/audio/five-green-lights.mp3"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "One-Tenth of One Percent: SPY Reclaims Its 50-Day Line on a Day Built to Break It",
-      "desc": "SPY reclaimed its 50-day average by 0.10% on a day oil topped $109 and tech lagged -- the reclaim, the Dow's leadership, and GM selling its beat.",
-      "duration": "9:24",
-      "file": "/assets/audio/spy-reclaims-50day.mp3"
-    },
-    {
-      "date": "2026-10-19",
-      "title": "The Full Readout: A Market Arguing With Itself",
-      "desc": "The full regime deep dive: all six gauges, the base rates behind them, and the three things that would change the read.",
-      "duration": "8:22",
-      "file": "/assets/audio/market-regime-deep-dive.mp3"
-    },
-    {
-      "date": "2026-10-18",
-      "desc": "Trend neutral, volatility calm, inflation misbehaving \u2014 the market is arguing with itself.",
-      "duration": "0:33",
-      "file": "/assets/audio/ep03-signals-readout.mp3",
-      "title": "Market Briefing \u2014 October 18"
-    },
-    {
-      "date": "2026-10-18",
-      "desc": "Buying 10% corrections has worked 93% of the time since 2010. The numbers behind the database's best base rate.",
-      "duration": "0:25",
-      "file": "/assets/audio/ep02-base-rate-spotlight.mp3",
-      "title": "Base Rate Spotlight: The 10% Correction"
-    },
-    {
-      "date": "2026-10-18",
-      "desc": "What The Readout Radio is: short audio briefings on markets, data, and the odds \u2014 every fear has a base rate.",
-      "duration": "0:17",
-      "file": "/assets/audio/ep01-welcome.mp3",
-      "title": "Welcome to The Readout Radio"
-    }
-  ],
-  "tagline": "Short audio briefings on markets, data, and the odds.",
-  "updated": "2026-10-27"
+ "episodes": [
+  {
+   "date": "2026-10-29",
+   "title": "Price Up, Momentum Down: The Dashboard Just Split in a New Direction",
+   "desc": "SPY rose to $772.31 and its 50-day cushion widened to $4.31, but 63-day momentum cooled from +5.5% to +4.1% and flipped back to neutral -- why a rising price can carry falling momentum.",
+   "duration": "4:31",
+   "file": "/assets/audio/price-up-momentum-down.mp3"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "Alphabet's Miss Is the First Receipt for the AI-Eats-Search Fear",
+   "desc": "Alphabet's earnings miss, framed as the first real sign AI is taking a bite out of search -- and the three slower signals that will show whether the bite is deepening.",
+   "duration": "4:15",
+   "file": "/assets/audio/alphabet-search-bite.mp3"
+  },
+  {
+   "date": "2026-10-29",
+   "title": "Lagarde Is Leaving in February. The Calm Reaction Is the Interesting Part.",
+   "desc": "Christine Lagarde steps down in February and European shares inched up -- why the calm reaction is the data point, and why the succession, not the exit, is the trade.",
+   "duration": "4:19",
+   "file": "/assets/audio/lagarde-exit.mp3"
+  },
+  {
+   "date": "2026-10-27",
+   "title": "Three Raises, No Boom: Profits Are Outrunning Demand",
+   "desc": "Coca-Cola, UPS, and PayPal all raised outlooks without a demand boom -- price, mix, and turnaround instead -- and why a margin-led raise shouldn't get a growth multiple.",
+   "duration": "5:01",
+   "file": "/assets/audio/three-raises-no-boom.mp3"
+  },
+  {
+   "date": "2026-10-27",
+   "title": "Nvidia Just Bought Into Its Biggest Customer. Read That Twice.",
+   "desc": "Nvidia is putting $3 billion into Meta's $37.5 billion raise -- the supplier writing a check back to its biggest customer, and what that circular capital means for the AI trade.",
+   "duration": "4:04",
+   "file": "/assets/audio/nvidia-buys-into-its-biggest-customer.mp3"
+  },
+  {
+   "date": "2026-10-27",
+   "title": "Three Bullish, Two Neutral, One Bearish: The Tape Argues With Itself",
+   "desc": "Three gauges bullish, two neutral, one bearish -- SPY at $765.37, volatility calm at 9.6%, and CPI at 3.7% doing most of the work in a market arguing with itself.",
+   "duration": "3:45",
+   "file": "/assets/audio/three-bullish-two-neutral-one-bearish.mp3"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "The Dashboard Didn't Move. Central-Bank Week Will.",
+   "desc": "All six gauges froze into central-bank week -- SPY at $759.97 between its two trend lines, CPI at 3.7%, and a market priced for one outcome until the Fed or the ECB changes its mind.",
+   "duration": "3:42",
+   "file": "/assets/audio/frozen-dashboard-central-bank-week.mp3"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "The Neocloud Cull Has Started -- and the Tape Is Naming Names",
+   "desc": "Musk says 200+ neoclouds face 'guppy-level death' while CoreWeave and Nebius slide -- and Verizon's $2B AWS deal shows the demand side is fine; it's the suppliers being sorted.",
+   "duration": "3:42",
+   "file": "/assets/audio/neocloud-cull.mp3"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "Meta Just Answered the AI Funding Question -- With Your Shares",
+   "desc": "Meta launched a $35B stock offering to fund its AI buildout, and the stock's round trip -- down on dilution, up on the plan -- answers the only question that matters now: not how much gets spent, but who pays for it.",
+   "duration": "3:24",
+   "file": "/assets/audio/meta-answers-ai-funding-question.mp3"
+  },
+  {
+   "date": "2026-10-26",
+   "title": "The Dashboard Didn't Move. Central-Bank Week Will.",
+   "desc": "All six gauges held exactly where Sunday left them: SPY $759.97, momentum +2.8%, volatility 9.5%, CPI 3.7%. A frozen dashboard is not a calm market -- it is a market waiting, and the Fed and the ECB both meet this week.",
+   "duration": "3:44",
+   "file": "/assets/audio/frozen-dashboard-central-bank-week.mp3"
+  },
+  {
+   "date": "2026-10-25",
+   "title": "Two Exits at Once: Out of France, Out of AI, Into Switzerland",
+   "desc": "France boards up its luxury stores while Swiss stocks outperform -- two rotations, one destination: somewhere quieter to stand.",
+   "duration": "3:03",
+   "file": "/assets/audio/two-exits-france-switzerland.mp3"
+  },
+  {
+   "date": "2026-10-25",
+   "title": "Nvidia's Real AI Bet Isn't Chips. It's Credit.",
+   "desc": "Nvidia isn't just selling the AI buildout, it's financing it -- $36B in neocloud backstops, $105B behind OpenAI's Ohio build, and CoreWeave credit trading at distress levels.",
+   "duration": "4:32",
+   "file": "/assets/audio/nvidia-credit-not-chips.mp3"
+  },
+  {
+   "date": "2026-10-24",
+   "title": "Calm on the Surface, Cooling Underneath",
+   "desc": "SPY drifted to $759.97 with momentum cooling to +2.8% -- 3 gauges bullish, 2 neutral, 1 red, and a market quiet enough to mistake for safe.",
+   "duration": "3:42",
+   "file": "/assets/audio/calm-surface-cooling-engine.mp3"
+  },
+  {
+   "date": "2026-10-23",
+   "title": "3.7% and Creeping: The Inflation Chart in One Look",
+   "desc": "CPI has drifted from 2.9% to 3.7% in twelve months without a single spike -- the chart that argues against the Fed's settling thesis.",
+   "duration": "3:02",
+   "file": "/assets/audio/cpi-creep-data-brief.mp3"
+  },
+  {
+   "date": "2026-10-23",
+   "title": "WTI Is Back Above $100. Here's What the Last Trip Cost Stocks.",
+   "desc": "WTI's sixth trip above $100 this year, up 88.6% since January -- and the 2022 tape, when sustained triple-digit oil overlapped a 14.9% S&P slide.",
+   "duration": "7:28",
+   "file": "/assets/audio/wti-above-100-second-trip.mp3"
+  },
+  {
+   "date": "2026-10-23",
+   "title": "One Red Light in a Calm Cockpit",
+   "desc": "Five gauges calm, one red -- SPY slipped back below its 50-day while headlines rout the AI trade; the divergence between realized calm and headline fear is the story.",
+   "duration": "3:55",
+   "file": "/assets/audio/one-red-light-calm-cockpit.mp3"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Lockheed's 3% Pop Is Really Two Stories",
+   "desc": "Lockheed's 3% pop was a double beat plus a 10-year F-35 framework -- and the number that matters is the $292 billion backlog, up 27% in one quarter.",
+   "duration": "5:44",
+   "file": "/assets/audio/lockheed-two-stories.mp3"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "Record Revenue, Vanishing Margins",
+   "desc": "P&G and American Airlines posted record demand and shrinking margins on the same morning -- the inflation squeeze shows up in earnings calls before it shows up in the CPI.",
+   "duration": "3:08",
+   "file": "/assets/audio/record-revenue-vanishing-margins.mp3"
+  },
+  {
+   "date": "2026-10-22",
+   "title": "The $5 Cushion Holding Up a Bullish Dashboard",
+   "desc": "SPY sits $5.09 above its 50-day line -- a bullish dashboard resting on a two-thirds-of-one-percent cushion, with momentum nowhere in sight.",
+   "duration": "4:12",
+   "file": "/assets/audio/five-dollar-cushion.mp3"
+  },
+  {
+   "date": "2026-10-21",
+   "title": "The 0.8-Point Drift Nobody's Talking About",
+   "desc": "CPI has drifted from 2.9% to 3.7% in thirteen months, in a straight line. The level isn't the story -- the direction is, and the October print decides it.",
+   "duration": "4:30",
+   "file": "/assets/audio/inflation-drift-data-brief.mp3"
+  },
+  {
+   "date": "2026-10-21",
+   "title": "A Special Committee Is Not a Merger",
+   "desc": "SpaceX and Tesla formed special committees to explore a merger -- five headlines, zero terms. Why the systems read says watch the process, don't chase the pop.",
+   "duration": "3:54",
+   "file": "/assets/audio/special-committee-not-merger.mp3"
+  },
+  {
+   "date": "2026-10-21",
+   "title": "Four Green Lights, One Neutral, One Red",
+   "desc": "SPY holds above its 50-day line by a whisker -- four gauges bullish, one neutral, one red, and the October CPI print now decides what the green lights are worth.",
+   "duration": "3:04",
+   "file": "/assets/audio/five-green-lights.mp3"
+  },
+  {
+   "date": "2026-10-20",
+   "title": "One-Tenth of One Percent: SPY Reclaims Its 50-Day Line on a Day Built to Break It",
+   "desc": "SPY reclaimed its 50-day average by 0.10% on a day oil topped $109 and tech lagged -- the reclaim, the Dow's leadership, and GM selling its beat.",
+   "duration": "9:24",
+   "file": "/assets/audio/spy-reclaims-50day.mp3"
+  },
+  {
+   "date": "2026-10-19",
+   "title": "The Full Readout: A Market Arguing With Itself",
+   "desc": "The full regime deep dive: all six gauges, the base rates behind them, and the three things that would change the read.",
+   "duration": "8:22",
+   "file": "/assets/audio/market-regime-deep-dive.mp3"
+  },
+  {
+   "date": "2026-10-18",
+   "desc": "Trend neutral, volatility calm, inflation misbehaving \u2014 the market is arguing with itself.",
+   "duration": "0:33",
+   "file": "/assets/audio/ep03-signals-readout.mp3",
+   "title": "Market Briefing \u2014 October 18"
+  },
+  {
+   "date": "2026-10-18",
+   "desc": "Buying 10% corrections has worked 93% of the time since 2010. The numbers behind the database's best base rate.",
+   "duration": "0:25",
+   "file": "/assets/audio/ep02-base-rate-spotlight.mp3",
+   "title": "Base Rate Spotlight: The 10% Correction"
+  },
+  {
+   "date": "2026-10-18",
+   "desc": "What The Readout Radio is: short audio briefings on markets, data, and the odds \u2014 every fear has a base rate.",
+   "duration": "0:17",
+   "file": "/assets/audio/ep01-welcome.mp3",
+   "title": "Welcome to The Readout Radio"
+  }
+ ],
+ "tagline": "Short audio briefings on markets, data, and the odds.",
+ "updated": "2026-10-27"
 }
