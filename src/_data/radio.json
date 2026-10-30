@@ -1,6 +1,27 @@
 {
  "episodes": [
   {
+   "date": "2026-10-30",
+   "title": "One Dollar and Thirty-Six Cents: The Uptrend's Thinning Cushion",
+   "desc": "SPY closed at $769.36, just $1.36 -- about 0.18% -- above its $768 50-day average. The uptrend is intact, but the cushion underneath it has thinned to almost nothing.",
+   "duration": "4:40",
+   "file": "/assets/audio/thin-cushion.mp3"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "The 96% Trade: What Wall Street Has Already Priced Into Tuesday",
+   "desc": "Wall Street is not waiting for Tuesday: investors are pricing a Democratic blue wave after two years of full Republican control -- what the 96% trade says about markets before a single vote is counted.",
+   "duration": "4:39",
+   "file": "/assets/audio/midterms-96-percent.mp3"
+  },
+  {
+   "date": "2026-10-30",
+   "title": "The Refiners' War Dividend: Exxon and Chevron's Beat Is a Diesel Story",
+   "desc": "Exxon and Chevron both beat this morning, but read the numbers and it is not an oil story -- it is a refining story, and more specific still, a diesel story.",
+   "duration": "4:38",
+   "file": "/assets/audio/refiners-war-dividend.mp3"
+  },
+  {
    "date": "2026-10-29",
    "title": "Price Up, Momentum Down: The Dashboard Just Split in a New Direction",
    "desc": "SPY rose to $772.31 and its 50-day cushion widened to $4.31, but 63-day momentum cooled from +5.5% to +4.1% and flipped back to neutral -- why a rising price can carry falling momentum.",
