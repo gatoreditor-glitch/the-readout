@@ -1,132 +1,132 @@
 {
-  "updated": "2026-10-27T23:23:11.921Z",
+  "updated": "2026-10-31T00:07:51.683Z",
   "order": [
     "Finance"
   ],
   "groups": {
     "Finance": [
       {
-        "headline": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+        "headline": "Alaska Air to cut 200 jobs as fuel costs threaten $700 million annual loss",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/alaska-air-to-cut-200-jobs-as-fuel-costs-threaten-700-million-annual-loss-4988943",
+        "datetime": "2026-10-31T03:54:23.000Z"
+      },
+      {
+        "headline": "S&P Global revises Meta’s outlook to ’negative’ on AI spending, cash flow worries",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/sp-global-revises-outlook-on-meta-to-negative-on-cashflow-concerns-4988756",
+        "datetime": "2026-10-31T03:30:24.000Z"
+      },
+      {
+        "headline": "McDonald’s must face lawsuit over McRib, US judge rules",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/mcdonalds-must-face-lawsuit-overmcrib-us-judge-rules-4988646",
+        "datetime": "2026-10-31T03:06:18.000Z"
+      },
+      {
+        "headline": "Mizuho favors these U.S. restaurant stocks ahead of earnings",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/mizuho-favors-these-us-restaurant-stocks-ahead-of-earnings-4988863",
+        "datetime": "2026-10-31T02:34:08.000Z"
+      },
+      {
+        "headline": "Fitch revises France’s outlook to ’negative’ on worsening debt dynamics",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/fitch-revises-frances-outlook-to-negative-on-worsening-debt-dynamics-4988846",
+        "datetime": "2026-10-31T02:24:18.000Z"
+      },
+      {
+        "headline": "Raizen shareholders approve out-of-court restructuring plan",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/raizen-shareholders-approve-outofcourt-restructuring-plan-93CH-4988828",
+        "datetime": "2026-10-31T02:08:32.000Z"
+      },
+      {
+        "headline": "Inovio Pharmaceuticals gets FDA approval for first product",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/inovio-pharmaceuticals-gets-fda-approval-for-first-product-93CH-4988824",
+        "datetime": "2026-10-31T02:01:26.000Z"
+      },
+      {
+        "headline": "Why is Inovio Pharmaceuticals stock surging today?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-inovio-pharmaceuticals-stock-surging-today-93CH-4988814",
+        "datetime": "2026-10-31T01:58:57.000Z"
+      },
+      {
+        "headline": "Why is Georgia Banking stock climbing today?",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/why-is-georgia-banking-stock-climbing-today-93CH-4988812",
+        "datetime": "2026-10-31T01:52:40.000Z"
+      },
+      {
+        "headline": "Google weighs cybersecurity role in Pentagon’s Golden Dome project - Bloomberg",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/google-weighs-cybersecurity-role-in-pentagons-golden-dome-project--bloomberg-4988811",
+        "datetime": "2026-10-31T01:50:59.000Z"
+      },
+      {
+        "headline": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
-        "datetime": "2026-10-27T23:03:09.000Z"
+        "url": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+        "datetime": "2026-10-30T22:57:55.000Z"
       },
       {
-        "headline": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
+        "headline": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
         "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
-        "datetime": "2026-10-27T23:02:41.000Z"
-      },
-      {
-        "headline": "Visa results beat estimates as resilient customers keep up spending",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/visa-quarterly-profit-rises-on-resilient-consumer-spending-4976822",
-        "datetime": "2026-10-27T22:54:38.000Z"
-      },
-      {
-        "headline": "Trump administration sued over rollback of corporate ownership reporting rules",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/trump-administration-sued-over-rollback-of-corporate-ownership-reporting-rules-4977180",
-        "datetime": "2026-10-27T22:42:20.000Z"
-      },
-      {
-        "headline": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’ ",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
-        "datetime": "2026-10-27T22:35:25.000Z"
-      },
-      {
-        "headline": "Walmart’s margins in Mexico tighten as costs outpace sales growth",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/walmarts-margins-in-mexico-tighten-as-costs-outpace-sales-growth-4977085",
-        "datetime": "2026-10-27T22:24:23.000Z"
-      },
-      {
-        "headline": "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/27/jim-cramer-ai-trade-financing-risks.html",
-        "datetime": "2026-10-27T22:24:19.000Z"
-      },
-      {
-        "headline": "TD Cowen keeps United, Delta top airline picks as fuel costs threaten earnings",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/td-cowen-keeps-united-delta-top-airline-picks-as-fuel-costs-threaten-earnings-4977155",
-        "datetime": "2026-10-27T22:20:26.000Z"
-      },
-      {
-        "headline": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html",
-        "datetime": "2026-10-27T22:18:59.000Z"
-      },
-      {
-        "headline": "Robinhood profit misses estimates as crypto trading slows",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/robinhood-quarterly-profit-falls-as-softer-crypto-activity-outweighs-robust-trading-4976781",
-        "datetime": "2026-10-27T22:00:24.000Z"
-      },
-      {
-        "headline": "Exclusive-JetBlue CEO says no creditor talks as bond selloff raises doubts about turnaround",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/exclusivejetblue-ceo-says-company-not-in-talks-with-its-creditors-4976528",
-        "datetime": "2026-10-27T21:42:52.000Z"
-      },
-      {
-        "headline": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.35%",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-035-4977075",
-        "datetime": "2026-10-27T21:30:04.000Z"
+        "url": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
+        "datetime": "2026-10-30T22:52:04.000Z"
       }
     ]
   },
   "latest": [
     {
-      "headline": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
-      "datetime": "2026-10-27T23:03:09.000Z"
-    },
-    {
-      "headline": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
-      "datetime": "2026-10-27T23:02:41.000Z"
-    },
-    {
-      "headline": "Visa results beat estimates as resilient customers keep up spending",
+      "headline": "Alaska Air to cut 200 jobs as fuel costs threaten $700 million annual loss",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/visa-quarterly-profit-rises-on-resilient-consumer-spending-4976822",
-      "datetime": "2026-10-27T22:54:38.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/alaska-air-to-cut-200-jobs-as-fuel-costs-threaten-700-million-annual-loss-4988943",
+      "datetime": "2026-10-31T03:54:23.000Z"
     },
     {
-      "headline": "Trump administration sued over rollback of corporate ownership reporting rules",
+      "headline": "S&P Global revises Meta’s outlook to ’negative’ on AI spending, cash flow worries",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/trump-administration-sued-over-rollback-of-corporate-ownership-reporting-rules-4977180",
-      "datetime": "2026-10-27T22:42:20.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/sp-global-revises-outlook-on-meta-to-negative-on-cashflow-concerns-4988756",
+      "datetime": "2026-10-31T03:30:24.000Z"
     },
     {
-      "headline": "Speaker Mike Johnson calls election-transfer concerns ‘absurd’ ",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html",
-      "datetime": "2026-10-27T22:35:25.000Z"
-    },
-    {
-      "headline": "Walmart’s margins in Mexico tighten as costs outpace sales growth",
+      "headline": "McDonald’s must face lawsuit over McRib, US judge rules",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/walmarts-margins-in-mexico-tighten-as-costs-outpace-sales-growth-4977085",
-      "datetime": "2026-10-27T22:24:23.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/mcdonalds-must-face-lawsuit-overmcrib-us-judge-rules-4988646",
+      "datetime": "2026-10-31T03:06:18.000Z"
     },
     {
-      "headline": "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/27/jim-cramer-ai-trade-financing-risks.html",
-      "datetime": "2026-10-27T22:24:19.000Z"
-    },
-    {
-      "headline": "TD Cowen keeps United, Delta top airline picks as fuel costs threaten earnings",
+      "headline": "Mizuho favors these U.S. restaurant stocks ahead of earnings",
       "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/td-cowen-keeps-united-delta-top-airline-picks-as-fuel-costs-threaten-earnings-4977155",
-      "datetime": "2026-10-27T22:20:26.000Z"
+      "url": "https://www.investing.com/news/stock-market-news/mizuho-favors-these-us-restaurant-stocks-ahead-of-earnings-4988863",
+      "datetime": "2026-10-31T02:34:08.000Z"
+    },
+    {
+      "headline": "Fitch revises France’s outlook to ’negative’ on worsening debt dynamics",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/fitch-revises-frances-outlook-to-negative-on-worsening-debt-dynamics-4988846",
+      "datetime": "2026-10-31T02:24:18.000Z"
+    },
+    {
+      "headline": "Raizen shareholders approve out-of-court restructuring plan",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/raizen-shareholders-approve-outofcourt-restructuring-plan-93CH-4988828",
+      "datetime": "2026-10-31T02:08:32.000Z"
+    },
+    {
+      "headline": "Inovio Pharmaceuticals gets FDA approval for first product",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/inovio-pharmaceuticals-gets-fda-approval-for-first-product-93CH-4988824",
+      "datetime": "2026-10-31T02:01:26.000Z"
+    },
+    {
+      "headline": "Why is Inovio Pharmaceuticals stock surging today?",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-inovio-pharmaceuticals-stock-surging-today-93CH-4988814",
+      "datetime": "2026-10-31T01:58:57.000Z"
     }
   ]
 }

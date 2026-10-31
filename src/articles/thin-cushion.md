@@ -3,7 +3,7 @@ title: "One Dollar and Thirty-Six Cents: The Uptrend's Thinning Cushion"
 date: 2026-10-30
 section: markets
 author: Staff
-excerpt: "SPY closed at $769.36, just $1.36 -- about 0.18% -- above its $768 50-day average. The uptrend is intact, but the cushion underneath it has thinned to almost nothing."
+excerpt: "SPY's cushion above its 50-day line shrank from $4.31 to $1.36 in a day, and momentum has cooled three straight sessions -- the uptrend is intact, but its margin for error isn't."
 tags: articles
 layout: layouts/article.njk
 image: /assets/images/thin-cushion.jpg

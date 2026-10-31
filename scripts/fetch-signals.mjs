@@ -81,9 +81,9 @@ try {
     signal: above50 && above200 ? "bullish" : !above50 && !above200 ? "bearish" : "neutral",
     note:
       above50 && above200
-        ? `Above 50-day ($${ma50.toFixed(0)}) and 200-day ($${ma200.toFixed(0)}) — uptrend intact.`
+        ? `Above 50-day ($${ma50.toFixed(2)}) and 200-day ($${ma200.toFixed(2)}) — uptrend intact.`
         : !above50 && !above200
-          ? `Below 50-day ($${ma50.toFixed(0)}) and 200-day ($${ma200.toFixed(0)}) — downtrend.`
+          ? `Below 50-day ($${ma50.toFixed(2)}) and 200-day ($${ma200.toFixed(2)}) — downtrend.`
           : `Mixed — ${above50 ? "above" : "below"} 50-day, ${above200 ? "above" : "below"} 200-day.`,
   });
   signals.push({
