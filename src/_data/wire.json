@@ -1,21 +1,39 @@
 {
-  "updated": "2026-10-31T21:23:15.565Z",
+  "updated": "2026-10-31T23:23:47.461Z",
   "order": [
     "Finance"
   ],
   "groups": {
     "Finance": [
       {
+        "headline": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
+        "datetime": "2026-10-31T23:00:35.000Z"
+      },
+      {
+        "headline": "Top takeaways from Bernstein’s annual Global Sportswear survey",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/top-takeaways-from-bernsteins-annual-global-sportswear-survey-4989345",
+        "datetime": "2026-10-31T22:57:05.000Z"
+      },
+      {
+        "headline": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+        "datetime": "2026-10-31T22:27:56.000Z"
+      },
+      {
+        "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+        "source": "Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989336",
+        "datetime": "2026-10-31T21:20:03.000Z"
+      },
+      {
         "headline": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
         "datetime": "2026-10-31T21:05:53.000Z"
-      },
-      {
-        "headline": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
-        "datetime": "2026-10-31T20:48:20.000Z"
       },
       {
         "headline": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
@@ -28,12 +46,6 @@
         "source": "CNBC",
         "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
         "datetime": "2026-10-31T19:56:23.000Z"
-      },
-      {
-        "headline": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-        "datetime": "2026-10-31T19:16:25.000Z"
       },
       {
         "headline": "Why the sell-off in French bonds is a warning for global governments",
@@ -64,33 +76,39 @@
         "source": "Investing.com",
         "url": "https://www.investing.com/news/stock-market-news/citi-explains-what-hawk-and-dove-really-mean-as-ecb-faces-leadership-change-4989285",
         "datetime": "2026-10-31T14:53:31.000Z"
-      },
-      {
-        "headline": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
-        "datetime": "2026-10-31T13:47:03.000Z"
-      },
-      {
-        "headline": "Russia extends diesel export ban through January, allows limited shipments",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/stock-market-news/russia-extends-diesel-export-ban-through-january-allows-limited-shipments-4989277",
-        "datetime": "2026-10-31T13:43:46.000Z"
       }
     ]
   },
   "latest": [
     {
+      "headline": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
+      "datetime": "2026-10-31T23:00:35.000Z"
+    },
+    {
+      "headline": "Top takeaways from Bernstein’s annual Global Sportswear survey",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/top-takeaways-from-bernsteins-annual-global-sportswear-survey-4989345",
+      "datetime": "2026-10-31T22:57:05.000Z"
+    },
+    {
+      "headline": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "datetime": "2026-10-31T22:27:56.000Z"
+    },
+    {
+      "headline": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+      "source": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4989336",
+      "datetime": "2026-10-31T21:20:03.000Z"
+    },
+    {
       "headline": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
       "datetime": "2026-10-31T21:05:53.000Z"
-    },
-    {
-      "headline": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
-      "datetime": "2026-10-31T20:48:20.000Z"
     },
     {
       "headline": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
@@ -105,28 +123,10 @@
       "datetime": "2026-10-31T19:56:23.000Z"
     },
     {
-      "headline": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-      "datetime": "2026-10-31T19:16:25.000Z"
-    },
-    {
       "headline": "Why the sell-off in French bonds is a warning for global governments",
       "source": "Investing.com",
       "url": "https://www.investing.com/news/stock-market-news/why-the-selloff-in-french-bonds-is-a-warning-for-global-governments-4989316",
       "datetime": "2026-10-31T18:53:38.000Z"
-    },
-    {
-      "headline": "Meta builds humanoid robot with China’s Fourier as home robot push expands: report",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306",
-      "datetime": "2026-10-31T17:29:26.000Z"
-    },
-    {
-      "headline": "Meta builds humanoid robot with Chinese startup Fourier, The Information says",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinese-startup-fourier-the-information-says-4989297",
-      "datetime": "2026-10-31T16:18:20.000Z"
     }
   ]
 }

@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-10-31",
+   "title": "Your Power Bill Is Now a Ballot Issue",
+   "desc": "Home electricity is up 10% since 2024 and $1.3 trillion in planned utility spending is headed for rate cases -- your power bill just became a ballot issue, and the post-election filings are the check.",
+   "duration": "4:21",
+   "file": "/assets/audio/power-bill-ballot-issue.mp3"
+  },
+  {
+   "date": "2026-10-31",
    "title": "The Bank That Called the Rout Just Called the Bottom",
    "desc": "Deutsche Bank downgraded tech on Oct 9 and nailed the rout -- now it's flipping to overweight with tech down 11% in three weeks, and the unresolved AI capex question is the reason to be careful.",
    "duration": "6:05",
@@ -219,10 +226,10 @@
   },
   {
    "date": "2026-10-18",
-   "desc": "Trend neutral, volatility calm, inflation misbehaving \u2014 the market is arguing with itself.",
+   "desc": "Trend neutral, volatility calm, inflation misbehaving — the market is arguing with itself.",
    "duration": "0:33",
    "file": "/assets/audio/ep03-signals-readout.mp3",
-   "title": "Market Briefing \u2014 October 18"
+   "title": "Market Briefing — October 18"
   },
   {
    "date": "2026-10-18",
@@ -233,7 +240,7 @@
   },
   {
    "date": "2026-10-18",
-   "desc": "What The Readout Radio is: short audio briefings on markets, data, and the odds \u2014 every fear has a base rate.",
+   "desc": "What The Readout Radio is: short audio briefings on markets, data, and the odds — every fear has a base rate.",
    "duration": "0:17",
    "file": "/assets/audio/ep01-welcome.mp3",
    "title": "Welcome to The Readout Radio"
