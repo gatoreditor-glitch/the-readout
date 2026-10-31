@@ -2,6 +2,13 @@
  "episodes": [
   {
    "date": "2026-10-31",
+   "title": "The Bank That Called the Rout Just Called the Bottom",
+   "desc": "Deutsche Bank downgraded tech on Oct 9 and nailed the rout -- now it's flipping to overweight with tech down 11% in three weeks, and the unresolved AI capex question is the reason to be careful.",
+   "duration": "6:05",
+   "file": "/assets/audio/bank-that-called-rout.mp3"
+  },
+  {
+   "date": "2026-10-31",
    "title": "The Cushion Broke: One Selloff Flipped Two Gauges",
    "desc": "Friday's selloff took SPY from $769.36 to $755.72 and flipped two gauges to neutral in one session -- but vol stayed calm at 11.3% and the 200-day near $728 is still the floor.",
    "duration": "4:15",
