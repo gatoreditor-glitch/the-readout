@@ -2,6 +2,13 @@
   "episodes": [
     {
       "date": "2026-11-01",
+      "title": "Binance Covered 90% of a $6.3 Billion Hack. The Other 10% Is the Story.",
+      "desc": "The $6.3 billion hack is 90% covered -- which leaves a $630 million gap, and neither wire report itemizes how it gets funded.",
+      "duration": "4:14",
+      "file": "/assets/audio/binance-ninety-percent.mp3"
+    },
+    {
+      "date": "2026-11-01",
       "title": "The October Flip Has Fully Unwound -- and the Dashboard Is Split Again",
       "desc": "The Oct 28 bullish flip is gone: the board is back to 3 bullish, 2 neutral, 1 bearish, momentum round-tripped from +5.5% to -0.3%, and the 200-day is the floor to watch.",
       "duration": "4:03",
