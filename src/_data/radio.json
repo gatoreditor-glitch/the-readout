@@ -2,6 +2,13 @@
   "episodes": [
     {
       "date": "2026-11-01",
+      "title": "Investors Are Rushing to Hedge Tech While the Tape Stays Calm. Both Can Be Right.",
+      "desc": "AI investors are rushing to hedge tech while realized vol sits at 11.3% -- protection is cheap when the tape is calm, and that is exactly why the rush may be arithmetic, not panic.",
+      "duration": "4:05",
+      "file": "/assets/audio/hedge-rush-calm-tape.mp3"
+    },
+    {
+      "date": "2026-11-01",
       "title": "Binance Covered 90% of a $6.3 Billion Hack. The Other 10% Is the Story.",
       "desc": "The $6.3 billion hack is 90% covered -- which leaves a $630 million gap, and neither wire report itemizes how it gets funded.",
       "duration": "4:14",
