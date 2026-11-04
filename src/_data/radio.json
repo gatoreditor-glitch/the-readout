@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "date": "2026-11-04",
+      "title": "Apple's New Problem Is Not Demand. It Is the Price of Memory.",
+      "desc": "Apple shares slid on higher memory costs -- not a demand problem, a cost shock, and the margin print next quarter matters more than unit sales.",
+      "duration": "3:35",
+      "file": "/assets/audio/apple-memory-cost-shock.mp3"
+    },
+    {
       "date": "2026-11-01",
       "title": "Investors Are Rushing to Hedge Tech While the Tape Stays Calm. Both Can Be Right.",
       "desc": "AI investors are rushing to hedge tech while realized vol sits at 11.3% -- protection is cheap when the tape is calm, and that is exactly why the rush may be arithmetic, not panic.",
@@ -268,5 +275,5 @@
     }
   ],
   "tagline": "Short audio briefings on markets, data, and the odds.",
-  "updated": "2026-11-01"
+  "updated": "2026-11-04"
 }
