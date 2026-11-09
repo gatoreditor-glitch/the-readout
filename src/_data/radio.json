@@ -2,6 +2,13 @@
   "episodes": [
     {
       "date": "2026-11-09",
+      "title": "The Yield Curve, Explained: What +0.38 Points Actually Tells You",
+      "desc": "The spread is +0.38 points -- the bond market is not flashing a recession warning, but with inflation at 3.7% it is not promising the Fed will help either.",
+      "duration": "3:44",
+      "file": "/assets/audio/yield-curve-explainer.mp3"
+    },
+    {
+      "date": "2026-11-09",
       "title": "Nvidia's Probe Is Not About a Relationship. It Is About Key-Man Risk at $4.5 Trillion.",
       "desc": "Shares fell about 6% premarket on a board probe into Jensen Huang -- the story is concentration: a $4.5 trillion valuation resting on one 63-year-old founder.",
       "duration": "4:14",
