@@ -1,6 +1,13 @@
 {
   "episodes": [
     {
+      "date": "2026-11-09",
+      "title": "The Dashboard Hasn't Moved in Three Days. The Risk Isn't on the Dashboard.",
+      "desc": "Three straight mornings, six identical readings -- the gauges measure weather, and today's risks (AI debt, neocloud credit, a probe at Nvidia) live in the wiring.",
+      "duration": "5:30",
+      "file": "/assets/audio/dashboard-calm-risk-off-dashboard.mp3"
+    },
+    {
       "date": "2026-11-04",
       "title": "Apple's New Problem Is Not Demand. It Is the Price of Memory.",
       "desc": "Apple shares slid on higher memory costs -- not a demand problem, a cost shock, and the margin print next quarter matters more than unit sales.",
@@ -275,5 +282,5 @@
     }
   ],
   "tagline": "Short audio briefings on markets, data, and the odds.",
-  "updated": "2026-11-04"
+  "updated": "2026-11-09"
 }
